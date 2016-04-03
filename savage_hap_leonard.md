@@ -21,7 +21,7 @@ You can easily find a reason for Hap and Leonard to arrive in Pinebox. They have
 
 As far as the timelines are concerned, do not sweat it. Hap and Leonard were very active in the late 80s but the latest novel, Honkytonk Samurai, is set in the 2010s or so (there is a reference to a character making a video using a tablet). Tecnology seldom plays a big factor in the Hap and Leonard oeuvre.
 
-Characters spotlights
+Character spotlights
 ---------------------
 
 * Hap Collins

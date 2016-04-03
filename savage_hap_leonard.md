@@ -43,6 +43,7 @@ Hap Collins
 * Natural marksman
 * Heroic
 * Drinks near beer (Sharps brand is typical)
+* Will not shoot an unarmed foe (minor pacfist?)
 
 Leonard Pine
 ------------
@@ -62,10 +63,14 @@ Booger
 ------
 * Describes himself as a mutt (from a racial/ethnic perspective)
 * Possible sociopath
+* Veteran
 * Crazy cheshire-cat like grin
 * Knows booby traps and can spot and disarm them
+* Can pick locks too
+* Very stealthy
 * Boxer's physique
 * Associate of Cason Stadler (Iraq war buddy?)
+* Will shoot an unarmed foe
 
 Vanilla Ride
 ------------

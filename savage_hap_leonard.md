@@ -32,6 +32,28 @@ Character spotlights
 * Veil
 * Vanilla Ride
 
+Hap Collins
+-----------
+-----------
+
+* Caucasian male, heterosexual
+* Leans to the left on the political spectrum 
+* Reads Doc Savage and Michael Moorcock
+* Dropped out of college to be drafted (Vietnam War) and then refused to serve and, as a result, went to prison as a protest.
+* Natural marksman
+* Heroic
+
+Leonard Pine
+------------
+------------
+* Black male, homosexual, openly gay but not flamboyant
+* Tends to vote Republican
+* Likes classic country music (e.g., Pasty Cline)
+* Vietnam war veteran (green beret)
+* Strong willed and tough
+* Loyal
+* Loves dogs
+
 
 
 

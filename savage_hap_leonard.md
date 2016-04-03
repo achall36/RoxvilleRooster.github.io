@@ -63,7 +63,7 @@ Booger
 * Crazy cheshire-cat like grin
 * Knows booby traps and can spot and disarm them
 * Boxer's physique
-* Associate of Cason Stadler
+* Associate of Cason Stadler (Iraq war buddy?)
 
 Vanilla Ride
 ------------

@@ -42,6 +42,7 @@ Hap Collins
 * Dropped out of college to be drafted (Vietnam War) and then refused to serve and, as a result, went to prison as a protest.
 * Natural marksman
 * Heroic
+* Drinks near beer (Sharps brand is typical)
 
 Leonard Pine
 ------------
@@ -52,7 +53,8 @@ Leonard Pine
 * Vietnam war veteran (green beret)
 * Strong willed and tough
 * Loyal
-* Loves dogs
+* Loves dogs and does not take kindly to folks who would abuse them
+* Loves vanilla cookies and Dr. Pepper
 
 
 Booger

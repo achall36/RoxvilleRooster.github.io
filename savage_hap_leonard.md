@@ -55,8 +55,32 @@ Leonard Pine
 * Loves dogs
 
 
+Booger
+------
+------
+* Describes himself as a mutt (from a racial/ethnic perspective)
+* Possible sociopath
+* Crazy cheshire-cat like grin
+* Knows booby traps and can spot and disarm them
+* Boxer's physique
+* Associate of Cason Stadler
+
+Vanilla Ride
+------------
+------------
+* Blonde female, very attractive, known to be interested in Hap
+* Assasin, very stealthy
 
 
+Cason Stadler
+-------------
+-------------
 
+* Caucasian male
+* Consider him a "player" with the ladies
+* Pulltizer prize nominated investigative journalist now works for the local paper
+* Iraq war veteran
+* Connections/contacts
+* Attractive and Charisma
 
 

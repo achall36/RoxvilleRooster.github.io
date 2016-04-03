@@ -18,7 +18,7 @@ Unlike the supernatureal horror in the ETU setting, the horror in the Hap and Le
 
 Hap and Leonard reside in the fictional town of LaBorde, Texas and that can easily be situated the fictitious university town of Pinebox. You can easily find a reason for Hap and Leonard to arrive in Pinebox. They have served as security guards at a chicken processing plant before, so maybe they can do a stint as campus police.
 
-As far as the timelines are concerned, do not sweat it. Hap and Leonard were very active in the late 80s but the latest novel, Honkytonk Samurai, is set in the 2010s or so (there is a reference to a character making a video using a tablet). Tecnology seldom plays a big factor in the Hap and Leonard oeuvre. I am not sure Joe Lansdale is too fussy when the stories are actually, as long as the vibe is right.
+As far as the timelines are concerned, do not sweat it. Hap and Leonard were very active in the late 80s but the latest novel, Honkytonk Samurai (2016), is set in the 2010s or so (there is a reference to a character making a video using a tablet). Technology seldom plays a big factor in the Hap and Leonard oeuvre and I do not think Joe Lansdale is too fussy when the stories take place on the calendar, as long as the vibe is right.
 
 Character spotlights
 ---------------------

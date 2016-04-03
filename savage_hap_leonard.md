@@ -24,14 +24,14 @@ As far as the timelines are concerned, do not sweat it. Hap and Leonard were ver
 Characters spotlights
 ---------------------
 
-Hap Collins
-Leonard Pine
-Brett Sawyer
-Marvin Hanson
-Jim Bob Luke
-Cason Stadler
-Veil
-Vanilla Ride
+* Hap Collins
+* Leonard Pine
+* Brett Sawyer
+* Marvin Hanson
+* Jim Bob Luke
+* Cason Stadler
+* Veil
+* Vanilla Ride
 
 
 

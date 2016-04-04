@@ -20,6 +20,8 @@ Hap and Leonard reside in the fictional town of LaBorde, Texas and that can easi
 
 As far as the timelines are concerned, do not sweat it. Hap and Leonard were very active in the late 80s but the latest novel, Honkytonk Samurai (2016), is set in the 2010s or so (there is a reference to a character making a video using a tablet). Technology seldom plays a big factor in the Hap and Leonard oeuvre and I do not think Joe Lansdale is too fussy when the stories take place on the calendar, as long as the vibe is right.
 
+![collins-pine](http://images.amcnetworks.com/sundancechannel.com/wp-content/uploads/2016/01/HAP-AND-LEONARD_hap-collins_james-purefoy_leonard-pine-michael-k-williams_01_1000x594.jpg)
+
 Character spotlights
 ---------------------
 * [Hap Collins](#hap-collins)
@@ -34,7 +36,6 @@ Character spotlights
 Hap Collins
 -----------
 -----------
-![Hap](https://pmctvline2.files.wordpress.com/2016/03/james-purefoy-hap-and-leonard.jpg?w=310)
 * Caucasian male, heterosexual
 * Leans to the left on the political spectrum 
 * Reads Doc Savage and Michael Moorcock
@@ -47,8 +48,6 @@ Hap Collins
 Leonard Pine
 ------------
 ------------
-![Leonard](http://www.slate.com/content/dam/slate/blogs/outward/2016/03/02/hap_and_leonard_s_jim_mickle_interviewed/sdc065_handls1_hapleonard_truck20735_x2.jpg.CROP.promo-xlarge2.jpg?w=320)
-
 * Black male, homosexual, openly gay but not flamboyant
 * Tends to vote Republican
 * Likes classic country music (e.g., Pasty Cline)

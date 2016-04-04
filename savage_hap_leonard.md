@@ -22,7 +22,7 @@ As far as the timelines are concerned, do not sweat it. Hap and Leonard were ver
 
 Character spotlights
 ---------------------
-* [Hap Collins](#Hap Collins)
+* [Hap Collins](#Hap-Collins)
 * Leonard Pine
 * Brett Sawyer
 * Marvin Hanson

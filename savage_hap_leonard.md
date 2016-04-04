@@ -47,6 +47,8 @@ Hap Collins
 Leonard Pine
 ------------
 ------------
+![Leonard](http://www.slate.com/content/dam/slate/blogs/outward/2016/03/02/hap_and_leonard_s_jim_mickle_interviewed/sdc065_handls1_hapleonard_truck20735_x2.jpg.CROP.promo-xlarge2.jpg?w=320)
+
 * Black male, homosexual, openly gay but not flamboyant
 * Tends to vote Republican
 * Likes classic country music (e.g., Pasty Cline)

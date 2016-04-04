@@ -36,7 +36,7 @@ Character spotlights
 Hap Collins
 -----------
 -----------
-* Caucasian male, heterosexual
+* Caucasian male
 * Leans to the left on the political spectrum 
 * Reads Doc Savage and Michael Moorcock
 * Dropped out of college to be drafted (Vietnam War) and then refused to serve and, as a result, went to prison as a protest.

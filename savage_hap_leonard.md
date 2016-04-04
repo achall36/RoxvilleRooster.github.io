@@ -12,18 +12,17 @@ When I came back to tabletop role-playing games in my early forties, I soon foun
 
 Savage Worlds and Joe Lansdale
 ------------------------------
-In 2015, Pinnacle Entertainment Group came out with the East Texas University setting, which is a mash up where Buffy the Vampire Slayer, Miskatonic University, and Blue Mountain State meet in Lansdale country. There is even a building named after Lansdale on the ETU campus. 
+In 2015, Pinnacle Entertainment Group came out with the East Texas University (ETU) setting, which is a mash up where Buffy the Vampire Slayer, Miskatonic University, and Blue Mountain State meet in Lansdale country. There is even a building named after Champion Joe on the ETU campus. 
 
-Unlike the supernatureal horror in the ETU setting, the horror in the Hap and Leonard books is muggle horror and it is efective because it is man-made, unnerving, mundane yet inhuman.  
+Unlike the supernatureal horror in the ETU setting, the horror in the Hap and Leonard books is visceral, earthly horror and it is efective because it is man-made, unnerving, mundane yet inhuman.  
 
-Hap and Leonard reside in the fictional town of LaBorde, Texas and that can easily be situated the fictitious university town of Pinebox. You can easily find a reason for Hap and Leonard to arrive in Pinebox. They have served as security guards at a chicken processing plant before, so maybe they can do a stint as campus police.
+Hap and Leonard reside in the fictional town of LaBorde, Texas and that can easily be situated close by the fictitious university town of Pinebox. You can easily find a reason for Hap and Leonard to visit Pinebox. They have served as security guards at a chicken processing plant before, so maybe they can do a stint as campus police.
 
 As far as the timelines are concerned, do not sweat it. Hap and Leonard were very active in the late 80s but the latest novel, Honkytonk Samurai (2016), is set in the 2010s or so (there is a reference to a character making a video using a tablet). Technology seldom plays a big factor in the Hap and Leonard oeuvre and I do not think Joe Lansdale is too fussy when the stories take place on the calendar, as long as the vibe is right.
 
 Character spotlights
 ---------------------
-
-* Hap Collins
+* [Hap Collins](#Hap Collins)
 * Leonard Pine
 * Brett Sawyer
 * Marvin Hanson
@@ -35,7 +34,6 @@ Character spotlights
 Hap Collins
 -----------
 -----------
-
 * Caucasian male, heterosexual
 * Leans to the left on the political spectrum 
 * Reads Doc Savage and Michael Moorcock
@@ -58,6 +56,27 @@ Leonard Pine
 * Loves vanilla cookies and Dr. Pepper
 
 
+
+
+Vanilla Ride
+------------
+------------
+* Blonde female, very attractive, known to be interested in Hap
+* Assasin, very stealthy
+* Expert shot
+* Very good driver
+
+
+Cason Stadler
+-------------
+-------------
+* Caucasian male
+* Consider him a "player" with the ladies
+* Pulltizer prize nominated investigative journalist now works for the local paper (in Camp Rapture)
+* Iraq war veteran
+* Connections/contacts
+* Handsome and persuasive
+
 Booger
 ------
 ------
@@ -71,23 +90,3 @@ Booger
 * Boxer's physique
 * Associate of Cason Stadler (Iraq war buddy?)
 * Will shoot an unarmed foe
-
-Vanilla Ride
-------------
-------------
-* Blonde female, very attractive, known to be interested in Hap
-* Assasin, very stealthy
-
-
-Cason Stadler
--------------
--------------
-
-* Caucasian male
-* Consider him a "player" with the ladies
-* Pulltizer prize nominated investigative journalist now works for the local paper
-* Iraq war veteran
-* Connections/contacts
-* Attractive and Charisma
-
-

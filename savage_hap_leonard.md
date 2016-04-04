@@ -1,3 +1,5 @@
+Savaging Lansdale's Hap and Leonard
+-----------------------------------
 Hap Collins and Leonard Pine are the main characters in series of novels and short stories by Joe R. Lansdale. In 2016, the Sundance network released a six-part TV series that covers the novel "Savage Season".
 
 The point of this page is to describe the characters from the stories for the Savage Worlds Role-Playing Game.

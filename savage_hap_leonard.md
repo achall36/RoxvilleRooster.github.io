@@ -34,7 +34,7 @@ Character spotlights
 Hap Collins
 -----------
 -----------
-[hap-purefoy]: https://pmctvline2.files.wordpress.com/2016/03/james-purefoy-hap-and-leonard.jpg?w=620 "James Purefox plays Hap"
+![id]: https://pmctvline2.files.wordpress.com/2016/03/james-purefoy-hap-and-leonard.jpg?w=620 "James Purefox plays Hap"
 * Caucasian male, heterosexual
 * Leans to the left on the political spectrum 
 * Reads Doc Savage and Michael Moorcock

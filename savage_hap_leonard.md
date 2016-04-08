@@ -69,10 +69,10 @@ Leonard Pine
 Brett Sawyer
 ------------
 ------------
-Ginger female, Hap's girlfriend
-Professional nurse (later private investigator)
-She's awesome
-Who I'd cast? Marg Helgenberger
+* Ginger female, Hap's girlfriend
+* Professional nurse (later private investigator)
+* She's awesome
+* Who would I cast as Brett? Marg Helgenberger.
 
 
 

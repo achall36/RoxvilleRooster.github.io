@@ -39,6 +39,8 @@ Character spotlights
 * Cason Stadler
 * Veil
 * Vanilla Ride
+* Booger
+* Charlie Blank
 
 Hap Collins
 -----------
@@ -57,13 +59,20 @@ Leonard Pine
 ------------
 * Black male, homosexual, openly gay but not flamboyant
 * Tends to vote Republican
-* Likes classic country music (e.g., Pasty Cline)
+* Likes classic country music (e.g., Hank Williams, Pasty Cline)
 * Vietnam war veteran (green beret)
 * Strong willed and tough
 * Loyal
 * Loves dogs and does not take kindly to folks who would abuse them
 * Loves vanilla cookies and Dr. Pepper
 
+Brett Sawyer
+------------
+------------
+Ginger female, Hap's girlfriend
+Professional nurse (later private investigator)
+She's awesome
+Who I'd cast? Marg Helgenberger
 
 
 
@@ -99,3 +108,13 @@ Booger
 * Boxer's physique
 * Associate of Cason Stadler (Iraq war buddy?)
 * Will shoot an unarmed foe
+
+
+Charlie Blank 
+-------------
+-------------
+Caucasian male cop
+Wears a porkpie hat and a K-Mart suit
+Works with Marvin Hanson and friendly with Hap and Leonard
+
+

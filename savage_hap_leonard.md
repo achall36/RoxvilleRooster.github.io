@@ -25,12 +25,14 @@ As far as the timelines are concerned, do not sweat it. Hap and Leonard were ver
 
 *   [Hap Collins](#hap-collins)
 *   [Leonard Pine](#leonard-pine)
-*   Brett Sawyer
-*   Marvin Hanson
-*   Jim Bob Luke
-*   Cason Stadler
-*   Veil
-*   Vanilla Ride
+*   Brett Sawyer (#brett-sawyer)
+*   [Marvin Hanson](#marvin-hanson)
+*   [Jim Bob Luke](#jim-bob-luke)
+*   [Cason Stadler] (#cason-stadler)
+*   [Veil] (#veil)
+*   [Vanilla Ride] (#vanilla-ride)
+*	[Booger] (#booger)
+*	[Charlie Blank] (#charlie-blank)
 
 ### Hap Collins
 * Caucasian male 
@@ -51,6 +53,16 @@ As far as the timelines are concerned, do not sweat it. Hap and Leonard were ver
 * Loyal to Hap
 * Loves dogs and does not take kindly to folks who would abuse them 
 * Loves vanilla cookies and Dr. Pepper                                          
+
+## Marvin Hanson
+* Former detective turned private investigator; later chief of police in LaBorde, Texas
+* Friend and patron to Hap and Leonard; has them do legwork for his cases
+* Wounded in the leg, is debilitated for a long time, eventually reovers but should be consdidered to have the lame hindrance
+* Dark-skinned black man
+* Troubled married life after her cheated on is wife
+* Is not intimidated by Leonard
+
+
 
 
 ### Vanilla Ride                                                          

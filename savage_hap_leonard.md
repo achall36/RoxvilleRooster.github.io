@@ -69,7 +69,7 @@ As far as the timelines are concerned, do not sweat it. Hap and Leonard were ver
 * Blonde female, very attractive, known to be interested in Hap
 * Assasin, very stealthy
 * Expert shot
-* Very good driver                                                                                                                                                                                                                                        
+* Very good driver                                                                                                                                                                                                                                     
 ### Cason Stadler                                                       * Caucasian male
 * Consider him a "player" with the ladies
 * Pulltizer prize nominated investigative journalist now works for the local paper (in Camp Rapture) 
@@ -90,3 +90,8 @@ As far as the timelines are concerned, do not sweat it. Hap and Leonard were ver
 ### Jim Bob Luke
 * Tough-as-nails private detective
 * Acts like a redneck and uses racial/ethnic slurs
+
+### Charlie Blank
+* Detective, worked with Hanson
+* Friend to Hap and Leonard
+* Work a porkpie hat and a K-Mart suit

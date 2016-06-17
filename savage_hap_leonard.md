@@ -43,7 +43,7 @@ As far as the timelines are concerned, do not sweat it. Hap and Leonard were ver
 * Heroic 
 * Drinks near beer (Sharps brand is typical) 
 * Will not shoot an unarmed foe (minor pacfist?)
-[!hap]
+![Hap]
 (http://images.amcnetworks.com/sundancechannel.com/wp-content/uploads/2016/01/HAP-AND-LEONARD_hap-collins_james-purefoy_02_700x384.jpg)
 
 ### Leonard Pine                                                          
@@ -56,7 +56,7 @@ As far as the timelines are concerned, do not sweat it. Hap and Leonard were ver
 * Loves dogs and does not take kindly to folks who would abuse them 
 * Loves vanilla cookies and Dr. Pepper       
 
-[!leonard]
+![Leonard]
 (http://images.amcnetworks.com/sundancechannel.com/wp-content/uploads/2016/03/Michael-Kenneth-Williams-Leonard-Pine-Hap-and-Leonard-101-700384.jpg)                                   
 
 ### Brett Sawyer
@@ -111,7 +111,7 @@ As far as the timelines are concerned, do not sweat it. Hap and Leonard were ver
 * Drives "the red bitch"
 * Known to raise pigs
 
-[!jim-bob]
+![JimBob]
 (http://files.list.co.uk/images/2014/06/09/cij-still-281-lst141322.jpg)
 
 ### Charlie Blank

@@ -43,6 +43,8 @@ As far as the timelines are concerned, do not sweat it. Hap and Leonard were ver
 * Heroic 
 * Drinks near beer (Sharps brand is typical) 
 * Will not shoot an unarmed foe (minor pacfist?)
+[!hap]
+(http://images.amcnetworks.com/sundancechannel.com/wp-content/uploads/2016/01/HAP-AND-LEONARD_hap-collins_james-purefoy_02_700x384.jpg)
 
 ### Leonard Pine                                                          
 * Black male, homosexual, openly gay but not flamboyant 
@@ -52,7 +54,19 @@ As far as the timelines are concerned, do not sweat it. Hap and Leonard were ver
 * Strong willed and tough 
 * Loyal to Hap
 * Loves dogs and does not take kindly to folks who would abuse them 
-* Loves vanilla cookies and Dr. Pepper                                          
+* Loves vanilla cookies and Dr. Pepper       
+
+[!leonard]
+(http://images.amcnetworks.com/sundancechannel.com/wp-content/uploads/2016/03/Michael-Kenneth-Williams-Leonard-Pine-Hap-and-Leonard-101-700384.jpg)                                   
+
+### Brett Sawyer
+* Ginger female, Hap's girlfriend
+* Professional nurse (later private investigator)
+* She's an awesome, strong female character
+* Her daughter (Tilly?) is a drug addict 
+* Who would I cast as Brett? Marg Helgenberger.
+
+
 
 ### Marvin Hanson
 * Former detective turned private investigator; later chief of police in LaBorde, Texas
@@ -96,6 +110,9 @@ As far as the timelines are concerned, do not sweat it. Hap and Leonard were ver
 * Experienced investigator with great instincts
 * Drives "the red bitch"
 * Known to raise pigs
+
+[!jim-bob]
+(http://files.list.co.uk/images/2014/06/09/cij-still-281-lst141322.jpg)
 
 ### Charlie Blank
 * Detective, worked with Hanson

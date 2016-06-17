@@ -54,7 +54,7 @@ As far as the timelines are concerned, do not sweat it. Hap and Leonard were ver
 * Loves dogs and does not take kindly to folks who would abuse them 
 * Loves vanilla cookies and Dr. Pepper                                          
 
-## Marvin Hanson
+### Marvin Hanson
 * Former detective turned private investigator; later chief of police in LaBorde, Texas
 * Friend and patron to Hap and Leonard; has them do legwork for his cases
 * Wounded in the leg, is debilitated for a long time, eventually reovers but should be consdidered to have the lame hindrance
@@ -66,15 +66,17 @@ As far as the timelines are concerned, do not sweat it. Hap and Leonard were ver
 
 
 ### Vanilla Ride                                                          
-* Blonde female, very attractive, known to be interested in Hap
+* Blonde female, very attractive
+* Known to be interested in Hap
 * Assasin, very stealthy
 * Expert shot
-* Very good driver                                                                                                                                                                                                                                     
+* Very good driver
+* Lethal customer                                                                                                                                                                                                                                     
 ### Cason Stadler                                                       * Caucasian male
 * Consider him a "player" with the ladies
 * Pulltizer prize nominated investigative journalist now works for the local paper (in Camp Rapture) 
 * Iraq war veteran 
-* Connections/contacts 
+* Leverages connections/contacts 
 * Handsome and persuasive                                                                                                                  
 ### Booger                                                        *   Describes himself as a mutt (from a racial/ethnic perspective)
 *   Possible sociopath
@@ -84,14 +86,18 @@ As far as the timelines are concerned, do not sweat it. Hap and Leonard were ver
 *   Can pick locks too
 *   Very stealthy
 *   Boxer's physique
-*  Associate of Cason Stadler (Iraq war buddy?)
+*   Associate of Cason Stadler (Iraq war buddy?)
 *   Will shoot an unarmed foe
 
 ### Jim Bob Luke
-* Tough-as-nails private detective
-* Acts like a redneck and uses racial/ethnic slurs
+* Tough-as-nails private detective; very capable in combat
+* Acts like a redneck and uses racial/ethnic slurs (calls Mexicans "Fritos"); is not racist, but cultivates a hick/redneck image
+* Has a network of connections
+* Experienced investigator with great instincts
+* Drives "the red bitch"
+* Known to raise pigs
 
 ### Charlie Blank
 * Detective, worked with Hanson
 * Friend to Hap and Leonard
-* Work a porkpie hat and a K-Mart suit
+* Wore a porkpie hat and a K-Mart suit

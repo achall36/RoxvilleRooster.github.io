@@ -1,4 +1,19 @@
-# Pulp game settings rules
+# Special rules for the pulp game
+
+
+
+## House rules
+### Success with a cost
+If you roll a 1 on your skill die but your wild die is successful, that is still considered a success, but there is a negative effect or compromise (e.g., your weapon becomes entangled in an enemy's armor). 
+The player can describe what the negative effect looks like. This is derived from Dungeon World mechanic.
+I also attribute the idea of applying this type of effect to Savage Worlds to Eric Lamoureux.
+
+### Athletics skill (Strength)
+Instead of having separate skills for Swimming and Climbing, we'll use Athletics and link it to the Strength attribute. 
+See the discussion on the [PEG forums](http://www.pegforum.com/viewtopic.php?t=21609).
+
+## Setting rules
+
 
 Download the [Daring Tales of Adventure: Pulp Rules](http://tripleacegames.com/Downloads/DaringTales/TAG31000A_PULP_RULES.pdf) from Triple Ace Games.
 
@@ -11,21 +26,7 @@ From the Savage Worlds Deluxe Explorer's Edition (p108), we'll also use the foll
 * Critical Failures
 * Fanatics
 
-
-# House rules
-## Success with a cost
-If you roll a 1 on your skill die but your wild die is successful, that is still considered a success, but there is a negative effect or compromise (e.g., your weapon becomes entangled in an enemy's armor). 
-The player can describe what the negative effect looks like. This is derived from Dungeon World mechanic.
-I also attribute the idea of applying this type of effect to Savage Worlds to Eric Lamoureux.
-
-## Athletics skill (Strength)
-Instead of having separate skills for Swimming and Climbing, we'll use Athletics and link it to the Strength attribute. 
-See the discussion on the [PEG forums](http://www.pegforum.com/viewtopic.php?t=21609).
-
-
-
-
-## Stunts (from Adamant Entertainment's "Thrilling Tales of Adventure")
+### Stunts (from Adamant Entertainment's "Thrilling Tales of Adventure")
 Any character who attempts a stunt
 action should be rewarded with a
 benny.
@@ -80,7 +81,7 @@ to the roll) may even result in the
 hero earning more than one benny,
 at the GM’s discretion.
 
-## Story Declarations (from Adamant Entertainment's "Thrilling Tales of Adventure")
+### Story Declarations (from Adamant Entertainment's "Thrilling Tales of Adventure")
 A player may spend a benny and
 declare certain details about the
 setting and the story. If the Game
@@ -129,7 +130,7 @@ the change doesn’t happen.
 
 
 
-## Mooks (from Adamant Entertainment's "Thrilling Tales of Adventure")
+### Mooks (from Adamant Entertainment's "Thrilling Tales of Adventure")
 Mooks are the level below Extras. Mooks
 are the faceless cannon-fodder who
 get thrown at the heroes in combat.
@@ -152,7 +153,7 @@ fight.
 Mooks will willingly lay down their
 lives for the main villain (see the SWDEE setting rule Fanaticism).
 
-## Defining Interests (from Reality Blurs' "Realms of Cthulhu")
+### Defining Interests (from Reality Blurs' "Realms of Cthulhu")
 In addition to skills and traits, every character has a number
 of interests and hobbies that may have nothing to do with their professional pursuits,
 or may, at best, complement them on occasion.
@@ -165,7 +166,7 @@ of the increase. A defining interest gives the character
 a base +1 to their Common Knowledge roll
 when the subject is called into question.
 
-### Sample Interests
+#### Sample Interests
 Culture: Anthropology, Archaeology, Astrology,
 Astronomy, Biology, Botany, City Knowledge
 (Specific), Chemistry, Classical Literature, Cooking,
@@ -194,10 +195,10 @@ general knowledge of a topic and is not as detailed
 as someone who takes a specific Knowledge skill.
 
 
-## New hindrances
+### New hindrances
 Manyh of the new hindrances from Adamant Entertainment's "Thrilling Tales of Adventure" are permitted. 
 
-### Cocky (Minor)
+#### Cocky (Minor)
 The character is a braggart, and
 must spend the first round of any
 combat announcing how great he
@@ -211,12 +212,12 @@ to a foe, but instead will always
 somehow leaves the foe the opportunity
 to escape.
 
-### Glass Jaw (Major)
+#### Glass Jaw (Major)
 You don’t handle physical pain
 and injury well and thus suffer a
 –2 penalty on all soak rolls.
 
-### Obligations (Minor/Major)
+#### Obligations (Minor/Major)
 The character has duties which
 demand a portion of their time
 and resources. This can range
@@ -246,7 +247,7 @@ in the character and is more
 likely to want to see them
 succeed.
 
-### Shellshock (Minor)
+#### Shellshock (Minor)
 The character recovers slowly
 from the shock and trauma of
 combat, whether due to a delicate
@@ -255,11 +256,11 @@ The Great War. The character
 suffers a -2 penalty to Spirit rolls
 to recover from being Shaken.
 
-## New Edges
+### New Edges
 Many of new edges from Adamant Entertainment's "Thrilling Tales of Adventure" are permitted.
 
 
-### Bring it on! (Combat)
+#### Bring it on! (Combat)
 Requirements: Seasoned, Fighting d10+
 
 The character is a master of defending
@@ -267,7 +268,7 @@ against multiple attackers.
 Opponents get no Gang Up
 bonus against this character.
 
-### Dirty Fighter (Combat)
+#### Dirty Fighter (Combat)
 Requirements: Seasoned
 
 The character will do anything
@@ -280,7 +281,7 @@ Savage Worlds section on
 combat), gaining a +2 bonus with
 them.
 
-### Gadget (Background)
+#### Gadget (Background)
 Requirements: Seasoned
 
 The character has the use of a
@@ -300,7 +301,7 @@ down-on-his-luck air circus pilot
 who finds a high-tech rocket
 pack.
 
-### Hall of Power (Social)
+#### Hall of Power (Social)
 Requirements: Veteran
 
 The character’s influence reaches
@@ -323,7 +324,7 @@ it for outlaw heroes like the Man
 of Mystery who operate with the
 tacit approval of the police, etc.
 
-### Just the Thing (Weird)
+#### Just the Thing (Weird)
 Requirements: Wild Card, Luck
 
 Once per session, the character
@@ -334,7 +335,7 @@ able to be carried on the character’s
 person, and the GM is the
 final arbiter of what can be found.
 
-### Photographic Memory (Background)
+#### Photographic Memory (Background)
 Requirements: Smarts d10+
 
 The character is able to remember

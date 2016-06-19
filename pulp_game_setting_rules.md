@@ -10,7 +10,6 @@ From the Savage Worlds Deluxe Explorer's Edition (p108), we'll also use the foll
 * Born a Hero
 * Critical Failures
 * Fanatics
-* Multiple Languages
 
 
 # House rules
@@ -173,24 +172,24 @@ Astronomy, Biology, Botany, City Knowledge
 Culture (Specific), Etiquette, Folklore, Forensics,
 Geology, Language (Specific), Knowledge (Specific),
 Natural History, Photography, Physics
+
 Craft: Art (Specific), Electrical Repair, Mechanical
 Repair
+
 Perform: Acting, Comedy, Dance, Disguise,
 Juggling, Instrument (Specific), Oratory, Puppetry,
 Singing
+
 Languages: It should be noted that languages
 fall under the category of defining interests. An
 investigator can automatically speak and (when
 appropriate) read and write his native tongue.
 Additional languages require the player to choose
 the Language interest.
-Notes
-This list is not exhaustive. Players are
-free to come up with additional items that fit their
-investigator, subject to their Keeper’s approval. No
-character may ever take Knowledge (Mythos) as
-a defining interest.
-Remember, a defining interest provides only a
+
+**Notes**
+You can come up with additional items that fit your PC, subject to the GM’s approval. 
+A defining interest provides only a
 general knowledge of a topic and is not as detailed
 as someone who takes a specific Knowledge skill.
 

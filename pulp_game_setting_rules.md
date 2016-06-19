@@ -16,7 +16,7 @@ From the Savage Worlds Deluxe Explorer's Edition (p108), we'll also use the foll
 ## Success with a cost
 If you roll a 1 on your skill die but your wild die is successful, that is still considered a success, but there is a negative effect or compromise (e.g., your weapon becomes entangled in an enemy's armor). 
 The player can describe what the negative effect looks like. This is derived from Dungeon World mechanic.
-I also attribute the idea of applying this concept to Eric Lamoureux.
+I also attribute the idea of applying this type of effect to Savage Worlds to Eric Lamoureux.
 
 ## Athletics skill (Strength)
 Instead of having separate skills for Swimming and Climbing, we'll use Athletics and link it to the Strength attribute. 

@@ -28,7 +28,7 @@ See the discussion on the [PEG forums](http://www.pegforum.com/viewtopic.php?t=2
 ## Stunts (from Adamant Entertainment's "Thrilling Tales of Adventure")
 Any character who attempts a stunt
 action should be rewarded with a
-bennie.
+benny.
 A stunt
 action is any action which
 is performed in a
@@ -77,7 +77,7 @@ action. Pulling off
 nearly impossible
 stunts (-6 or more
 to the roll) may even result in the
-hero earning more than one bennie,
+hero earning more than one benny,
 at the GM’s discretion.
 Why do the players need access to
 more bennies than normal? Read

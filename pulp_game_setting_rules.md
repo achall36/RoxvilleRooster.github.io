@@ -153,7 +153,7 @@ fight.
 Mooks will willingly lay down their
 lives for the main villain (see the SWDEE setting rule Fanaticism).
 
-## Defining Interests (from Realms of Cthulhu)
+## Defining Interests (from Reality Blurs' "Realms of Cthulhu")
 In addition to skills and traits, every character has a number
 of interests and hobbies that may have nothing to do with their professional pursuits,
 or may, at best, complement them on occasion.

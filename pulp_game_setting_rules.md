@@ -14,8 +14,8 @@ From the Savage Worlds Deluxe Explorer's Edition (p108), we'll also use the foll
 
 # House rules
 ## Success with a cost
-If you roll a 1 on your skill die but your wild die is successful, that is still considered a success, but there is a negative percussion or compromise (e.g., your weapon becomes entangled in an enemy's armor). 
-The player can narrative what the cost looks like. This is derived from Dungeon World mechanic.
+If you roll a 1 on your skill die but your wild die is successful, that is still considered a success, but there is a negative effect or compromise (e.g., your weapon becomes entangled in an enemy's armor). 
+The player can describe what the negative effect looks like. This is derived from Dungeon World mechanic.
 I also attribute the idea of applying this concept to Eric Lamoureux.
 
 ## Athletics skill (Strength)
@@ -187,15 +187,15 @@ appropriate) read and write his native tongue.
 Additional languages require the player to choose
 the Language interest.
 
-**Notes**
-You can come up with additional items that fit your PC, subject to the GM’s approval. 
+**Note:**
+ You can come up with additional items that fit your PC, subject to the GM’s approval. 
 A defining interest provides only a
 general knowledge of a topic and is not as detailed
 as someone who takes a specific Knowledge skill.
 
 
 ## New hindrances
-All the new hindrances from Adamant Entertainment's "Thrilling Tales of Adventure" are permitted.
+Manyh of the new hindrances from Adamant Entertainment's "Thrilling Tales of Adventure" are permitted. 
 
 ### Cocky (Minor)
 The character is a braggart, and
@@ -259,10 +259,9 @@ to recover from being Shaken.
 Many of new edges from Adamant Entertainment's "Thrilling Tales of Adventure" are permitted.
 
 
-### Bring it on!
-(Combat)
-Requirements: Seasoned, Fighting
-d10+
+### Bring it on! (Combat)
+Requirements: Seasoned, Fighting d10+
+
 The character is a master of defending
 against multiple attackers.
 Opponents get no Gang Up
@@ -270,6 +269,7 @@ bonus against this character.
 
 ### Dirty Fighter (Combat)
 Requirements: Seasoned
+
 The character will do anything
 it takes to win a fight. Note that
 this Edge is more appropriate for
@@ -280,24 +280,9 @@ Savage Worlds section on
 combat), gaining a +2 bonus with
 them.
 
-### Font of Information (Professional)
-Requirements: Seasoned, Smarts
-d8+
-The character has picked up many
-odd bits of information during
-his travels. The character may
-make a Common Knowledge
-roll at +2 to see whether he
-knows some relevant information
-about anything -- local notable
-people, legendary items, or
-noteworthy places --regardless of
-how specialized or obscure the
-knowledge.
-
-### Gadget
-(Background)
+### Gadget (Background)
 Requirements: Seasoned
+
 The character has the use of a
 single Weird Science device--as
 if they had access to the Arcane
@@ -317,6 +302,7 @@ pack.
 
 ### Hall of Power (Social)
 Requirements: Veteran
+
 The character’s influence reaches
 the highest levels of power. The
 character cannot be found guilty
@@ -339,6 +325,7 @@ tacit approval of the police, etc.
 
 ### Just the Thing (Weird)
 Requirements: Wild Card, Luck
+
 Once per session, the character
 may “suddenly remember” that
 he has a useful piece of gear on
@@ -349,21 +336,8 @@ final arbiter of what can be found.
 
 ### Photographic Memory (Background)
 Requirements: Smarts d10+
+
 The character is able to remember
 everything they see, hear or
 read, down to the tiniest detail.
 
-### Really Dirty Fighter (Combat)
-Requirements: Seasoned, Dirty Fighter
-An improved version of the the
-Dirty Fighter edge. The character
-is a master of dirty tricks -- by
-describing the trick and spending
-a Benny, the character can
-automatically get the Drop on
-any single opponent, allowing
-the character to be on Hold, and
-giving a +4 to attack and damage
-if they choose to strike. This
-Edge is more appropriate for
-villains than heroes.

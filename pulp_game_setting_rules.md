@@ -22,6 +22,21 @@ From the Savage Worlds Deluxe Explorer's Edition (p108), we'll also use the foll
 * Critical Failures
 * Fanatics
 
+### Knock-Out Blows
+*From PEG's Deadlands Noir*
+
+An unexpected chop from a pistol or blackjack is
+never a pleasant experience. When a character takes
+enough damage to be Shaken or worse from some
+goon who has The Drop on him (see Savage Worlds),
+he has to make a Vigor roll against the total damage
+or be knocked unconscious. If the hero Soaks all the
+wounds from the damage, he doesn’t have to worry
+about getting cold-cocked. A character who is knocked
+unconscious in this manner remains out for at least
+the remainder of the scene, or possibly longer if it’s dramatically appropriate. What happens during that
+time is up to the GM.
+
 ### Stunts 
 *From Adamant Entertainment's "Thrilling Tales of Adventure"*
 

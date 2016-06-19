@@ -1,6 +1,6 @@
 # Pulp game settings rules
 
-Download the [Daring Tales of Adventure : Pulp Rules](http://tripleacegames.com/Downloads/DaringTales/TAG31000A_PULP_RULES.pdf) from Triple Ace Games.
+Download the [Daring Tales of Adventure: Pulp Rules](http://tripleacegames.com/Downloads/DaringTales/TAG31000A_PULP_RULES.pdf) from Triple Ace Games.
 
 We'll be using these rules but we will make the following exceptions:
 * For Heroic Combat, we will ignore the Extras' Damage and Nonlethal rules. This will make the enemy extras more of a threat. 
@@ -16,7 +16,8 @@ From the Savage Worlds Deluxe Explorer's Edition (p108), we'll also use the foll
 # House rules
 ## Success with a cost
 If you roll a 1 on your skill die but your wild die is successful, that is still considered a success, but there is a negative percussion or compromise (e.g., your weapon becomes entangled in an enemy's armor). 
-The player can narrative what the cost looks like. This is derived from Dungeon World mechanic.\
+The player can narrative what the cost looks like. This is derived from Dungeon World mechanic.
+I also attribute the idea of applying this concept to Eric Lamoureux.
 
 ## Athletics skill (Strength)
 Instead of having separate skills for Swimming and Climbing, we'll use Athletics and link it to the Strength attribute. 
@@ -55,7 +56,7 @@ instead announced that the character
 had gotten there too late, and instead
 described the stunt action. In a way,
 the player is taking on the role of
-the Game Master
+the game master
 for a moment,
 changing the
 situation for his
@@ -69,7 +70,7 @@ should always
 require a roll,
 at a minimum
 -2 penalty. The
-Game Master is
+game master is
 the final arbiter of
 the roll penalty of
 a particular stunt
@@ -79,9 +80,6 @@ stunts (-6 or more
 to the roll) may even result in the
 hero earning more than one benny,
 at the GM’s discretion.
-Why do the players need access to
-more bennies than normal? Read
-on.
 
 ## Story Declarations (from Adamant Entertainment's "Thrilling Tales of Adventure")
 A player may spend a benny and
@@ -90,14 +88,14 @@ setting and the story. If the Game
 Master accepts it, it will be true. This
 gives the player the ability to direct
 small things in a story – usually
-something only the Game Master
+something only the game master
 can do.
 Declarations can’t be used to
 drastically change the plot or to
 win a conflict. Declaring “The
 Mob Enforcer drops dead of a heart
 attack” is not only likely to be
-rejected by the Game Master, but it
+rejected by the game master, but it
 wouldn’t even be that much fun to
 begin with.
 What this can be very useful for
@@ -143,29 +141,26 @@ one or more Mooks might get lucky
 and do some damage.
 Mooks are just like Extras, but with
 the following special rules:
-• Every Trait is average (d6).
-• They only possess four skills,
+* Every Trait is average (d6).
+* They only possess four skills,
 and each skill is rated at d6.
-• They have no edges and no
+* They have no edges and no
 hindrances.
-• Mooks are never Shaken.
+* Mooks are never Shaken.
 If you equal or exceed their
 Toughness, they’re out of the
 fight.
 Mooks will willingly lay down their
-lives for the main villain. To reflect
-this, any Mook within 1” of a villain
-becomes a pawn, sacrificing his life
-so his master can live (see the SWDEE setting rule Fanaticism).
+lives for the main villain (see the SWDEE setting rule Fanaticism).
 
 ## Defining Interests (from Realms of Cthulhu)
 In addition to skills and traits, every character has a number
 of interests and hobbies that may have nothing to do with their professional pursuits,
 or may, at best, complement them on occasion.
 Your character begins with a number of defining
-interests equal to half their Smarts die type. Any
+interests equal to half of her Smarts die type. Any
 permanent increase in a character's Smarts
-grants them the appropriate number of additional
+grants the appropriate number of additional
 defining interests that should be selected at the time
 of the increase. A defining interest gives the character
 a base +1 to their Common Knowledge roll
@@ -252,17 +247,6 @@ in the character and is more
 likely to want to see them
 succeed.
 
-### Savage (Major)
-The character is unfamiliar with
-the trappings of the modern
-world. The character receives
-a -2 penalty on all Common
-Knowledge rolls regarding the
-modern world, and on all rolls involving
-familiarity with modern
-technology (Driving, Piloting,
-etc.)
-
 ### Shellshock (Minor)
 The character recovers slowly
 from the shock and trauma of
@@ -276,19 +260,6 @@ to recover from being Shaken.
 Many of new edges from Adamant Entertainment's "Thrilling Tales of Adventure" are permitted.
 
 
-### Brilliant Scientist
-(Power)
-Requirements: Seasoned, Arcane
-Background (Weird Science), Smarts
-d8+, Repair d8+, Weird Science d8+
-The character is one of the
-brightest minds in his field. Each
-raise the character gets on his
-activation roll reduces the cost
-of the power by 1 Power Point.
-This edge applies to all inventions
-created by the character.
-
 ### Bring it on!
 (Combat)
 Requirements: Seasoned, Fighting
@@ -297,24 +268,6 @@ The character is a master of defending
 against multiple attackers.
 Opponents get no Gang Up
 bonus against this character.
-
-### Charmer
-(Social)
-Requirements: Attractive, Persuasion
-d8+
-The character is stunning, and
-knows how to get the best out
-of people by using his or her
-charms.
-This character may use Persuasion
-as a Test of Will against
-members of the opposite sex, pitting
-their looks and charm against
-a foe’s Smarts. The character can
-add Charisma bonuses to the roll
-as well. Note that this Edge is
-more appropriate for villains than
-heroes.
 
 ### Dirty Fighter (Combat)
 Requirements: Seasoned
@@ -342,19 +295,6 @@ people, legendary items, or
 noteworthy places --regardless of
 how specialized or obscure the
 knowledge.
-
-### Failsafe (Power)
-Requirements: Veteran, Arcane
-Background (Weird Science), Smarts
-d10+. Repair d10+. Weird Science
-d10+
-The character designs his inventions
-with failsafes to prevent
-malfunctions. The devices
-only ever fail on a critical
-failure. This edge applies
-to all inventions
-created by the character
 
 ### Gadget
 (Background)

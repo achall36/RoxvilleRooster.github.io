@@ -22,7 +22,9 @@ From the Savage Worlds Deluxe Explorer's Edition (p108), we'll also use the foll
 * Critical Failures
 * Fanatics
 
-### Stunts (from Adamant Entertainment's "Thrilling Tales of Adventure")
+### Stunts 
+*From Adamant Entertainment's "Thrilling Tales of Adventure"*
+
 Any character who attempts a stunt
 action should be rewarded with a
 benny.
@@ -77,7 +79,9 @@ to the roll) may even result in the
 hero earning more than one benny,
 at the GM’s discretion.
 
-### Story Declarations (from Adamant Entertainment's "Thrilling Tales of Adventure")
+### Story Declarations 
+*From Adamant Entertainment's "Thrilling Tales of Adventure"*
+
 A player may spend a benny and
 declare certain details about the
 setting and the story. If the Game
@@ -126,7 +130,9 @@ the change doesn’t happen.
 
 
 
-### Mooks (from Adamant Entertainment's "Thrilling Tales of Adventure")
+### Mooks
+*From Adamant Entertainment's "Thrilling Tales of Adventure"*
+
 Mooks are the level below Extras. Mooks
 are the faceless cannon-fodder who
 get thrown at the heroes in combat.
@@ -149,7 +155,9 @@ fight.
 Mooks will willingly lay down their
 lives for the main villain (see the SWDEE setting rule Fanaticism).
 
-### Defining Interests (from Reality Blurs' "Realms of Cthulhu")
+### Defining Interests
+*From Reality Blurs' "Realms of Cthulhu"*
+
 In addition to skills and traits, every character has a number
 of interests and hobbies that may have nothing to do with their professional pursuits,
 or may, at best, complement them on occasion.
@@ -192,7 +200,7 @@ as someone who takes a specific Knowledge skill.
 
 
 ### New hindrances
-Manyh of the new hindrances from Adamant Entertainment's "Thrilling Tales of Adventure" are permitted. 
+Many of the new hindrances introduced in Adamant Entertainment's "Thrilling Tales of Adventure" are permitted. 
 
 #### Cocky (Minor)
 The character is a braggart, and

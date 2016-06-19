@@ -1,7 +1,6 @@
 # Special rules for the pulp game
 
 
-
 ## House rules
 ### Success with a cost
 If you roll a 1 on your skill die but your wild die is successful, that is still considered a success, but there is a negative effect or compromise (e.g., your weapon becomes entangled in an enemy's armor). 
@@ -13,13 +12,10 @@ Instead of having separate skills for Swimming and Climbing, we'll use Athletics
 See the discussion on the [PEG forums](http://www.pegforum.com/viewtopic.php?t=21609).
 
 ## Setting rules
-
-
 Download the [Daring Tales of Adventure: Pulp Rules](http://tripleacegames.com/Downloads/DaringTales/TAG31000A_PULP_RULES.pdf) from Triple Ace Games.
 
 We'll be using these rules but we will make the following exceptions:
 * For Heroic Combat, we will ignore the Extras' Damage and Nonlethal rules. This will make the enemy extras more of a threat. 
-
 
 From the Savage Worlds Deluxe Explorer's Edition (p108), we'll also use the following setting rules:
 * Born a Hero
@@ -260,26 +256,37 @@ to recover from being Shaken.
 Many of new edges from Adamant Entertainment's "Thrilling Tales of Adventure" are permitted.
 
 
-#### Bring it on! (Combat)
-Requirements: Seasoned, Fighting d10+
 
-The character is a master of defending
-against multiple attackers.
-Opponents get no Gang Up
-bonus against this character.
+#### Combat Sense
+Requirements: Seasoned, Fighting d8+, Notice d8+
+
+The character has the perception, skill, and
+agility to handle multiple foes. Opponents
+halve any Gang Up bonuses against him
+(round down).
+
+##### Improved Combat Sense
+Requirements: Veteran, Combat Sense
+
+Opponents gain no Gang Up bonus against
+this warrior.
+
 
 #### Dirty Fighter (Combat)
 Requirements: Seasoned
 
 The character will do anything
-it takes to win a fight. Note that
-this Edge is more appropriate for
-villains than heroes.
-A Dirty Fighter is particularly
-good at Trick Maneuvers (see
-Savage Worlds section on
-combat), gaining a +2 bonus with
-them.
+it to win a fight. He adds +2 to all Trick maneuver rolls.
+
+
+##### Really Dirty Fighter
+Requirements: Seasoned, Dirty Fighter
+
+The character is extremely skilled in tactical
+deceit. By describing the trick and spending
+a benny, he may automatically get the drop
+on any single opponent.
+
 
 #### Gadget (Background)
 Requirements: Seasoned
@@ -300,29 +307,6 @@ who built it --for example, a
 down-on-his-luck air circus pilot
 who finds a high-tech rocket
 pack.
-
-#### Hall of Power (Social)
-Requirements: Veteran
-
-The character’s influence reaches
-the highest levels of power. The
-character cannot be found guilty
-of any crime in a court of law. If
-brought to trial, the case will be
-thrown out on a technicality, or
-an escape will be arranged by
-contacts within the authorities
-themselves.
-In addition, contacts will inform
-the character of any actions being
-taken against them by anyone who
-shares that information with the
-authorities.
-This edge is intended primarily for
-Villains, but some GMs may allow
-it for outlaw heroes like the Man
-of Mystery who operate with the
-tacit approval of the police, etc.
 
 #### Just the Thing (Weird)
 Requirements: Wild Card, Luck

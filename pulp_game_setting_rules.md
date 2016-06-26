@@ -25,23 +25,21 @@ From the Savage Worlds Deluxe Explorer's Edition (p108), we'll also use the foll
 ### Knock-Out Blows
 *From PEG's Deadlands Noir*
 
-An unexpected chop from a pistol or blackjack is
-never a pleasant experience. When a character takes
-enough damage to be Shaken or worse from some
-goon who has The Drop on him (see Savage Worlds),
+When a character takes
+enough damage to be Shaken or worse from an opponent
+ who has The Drop on him (see Savage Worlds),
 he has to make a Vigor roll against the total damage
-or be knocked unconscious. If the hero Soaks all the
-wounds from the damage, he doesn’t have to worry
-about getting cold-cocked. A character who is knocked
-unconscious in this manner remains out for at least
-the remainder of the scene, or possibly longer if it’s dramatically appropriate. What happens during that
+or be knocked unconscious. If the character Soaks all the
+wounds from the damage, he is unaffected. A character who is knocked
+unconscious in this manner is out for at least
+the remainder of the scene, or possibly longer (GM discretion); what happens during that
 time is up to the GM.
 
 ### Stunts 
 *From Adamant Entertainment's "Thrilling Tales of Adventure"*
 
 Any character who attempts a stunt
-action should be rewarded with a
+action deserves  a
 benny.
 A stunt
 action is any action which
@@ -49,7 +47,7 @@ is performed in a
 flashier manner
 than one would
 normally observe.
-Get on board an
+Getting on board an
 airship before it
 lifts off from
 the platform
@@ -62,37 +60,25 @@ action, and should be rewarded.
 In game terms, a stunt is an action
 where the player purposefully
 makes the action more difficult for
-themselves. In the above example,
+the character. In the above example,
 the player would have had the option
 to get on board the airship, but
 instead announced that the character
 had gotten there too late, and instead
 described the stunt action. In a way,
 the player is taking on the role of
-the game master
-for a moment,
-changing the
-situation for his
-or her character
-in such a way
-that a more
-difficult solution is
-required.
-A stunt action
-should always
-require a roll,
-at a minimum
--2 penalty. The
-game master is
-the final arbiter of
-the roll penalty of
-a particular stunt
-action. Pulling off
-nearly impossible
-stunts (-6 or more
-to the roll) may even result in the
-hero earning more than one benny,
-at the GM’s discretion.
+the game master for a moment,
+changing the situation for his
+or her character in such a way
+that a more difficult solution is
+required. 
+A stunt action should always
+require a roll, at a minimum
+-2 penalty. The game master is the final arbiter of
+the roll penalty of a particular stunt
+action. Pulling off nearly impossible
+stunts (-6 or more to the roll) may even result in the
+hero earning more than one benny, at the GM’s discretion.
 
 ### Story Declarations 
 *From Adamant Entertainment's "Thrilling Tales of Adventure"*
@@ -102,21 +88,16 @@ declare certain details about the
 setting and the story. If the Game
 Master accepts it, it will be true. This
 gives the player the ability to direct
-small things in a story – usually
+small things in a story, usually
 something only the game master
 can do.
-Declarations can’t be used to
+Declarations cannot be used to
 drastically change the plot or to
-win a conflict. Declaring “The
-Mob Enforcer drops dead of a heart
-attack” is not only likely to be
-rejected by the game master, but it
-wouldn’t even be that much fun to
-begin with.
+win a conflict. 
 What this can be very useful for
 is convenient coincidences. For
 example, you can declare that the
-contents of a storeroom contain
+storeroom contains
 just the right chemicals you need
 to build a makeshift explosive, or
 you can declare what’s hidden in
@@ -129,7 +110,7 @@ arrive at a dramatically appropriate
 moment!
 The key limit to Story Declaration
 is you cannot contradict previously
-established information... unless you
+established information unless you
 come up with some plausible reason
 why that information was never true
 to begin with!
@@ -140,9 +121,6 @@ interesting, odds are in your favor.
 If a proposed declaration isn’t
 approved, you keep the benny, and
 the change doesn’t happen.
-
-
-
 
 
 ### Mooks
@@ -200,7 +178,7 @@ Perform: Acting, Comedy, Dance, Disguise,
 Juggling, Instrument (Specific), Oratory, Puppetry,
 Singing
 
-Languages: It should be noted that languages
+Languages: Languages
 fall under the category of defining interests. An
 investigator can automatically speak and (when
 appropriate) read and write his native tongue.
@@ -215,7 +193,7 @@ as someone who takes a specific Knowledge skill.
 
 
 ### New hindrances
-Many of the new hindrances introduced in Adamant Entertainment's "Thrilling Tales of Adventure" are permitted. 
+The following hindrances introduced in Adamant Entertainment's "Thrilling Tales of Adventure" are permitted. 
 
 #### Cocky (Minor)
 The character is a braggart, and
@@ -277,8 +255,6 @@ to recover from being Shaken.
 
 ### New Edges
 Many of new edges from Adamant Entertainment's "Thrilling Tales of Adventure" are permitted.
-
-
 
 #### Combat Sense
 Requirements: Seasoned, Fighting d8+, Notice d8+

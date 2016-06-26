@@ -1,4 +1,4 @@
-# Special rules for the classic 1930s pulp, two-fisted heroes game
+# Rules for the classic pulp game
 
 
 ## House rules

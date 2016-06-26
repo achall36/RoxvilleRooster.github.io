@@ -57,6 +57,7 @@ speeding motorcycle onto an airship
 at the last second as it lifts off from
 the platform -- now that is a stunt
 action, and should be rewarded.
+
 In game terms, a stunt is an action
 where the player purposefully
 makes the action more difficult for
@@ -72,6 +73,7 @@ changing the situation for his
 or her character in such a way
 that a more difficult solution is
 required. 
+
 A stunt action should always
 require a roll, at a minimum
 -2 penalty. The game master is the final arbiter of
@@ -91,9 +93,11 @@ gives the player the ability to direct
 small things in a story, usually
 something only the game master
 can do.
+
 Declarations cannot be used to
 drastically change the plot or to
 win a conflict. 
+
 What this can be very useful for
 is convenient coincidences. For
 example, you can declare that the
@@ -108,12 +112,14 @@ over there that your character might
 miss? Spend a benny to declare you
 arrive at a dramatically appropriate
 moment!
+
 The key limit to Story Declaration
 is you cannot contradict previously
 established information unless you
 come up with some plausible reason
 why that information was never true
 to begin with!
+
 The GM has final say on Story
 Declaration, but generally, if what
 you propose makes the game more
@@ -134,6 +140,7 @@ heroes in an effort to slow their
 progress, with the off chance that
 one or more Mooks might get lucky
 and do some damage.
+
 Mooks are just like Extras, but with
 the following special rules:
 * Every Trait is average (d6).
@@ -154,6 +161,7 @@ lives for the main villain (see the SWDEE setting rule Fanaticism).
 In addition to skills and traits, every character has a number
 of interests and hobbies that may have nothing to do with their professional pursuits,
 or may, at best, complement them on occasion.
+
 Your character begins with a number of defining
 interests equal to half of her Smarts die type. Any
 permanent increase in a character's Smarts
@@ -203,6 +211,7 @@ is, or what he’s going to do to any
 and all opponents. This tendency
 to boast can be overcome
 by spending a benny.
+
 A villain with this hindrance
 never delivers a finishing blow
 to a foe, but instead will always
@@ -231,6 +240,7 @@ percussions -- the severity of the
 repercussions determine whether
 the Hindrance is a minor or major
 one.
+
 A character with Obligations and
 Connections to the same organization
 has a special relationship
@@ -299,6 +309,7 @@ normal Weird Science gizmo,
 but utlizes another skill rather
 than Weird Science for use (for
 example, Piloting or Shooting).
+
 This edge is for character concepts
 where the hero has access
 to a gizmo, but is not the scientist

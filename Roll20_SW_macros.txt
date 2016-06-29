@@ -1,0 +1,138 @@
+##Attributes
+
+Agility
+Here’s an agility roll! [[{1d@{Selected|Agility}!, 1d6!}kh1 + ?{Modifier|0} -@{Selected|Wounds}[Wounds]  -@{Selected|Fatigue}[Fatigue] ]]    
+
+Strength
+Here’s a strength roll! [[{1d@{Selected|Strength}!, 1d6!}kh1 + ?{Modifier|0} -@{Selected|Wounds}[Wounds]  -@{Selected|Fatigue}[Fatigue] ]]    
+
+Smarts
+Here’s a smarts roll! [[{1d@{Selected|Smarts}!, 1d6!}kh1 + ?{Modifier|0} -@{Selected|Wound}[Wound]  -@{Selected|Fatigue}[Fatigue] ]]   
+
+Spirit
+Here’s a spirit roll! [[{1d@{Selected|Spirit}!, 1d6!}kh1 + ?{Modifier|0} -@{Selected|Wound}[Wound]  -@{Selected|Fatigue}[Fatigue] ]]
+
+Vigor
+Here’s a vigor roll! [[{1d@{Selected|Vigor}!, 1d6!}kh1 + ?{Modifier|0} -@{Selected|Wound}[Wound]  -@{Selected|Fatigue}[Fatigue] ]]  
+
+
+
+##Skills
+
+
+Drive
+Here’s a driving roll! [[{1d@{Selected|Driving}!, 1d6!}kh1 + ?{Modifier|0} -@{Selected|Wound}[Wound]  -@{Selected|Fatigue}[Fatigue] ]] 
+
+Ride
+Here’s a riding roll! [[{1d@{Selected|Riding}!, 1d6!}kh1 + ?{Modifier|0} -@{Selected|Wound}[Wound]  -@{Selected|Fatigue}[Fatigue] ]]   
+
+Faith
+Here’s a faith roll! [[{1d@{Selected|Faith}!, 1d6!}kh1 + ?{Modifier|0} -@{Selected|Wound}[Wound]  -@{Selected|Fatigue}[Fatigue] ]]   
+
+Fight
+Fighting attack! [[{1d@{Selected|Fighting}!, 1d6!}kh1 + ?{Modifier|0} -@{Selected|Wound}[Wound]  -@{Selected|Fatigue}[Fatigue] ]]   
+
+Shoot
+Here’s an shooting roll! [[{1d@{Selected|shooting}!, 1d6!}kh1 + ?{Modifier|0} -@{Selected|Wound}[Wound]  -@{Selected|Fatigue}[Fatigue] ]]    
+
+Throw
+Here’s a throwing roll! [[{1d@{Selected|Throwing}!, 1d6!}kh1 + ?{Modifier|0} -@{Selected|Wound}[Wound]  -@{Selected|Fatigue}[Fatigue] ]]   
+
+Intimidation 
+Here’s an intimidation roll! [[{1d@{Selected|Intimidation}!, 1d6!}kh1 + ?{Modifier|0} -@{Selected|Wound}[Wound]  -@{Selected|Fatigue}[Fatigue] ]] 
+
+Investigation
+Here’s an investigation roll! [[{1d@{Selected|Investigation}!, 1d6!}kh1 + ?{Modifier|0} -@{Selected|Wound}[Wound]  -@{Selected|Fatigue}[Fatigue] ]] 
+
+Notice
+Here’s a notice roll! [[{1d@{Selected|Notice}!, 1d6!}kh1 + ?{Modifier|0} -@{Selected|Wound}[Wound]  -@{Selected|Fatigue}[Fatigue] ]]   
+
+Persuasion
+Here’s a persuasion roll! [[{1d@{Selected|Persuasion}!, 1d6!}kh1 + ?{Modifier|0} -@{Selected|Wound}[Wound]  -@{Selected|Fatigue}[Fatigue] ]] 
+
+Stealth
+Here’s a stealth roll! [[{1d@{Selected|Stealth}!, 1d6!}kh1 + ?{Modifier|0} -@{Selected|Wound}[Wound]  -@{Selected|Fatigue}[Fatigue] ]] 
+
+Streetwise
+Here’s a streetwise roll!  [[{1d@{Selected|Streetwise}!, 1d6!}kh1 + ?{Modifier|0} -@{Selected|Wound}[Wound]  -@{Selected|Fatigue}[Fatigue] ]]   
+
+Swim
+Here’s a swimming roll! [[{1d@{Selected|Swimming}!, 1d6!}kh1 + ?{Modifier|0} -@{Selected|Wound}[Wound]  -@{Selected|Fatigue}[Fatigue] ]]   
+
+Taunt
+Here’s a taunt roll! [[{1d@{Selected|Taunt}!, 1d6!}kh1 + ?{Modifier|0} -@{Selected|Wound}[Wound]  -@{Selected|Fatigue}[Fatigue] ]]   
+
+Spellcasting
+/me draws upon mystical powers
+[[{1d@{Selected|spellcasting}, 1d6!}kh1 + ?{Modifier|0} ]] 
+
+
+
+##General rolls
+
+Melee-Damage
+/r {1d?{Strength|6}! + 1d?{Weapon Damage Die|6}! +?{Modifier|0}}
+
+Ranged-Damage
+/r ?{Number of Dice|2}d?{Die Type|6}! + ?{Modifier|0}
+
+Trait+Wild
+/r {1d?{Trait Die|6}! , 1d6!}kh1 + ?{Modifier|0}
+
+d12!
+A simple d12 roll! [[1d12!]]
+
+d10!
+A simple d10 roll! [[1d10!]]
+
+
+d8!
+A simple d8 roll! [[1d8!]]
+
+d6!
+A simple d6 roll! [[1d6!]]
+
+d4!
+A simple d4 roll! [[1d4!]]
+
+d4!-2
+An untrained roll! [[1d4!-2]]
+
+
+
+##Special
+
+Autofire
+Rate of Fire 3 Weapons (this is "Shoot AF" button on the token bar)
+    Shot #1: [[{1d@{Selected|Shooting}!}+?{Modifier|0}-@{Selected|Wounds}[Wounds]-@{Selected|Fatigue}[Fatigue] ]]  
+    Shot #2: [[{1d@{Selected|Shooting}!}+?{Modifier|0}-@{Selected|Wounds}[Wounds]-@{Selected|Fatigue}[Fatigue] ]]  
+    Shot #3: [[{1d@{Selected|Shooting}!}+?{Modifier|0}-@{Selected|Wounds}[Wounds]-@{Selected|Fatigue}[Fatigue] ]] 
+    Wild Die: [[1d6!]]
+    Damage Rolls: [[2d6!]], [[2d6!]], [[2d6!]]
+    Raise Damage: [[1d6!]], [[1d6!]], [[1d6!]]
+
+	
+Autofire-extra
+Extra with machinegun gun sprays bullets
+    Shot #1: [[{1d?{Die Type|6}!}-2+?{Modifier|0} ]]
+    Shot #2: [[{1d?{Die Type|6}!}-2+?{Modifier|0}  ]]
+    Shot #3: [[{1d?{Die Type|6}!}-2+?{Modifier|0} ]]	
+	
+
+Autofire-shoot
+Autofire shot 1! [[{1d@{Selected|Shooting}!}kh1 + ?{Modifier|0} -@{Selected|Wound}[Wound]  -@{Selected|Fatigue}[Fatigue] ]]   
+Autofire shot 2! [[{1d@{Selected|Shooting}!}kh1 + ?{Modifier|0} -@{Selected|Wound}[Wound]  -@{Selected|Fatigue}[Fatigue] ]]  
+Autofire shot 3! [[{1d@{Selected|Shooting}!}kh1 + ?{Modifier|0} -@{Selected|Wound}[Wound]  -@{Selected|Fatigue}[Fatigue] ]]    
+Autofire wild die! [[{1d6}kh1 + ?{Modifier|0} -@{Selected|Wound}[Wound]  -@{Selected|Fatigue}[Fatigue] ]] 
+	
+
+tommy-gun-damage
+Tommy gun hits for 
+   Damage Rolls: [[2d6!+1]]
+   Raise Damage: [[1d6!]]
+
+	
+Frenzy
+Frenzied fighting attack 1! [[{1d@{Selected|Fighting}!}kh1 + ?{Modifier|0} -@{Selected|Wound}[Wound]  -@{Selected|Fatigue}[Fatigue] ]]   
+Frenzied fighting attack 2! [[{1d@{Selected|Fighting}!}kh1 + ?{Modifier|0} -@{Selected|Wound}[Wound]  -@{Selected|Fatigue}[Fatigue] ]]   
+Frenzy wild die! [[{1d6}kh1 + ?{Modifier|0} -@{Selected|Wound}[Wound]  -@{Selected|Fatigue}[Fatigue] ]]  

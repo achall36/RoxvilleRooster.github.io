@@ -80,7 +80,7 @@ require a roll, at a minimum
 the roll penalty of a particular stunt
 action. Pulling off nearly impossible
 stunts (-6 or more to the roll) may even result in the
-hero earning more than one benny, at the GM’s discretion.
+hero earning more than one benny, at the GM's discretion.
 
 ### Story Declarations 
 *From Adamant Entertainment's "Thrilling Tales of Adventure"*
@@ -104,7 +104,7 @@ example, you can declare that the
 storeroom contains
 just the right chemicals you need
 to build a makeshift explosive, or
-you can declare what’s hidden in
+you can declare what's hidden in
 your pockets or the fact that you
 know someone in a foreign city. Is
 there an interesting scene happening
@@ -124,7 +124,7 @@ The GM has final say on Story
 Declaration, but generally, if what
 you propose makes the game more
 interesting, odds are in your favor.
-If a proposed declaration isn’t
+If a proposed declaration isn't
 approved, you keep the benny, and
 the change doesn’t happen.
 
@@ -150,7 +150,7 @@ and each skill is rated at d6.
 hindrances.
 * Mooks are never Shaken.
 If you equal or exceed their
-Toughness, they’re out of the
+Toughness, they're out of the
 fight.
 Mooks will willingly lay down their
 lives for the main villain (see the SWDEE setting rule Fanaticism).
@@ -194,7 +194,7 @@ Additional languages require the player to choose
 the Language interest.
 
 **Note:**
- You can come up with additional items that fit your PC, subject to the GM’s approval. 
+ You can come up with additional items that fit your PC, subject to the GM's approval. 
 A defining interest provides only a
 general knowledge of a topic and is not as detailed
 as someone who takes a specific Knowledge skill.
@@ -207,7 +207,7 @@ The following hindrances introduced in Adamant Entertainment's "Thrilling Tales 
 The character is a braggart, and
 must spend the first round of any
 combat announcing how great he
-is, or what he’s going to do to any
+is, or what he's going to do to any
 and all opponents. This tendency
 to boast can be overcome
 by spending a benny.
@@ -230,7 +230,7 @@ and resources. This can range
 from familial obligations (an
 elderly relative in your care, for
 example, or keeping tabs on the
-family’s investments) to sworn
+family's investments) to sworn
 allegiance to an organization
 (FBI agents are obligated, as
 are Mobsters, but to different

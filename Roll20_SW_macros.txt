@@ -129,6 +129,17 @@ Extra with machinegun gun sprays bullets
 Frenzied fighting attack 1! [[{1d@{Selected|Fighting}!}kh1 + ?{Modifier|0} -@{Selected|Wounds}[Wounds]  -@{Selected|Fatigue}[Fatigue] ]]   
 Frenzied fighting attack 2! [[{1d@{Selected|Fighting}!}kh1 + ?{Modifier|0} -@{Selected|Wounds}[Wounds]  -@{Selected|Fatigue}[Fatigue] ]]   
 Frenzy wild die! [[{1d6}kh1 + ?{Modifier|0} -@{Selected|Wounds}[Wounds]  -@{Selected|Fatigue}[Fatigue] ]]  
+
+_Run
+**@{selected|character_name}** Runs and has a total movement of [[@{selected|pace}+1?{Running die|d6|d4|d6|d8|d10|d12|d12+1|d12+2|d12+3|d12+4}]]
+
+!token_info
+@{selected|character_name} ||@{selected|wounds} Wounds ||@{selected|fatigue} Fatigue ||@{selected|pace} Pace||@{selected|parry} Parry||@{selected|toughness} Toughness ||@{selected|toughnessArmor} Armor||@{selected|smarts} Smarts||@{selected|agility}||@{selected|strength} Strength ||@{selected|vigor} Vigor||@{selected|spirit} Spirit||@{selected|fighting} Fighting||@{selected|shooting} Shooting||@{selected|throwing} Throwing||@{selected|notice} Notice||@{selected|stealth} Stealth
+
+_raise.calc
+/r {?{Value of Roll|1}-?{Target|4}}/4
+
+
 	
 
 ## Out of scope
@@ -139,5 +150,10 @@ Tommy gun hits for
    Damage Rolls: [[2d6!+1]]
    Raise Damage: [[1d6!]]
 
-	
+>multi.extra.attack
+/r ?{Number of Dice|1}d?{Die Type|6}!s
+
+
+
+
 

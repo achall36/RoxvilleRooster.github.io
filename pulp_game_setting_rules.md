@@ -29,62 +29,15 @@ When a character takes enough damage to be Shaken or worse from an opponent  who
 ### Stunts 
 *From Adamant Entertainment's "Thrilling Tales of Adventure"*
 
-<<<<<<< HEAD
 Any character who attempts a stunt action deserves  a benny. A stunt action is any action which is performed in a flashier manner than one would normally observe. Getting on board an airship before it lifts off from the platform is an action. Leaping from the sidecar of a speeding motorcycle onto an airship at the last second as it lifts off from the platform -- now that is a stunt action, and should be rewarded.
 
 In game terms, a stunt is an action where the player purposefully makes the action more difficult for the character. In the above example, the player would have had the option to get on board the airship, but instead announced that the character had gotten there too late, and instead described the stunt action. In a way, the player is taking on the role of the game master for a moment, changing the situation for his or her character in such a way that a more difficult solution is required. 
 
 A stunt action should always require a roll, at a minimum -2 penalty. The game master is the final arbiter of the roll penalty of a particular stunt action. Pulling off nearly impossible stunts (-6 or more to the roll) may even result in the hero earning more than one benny, at the GM’s discretion.
-=======
-Any character who attempts a stunt
-action deserves  a
-benny.
-A stunt
-action is any action which
-is performed in a
-flashier manner
-than one would
-normally observe.
-Getting on board an
-airship before it
-lifts off from
-the platform
-is an action.
-Leaping from the sidecar of a
-speeding motorcycle onto an airship
-at the last second as it lifts off from
-the platform -- now that is a stunt
-action, and should be rewarded.
-
-In game terms, a stunt is an action
-where the player purposefully
-makes the action more difficult for
-the character. In the above example,
-the player would have had the option
-to get on board the airship, but
-instead announced that the character
-had gotten there too late, and instead
-described the stunt action. In a way,
-the player is taking on the role of
-the game master for a moment,
-changing the situation for his
-or her character in such a way
-that a more difficult solution is
-required. 
-
-A stunt action should always
-require a roll, at a minimum
--2 penalty. The game master is the final arbiter of
-the roll penalty of a particular stunt
-action. Pulling off nearly impossible
-stunts (-6 or more to the roll) may even result in the
-hero earning more than one benny, at the GM's discretion.
->>>>>>> origin/master
 
 ### Story Declarations 
 *From Adamant Entertainment's "Thrilling Tales of Adventure"*
 
-<<<<<<< HEAD
 A player may spend a benny and declare certain details about the setting and the story. If the Game Master accepts it, it will be true. This gives the player the ability to direct small things in a story, usually something only the game master can do.
 
 Declarations cannot be used to drastically change the plot or to win a conflict. 
@@ -94,50 +47,6 @@ What this can be very useful for is convenient coincidences. For example, you ca
 The key limit to Story Declaration is you cannot contradict previously established information unless you come up with some plausible reason why that information was never true to begin with!
 
 The GM has final say on Story Declaration, but generally, if what you propose makes the game more interesting, odds are in your favor. If a proposed declaration isn’t approved, you keep the benny, and the change doesn’t happen.
-=======
-A player may spend a benny and
-declare certain details about the
-setting and the story. If the Game
-Master accepts it, it will be true. This
-gives the player the ability to direct
-small things in a story, usually
-something only the game master
-can do.
-
-Declarations cannot be used to
-drastically change the plot or to
-win a conflict. 
-
-What this can be very useful for
-is convenient coincidences. For
-example, you can declare that the
-storeroom contains
-just the right chemicals you need
-to build a makeshift explosive, or
-you can declare what's hidden in
-your pockets or the fact that you
-know someone in a foreign city. Is
-there an interesting scene happening
-over there that your character might
-miss? Spend a benny to declare you
-arrive at a dramatically appropriate
-moment!
-
-The key limit to Story Declaration
-is you cannot contradict previously
-established information unless you
-come up with some plausible reason
-why that information was never true
-to begin with!
-
-The GM has final say on Story
-Declaration, but generally, if what
-you propose makes the game more
-interesting, odds are in your favor.
-If a proposed declaration isn't
-approved, you keep the benny, and
-the change doesn’t happen.
->>>>>>> origin/master
 
 
 ### Mooks
@@ -150,16 +59,8 @@ Mooks are just like Extras, but with the following special rules:
 * They only possess four skills, and each skill is rated at d6.
 * They have no edges and no hindrances.
 * Mooks are never Shaken.
-<<<<<<< HEAD
 If you equal or exceed their Toughness, they’re out of the fight.
 Mooks will willingly lay down their lives for the main villain (see the SWDEE setting rule Fanaticism).
-=======
-If you equal or exceed their
-Toughness, they're out of the
-fight.
-Mooks will willingly lay down their
-lives for the main villain (see the SWDEE setting rule Fanaticism).
->>>>>>> origin/master
 
 ### Defining Interests
 *From Reality Blurs' "Realms of Cthulhu"*
@@ -175,79 +76,24 @@ Perform: Acting, Comedy, Dance, Disguise, Juggling, Instrument (Specific), Orato
 Languages: Languages fall under the category of defining interests. A character can automatically speak and (when appropriate) read and write his native tongue. Additional languages require the player to choose the Language interest.
 
 **Note:**
-<<<<<<< HEAD
 You can come up with additional items that fit your PC, subject to the GM’s approval. A defining interest provides only a general knowledge of a topic and is not as detailed as someone who takes a specific Knowledge skill.
-=======
- You can come up with additional items that fit your PC, subject to the GM's approval. 
-A defining interest provides only a
-general knowledge of a topic and is not as detailed
-as someone who takes a specific Knowledge skill.
->>>>>>> origin/master
 
 
 ### New hindrances
 The following hindrances introduced in Adamant Entertainment's "Thrilling Tales of Adventure" are permitted. 
 
 #### Cocky (Minor)
-<<<<<<< HEAD
 The character is a braggart, and must spend the first round of any combat announcing how great he is, or what he’s going to do to any and all opponents. This tendency to boast can be overcome by spending a benny.
 
 A villain with this hindrance never delivers a finishing blow to a foe, but instead will always somehow leaves the foe the opportunity to escape.
-=======
-The character is a braggart, and
-must spend the first round of any
-combat announcing how great he
-is, or what he's going to do to any
-and all opponents. This tendency
-to boast can be overcome
-by spending a benny.
-
-A villain with this hindrance
-never delivers a finishing blow
-to a foe, but instead will always
-somehow leaves the foe the opportunity
-to escape.
->>>>>>> origin/master
 
 #### Glass Jaw (Major)
 You don’t handle physical pain and injury well and thus suffer a –2 penalty on all soak rolls.
 
 #### Obligations (Minor/Major)
-<<<<<<< HEAD
 The character has duties which demand a portion of their time and resources. This can range from familial obligations (an elderly relative in your care, for example, or keeping tabs on the family’s investments) to sworn allegiance to an organization (FBI agents are obligated, as are Mobsters, but to different groups). Failure to fulfill such obligations will have serious re- percussions -- the severity of the repercussions determine whether the Hindrance is a minor or major one.
 
 A character with Obligations and Connections to the same organization has a special relationship with the group in question and gains a +2 or +4 bonus to Persuasion rolls (depending upon whether their obligations are minor or major). In essence, the Connection has a vested interest in the character and is more likely to want to see them succeed.
-=======
-The character has duties which
-demand a portion of their time
-and resources. This can range
-from familial obligations (an
-elderly relative in your care, for
-example, or keeping tabs on the
-family's investments) to sworn
-allegiance to an organization
-(FBI agents are obligated, as
-are Mobsters, but to different
-groups). Failure to fulfill such
-obligations will have serious re-
-percussions -- the severity of the
-repercussions determine whether
-the Hindrance is a minor or major
-one.
-
-A character with Obligations and
-Connections to the same organization
-has a special relationship
-with the group in question
-and gains a +2 or +4 bonus to
-Persuasion rolls (depending upon
-whether their obligations are
-minor or major). In essence, the
-Connection has a vested interest
-in the character and is more
-likely to want to see them
-succeed.
->>>>>>> origin/master
 
 #### Shellshock (Minor)
 The character recovers slowly from the shock and trauma of combat, whether due to a delicate nature or horrible memories of The Great War. The character suffers a -2 penalty to Spirit rolls to recover from being Shaken.
@@ -294,4 +140,3 @@ Once per session, the character may “suddenly remember” that he has a useful
 Requirements: Smarts d10+
 
 The character is able to remember everything they see, hear or read, down to the tiniest detail.
-

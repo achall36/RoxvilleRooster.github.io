@@ -137,10 +137,7 @@ _Run
 @{selected|character_name} ||@{selected|wounds} Wounds ||@{selected|fatigue} Fatigue ||@{selected|pace} Pace||@{selected|parry} Parry||@{selected|toughness} Toughness ||@{selected|toughnessArmor} Armor||@{selected|smarts} Smarts||@{selected|agility}||@{selected|strength} Strength ||@{selected|vigor} Vigor||@{selected|spirit} Spirit||@{selected|fighting} Fighting||@{selected|shooting} Shooting||@{selected|throwing} Throwing||@{selected|notice} Notice||@{selected|stealth} Stealth
 
 _raise.calc
-/r {?{Value of Roll|1}-?{Target|4}}/4
-
-
-	
+Raises=[[floor((?{Die Roll|0}-?{Target Number|4})/4)]]
 
 ## Out of scope
 The following are not used...	

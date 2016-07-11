@@ -110,10 +110,10 @@ An untrained roll for a wild card!
 
 >autofire.wc
 Wild card with autofire weapon
-Autofire shot 1! [[{1d@{Selected|Shooting}!}kh1 + ?{Modifier|0} -@{Selected|Wounds}[Wounds]  -@{Selected|Fatigue}[Fatigue] ]]   
-Autofire shot 2! [[{1d@{Selected|Shooting}!}kh1 + ?{Modifier|0} -@{Selected|Wounds}[Wounds]  -@{Selected|Fatigue}[Fatigue] ]]  
-Autofire shot 3! [[{1d@{Selected|Shooting}!}kh1 + ?{Modifier|0} -@{Selected|Wounds}[Wounds]  -@{Selected|Fatigue}[Fatigue] ]]    
-Autofire wild die! [[{1d6}kh1 + ?{Modifier|0} -@{Selected|Wounds}[Wounds]  -@{Selected|Fatigue}[Fatigue] ]] 
+Autofire shot 1! [[{1d@{Selected|Shooting}!} + ?{Modifier|0} -@{Selected|Wounds}[Wounds]  -@{Selected|Fatigue}[Fatigue] ]]   
+Autofire shot 2! [[{1d@{Selected|Shooting}!} + ?{Modifier|0} -@{Selected|Wounds}[Wounds]  -@{Selected|Fatigue}[Fatigue] ]]  
+Autofire shot 3! [[{1d@{Selected|Shooting}!} + ?{Modifier|0} -@{Selected|Wounds}[Wounds]  -@{Selected|Fatigue}[Fatigue] ]]    
+Autofire wild die! [[{1d6!} + ?{Modifier|0} -@{Selected|Wounds}[Wounds]  -@{Selected|Fatigue}[Fatigue] ]] 
 
 	
 >autofire.x

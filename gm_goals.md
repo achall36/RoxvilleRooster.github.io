@@ -1,3 +1,8 @@
+---
+title: Goals of the GM
+layout: page
+---
+
 ## Goals of the GM
 * To build some memorable gaming stories together
 * Make the game fun, or at least interesting, for all involved

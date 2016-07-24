@@ -101,8 +101,8 @@ and the fine arts of surveillance and counter-surveillance. It also covers knowl
 of other world agencies as well as aiding in field requisitions and governs exactly
 what you can requisition at any given Rank.
 
-##New hindrances
-###Obligations (Minor or Major)
+## New hindrances
+### Obligations (Minor or Major)
 The agent is connected to someone or something demanding a portion of his
 time. These obligations can include almost anything, such as checking in on a
 sick relative from time to time or a tenured professor giving lectures and teaching
@@ -135,7 +135,7 @@ For this agent, everything is a weapon. Any object that would normally do
 negligible damage (such as a paper clip or a thimble) does Str+d4. Additionally,
 normally non-lethal items can be used to inflict deadly damage at the Director’s
 discretion.
-Example: Jake Britain (with a Str d6) is sitting at a table in a street cafe when a
+**Example**: Jake Britain (with a Str d6) is sitting at a table in a street cafe when a
 Pandoran agent rushes toward him. Jake lunges with his plastic drinking straw,
 smashing it into the Pandoran’s throat, causing d6+d4 damage! Leaving him
 wheezing in the road, Jake quickly and quietly flees the scene.

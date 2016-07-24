@@ -21,11 +21,13 @@ agent may shift branches each time he Advances.
 
 **Assault**: Taking the direct approach, agents in this branch mix it up with bullets
 and brawling.
+
 Benefit: Combat Immersion Training—Select one Combat Edge.
 
 **Operations**: Strategy, planning, and tactics fall in the bailiwick of this operative.
 Benefit: Operations Immersion Training—Select one Leadership, Professional, or
 Social Edge.
+
 Note: These benefits are granted at the start of each new mission, and the character
 must meet the prerequisite of any Edge gained in this manner as normal.
 
@@ -58,20 +60,23 @@ increases as her Smarts increases. A defining interest gives the agent a base +1
 Common Knowledge roll when the subject is called into question.
 
 ### Sample Interests
+
+
 **Culture**: Anthropology, Archaeology, Astrology, Astronomy, Biology, Botany,
 Chemistry, City Knowledge (Specific), Classical Literature, Cooking, Culture
 (Specific), Etiquette, Folklore, Forensics, Geology, Knowledge (Specific),
 Language (Pidgin), Natural History, Photography, Physics
+
 **Craft**: Art (Specific), Mechanical Repair, Electrical Repair
 Performance: Acting, Comedy, Dance, Disguise, Instrument (Specific), Juggling,
 Oratory, Puppetry, Singing
+
 **Language**: Taking a language as a defining interest indicates the agent is minimally
 conversant with it — enough to speak and read at a third grade level with some
 difficulty. This is denoted as Language (Pidgin), such as French (Pidgin). An agent
 using any social interaction skill in a pidgin language does so at -4.
 This list is by no means exhaustive. Players are free to come up with additional
 items appropriate for their agent, subject to their Director’s approval.
-
 
 **Note**: A Defining Interest provides only a general knowledge of a topic and is not
 nearly as detailed as someone who takes a specific Knowledge skill.

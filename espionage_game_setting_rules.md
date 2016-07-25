@@ -25,14 +25,16 @@ and brawling.
 Benefit: Combat Immersion Training—Select one Combat Edge.
 
 **Operations**: Strategy, planning, and tactics fall in the bailiwick of this operative.
+
 Benefit: Operations Immersion Training—Select one Leadership, Professional, or
 Social Edge.
 
 Note: These benefits are granted at the start of each new mission, and the character
 must meet the prerequisite of any Edge gained in this manner as normal.
 
-**Analysis**: Investigation, information gathering and interpretation are the specialties of this branch.
-Benefit:
+**Analysis**: Investigation, information gathering, and data analysis/interpretation are the specialties of this branch.
+
+Benefit: TBD
 
 
 ## Wealth
@@ -117,6 +119,7 @@ has a special relationship with the person or group in question, and gains a +2
 bonus to Persuasion rolls (+4 if Major Obligations) when dealing with them. In
 essence, the Connection has a vested interest in the agent, and is more likely to
 want him to succeed.
+
 In the case of Obligations to an agency, an agent who regularly fails to meet his
 responsibilities to the organization, often ignoring rules to get the job done, may
 be considered a loose cannon. This type of behavior can impact his assignments
@@ -140,6 +143,7 @@ For this agent, everything is a weapon. Any object that would normally do
 negligible damage (such as a paper clip or a thimble) does Str+d4. Additionally,
 normally non-lethal items can be used to inflict deadly damage at the Director’s
 discretion.
+
 **Example**: Jake Britain (with a Str d6) is sitting at a table in a street cafe when a
 Pandoran agent rushes toward him. Jake lunges with his plastic drinking straw,
 smashing it into the Pandoran’s throat, causing d6+d4 damage! Leaving him
@@ -168,8 +172,10 @@ Tricks.
 The agent’s intimate knowledge of wrestling maneuvers grants him a +1 to any
 opposed Strength or Agility grappling rolls. Additionally, he substitutes his
 Unarmed Combat damage for normal grappling damage.
+
 **Normal**: Snake has Unarmed Combat (Basic) and does Str+d4 damage with his
 unarmed strikes. When he grapples, he does only his Strength in damage.
+
 **Example**: Snake learns Grab and Hold. Now, he may apply his Unarmed Combat
 (Basic) damage to grappled opponents, doing Str+d4 damage to anyone within
 his iron grasp. Should he later get, Unarmed Combat (Advanced), it increases to
@@ -182,9 +188,11 @@ The agent’s field work has made him tough — even his scars have scars. He ga
 **Requirements**: Seasoned, Unarmed Combat (Basic), Shooting d8+
 The agent is able to maneuver well enough to continue using any firearm in close
 combat.
+
 **Normal**: Agent Rook has an M-16 and is rushed by a werewolf. He can club the
 beast with it, but is unable to get a bead on the creature as it bites and slashes at
 him.
+
 **Example**: Agent Rook, having survived his close encounter, learns Gun Fu and
 takes point. The next lycanthrope to jump down on him from the shadows is in
 for a nasty surprise, as he unloads his clip into the creature at point blank range.
@@ -208,6 +216,7 @@ successfully kills an enemy unnoticed in a single round, he may attempt one of
 two actions: He may pin the body in place with a Smarts roll or make a Stealth
 roll to catch the body and quietly move and/or hide it with the remainder of his
 movement. Either choice is a free action.
+
 **Example**: Agent Suzuki, creeping along the rooftop of a mafia safe house, drops
 down upon a sentry and kills him in one blow. He may then make a Stealth roll to
 catch the body and move it under the bushes before being spotted. With a success,
@@ -233,8 +242,10 @@ unarmed damage rolls.
 **Requirements**: Novice, Fighting d6+
 The agent is considered armed at all times (negating the Unarmed Defender
 bonus) and does Str +d4 unarmed damage when attacking.
+
 **Normal**: A character throws a punch for Str damage and is treated as an Unarmed
 Defender, giving his opponents +2 to their Fighting rolls to strike him.
+
 **Example**: Joe has Unarmed Combat (Basic). He is now treated as armed, and with
 his Str d6, does d6 + d4 damage with a punch, pummel, or kick.
 ##Unarmed Combat (Advanced)
@@ -379,9 +390,13 @@ opponent.
 
 The following Edges from the Savage Worlds core book are not allowed.
 **Background**: Linguist, Noble, Rich and Filthy Rich
+
 **Combat Edges**: Martial Artist, Improved Martial Artist, Improvisational Fighter,
 Martial Arts Master
+
 **Power Edges**: All
+
 **Professional Edges**: Adept, Champion, Gadgeteer, Holy/Unholy Warrior,
 Mentalist, Mr. Fix-It, and Wizard
+
 **Legendary Edges**: Followers, Sidekick

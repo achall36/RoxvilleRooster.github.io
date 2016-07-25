@@ -22,19 +22,19 @@ agent may shift branches each time he Advances.
 **Assault**: Taking the direct approach, agents in this branch mix it up with bullets
 and brawling.
 
-Benefit: Combat Immersion Training—Select one Combat Edge.
+*Benefit*: Combat Immersion Training—Select one Combat Edge.
 
 **Operations**: Strategy, planning, and tactics fall in the bailiwick of this operative.
 
-Benefit: Operations Immersion Training—Select one Leadership, Professional, or
+*Benefit*: Operations Immersion Training—Select one Leadership, Professional, or
 Social Edge.
 
-Note: These benefits are granted at the start of each new mission, and the character
+*Note*: These benefits are granted at the start of each new mission, and the character
 must meet the prerequisite of any Edge gained in this manner as normal.
 
 **Analysis**: Investigation, information gathering, and data analysis/interpretation are the specialties of this branch.
 
-Benefit: TBD
+*Benefit*: TBD
 
 
 ## Wealth
@@ -56,6 +56,7 @@ tongue.
 In addition to skills and attributes, an agent has a
 number of hobbies and other interests that may have nothing to do with her
 professional pursuits. 
+
 Your character
 begins with a number of defining interests equal to half her Smarts. This number
 increases as her Smarts increases. A defining interest gives the agent a base +1 to her

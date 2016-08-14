@@ -105,10 +105,10 @@ Amount of Explosive Maximum Size of Effect
 The ability to fabricate, adapt or imitate objects or documents with the intent to
 deceive. Attempting to make forgeries without the proper tools is done at –2. The
 tools vary wildly, depending upon the nature of the item in question.
-## Tech Ops (Smarts)
+### Tech Ops (Smarts)
 Technical Operations is the ability to operate, secure, and sabotage computer and
 electronic systems.
-## Tradecraft (Smarts)
+### Tradecraft (Smarts)
 This skill reflects the practical application of procedures and protocols such as dead
 drops, brief encounters, pickups, load and unload signals, danger and safe signals,
 and the fine arts of surveillance and counter-surveillance. It also covers knowledge

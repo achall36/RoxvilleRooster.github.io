@@ -169,6 +169,7 @@ free.
 
 This agent is trained to use subterfuge in hostile situations. He receives +2 to all
 Tricks.
+
 ##Grab and Hold
 **Requirements**: Novice, Unarmed Combat (Basic)
 
@@ -183,11 +184,8 @@ unarmed strikes. When he grapples, he does only his Strength in damage.
 (Basic) damage to grappled opponents, doing Str+d4 damage to anyone within
 his iron grasp. Should he later get, Unarmed Combat (Advanced), it increases to
 Str+d6.
-##Grizzled
-**Requirements**: Seasoned, Spirit d6+, Vigor d8+
 
-The agent’s field work has made him tough — even his scars have scars. He gains
-+2 to Soak rolls.
+
 ##Gun Fu
 **Requirements**: Seasoned, Unarmed Combat (Basic), Shooting d8+
 

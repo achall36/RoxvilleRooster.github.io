@@ -151,6 +151,8 @@ discretion.
 Pandoran agent rushes toward him. Jake lunges with his plastic drinking straw,
 smashing it into the Pandoran’s throat, causing d6+d4 damage! Leaving him
 wheezing in the road, Jake quickly and quietly flees the scene.
+
+
 ###Disarm Mastery
 **Requirements**: Novice, Fighting d8+, Unarmed Combat (Basic)
 
@@ -159,14 +161,8 @@ an opposed Fighting roll against his opponent. With a success, the adversary
 drops his weapon. With a raise, the opponent is Shaken and the weapon flies 1d4
 random inches away or the agent may elect to take it if he has one or both hands
 free.
-###Fast Strike
-**Requirements**: Seasoned, Agility d8+, Fighting d8+
 
-The agent has learned to fight with great dexterity — moving in and striking
-quickly, then moving away before his opponent can react. If the character can
-move at least 2” before making an attack, he may strike and withdraw from
-combat without the target, or any other opponents, receiving a free attack. The
-agent is still subject to First Strike attacks from adjacent foes as normal.
+
 
 ##Ghost
 **Requirements**: Novice, Agility d8+, Smarts d8+

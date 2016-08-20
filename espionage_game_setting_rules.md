@@ -1,4 +1,4 @@
-# Espionage game setting rules
+# Savage TOP SECRET game setting rules
 
 
 ## Operative training

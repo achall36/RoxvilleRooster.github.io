@@ -52,7 +52,7 @@ items appropriate for their agent, subject to their Director’s approval.
 nearly as detailed as someone who takes a specific Knowledge skill.
 
 
-##New skills
+## New skills
 
 ### Demolitions (Smarts)
 The ability to identify, set, shape, and defuse explosives. Explosions may be planted
@@ -96,11 +96,11 @@ failure to uphold the agency’s principles may ultimately result in the agent b
 declared rogue. In this case, Obligations dissipate and are replaced with the
 Hindrance Wanted (Major) by the agency in question.
 
-##New edges
+## New edges
 *Combat Edges*
 
 
-###Deadly
+### Deadly
 **Requirements**: Heroic, Smarts d8+, Fighting or Throwing d10+
 
 For this agent, everything is a weapon. Any object that would normally do
@@ -114,7 +114,7 @@ smashing it into the Pandoran’s throat, causing d6+d4 damage! Leaving him
 wheezing in the road, Jake quickly and quietly flees the scene.
 
 
-###Disarm Mastery
+### Disarm Mastery
 **Requirements**: Novice, Fighting d8+, Unarmed Combat (Basic)
 
 The agent excels at removing an opponent’s weapon in melee combat. He makes
@@ -124,14 +124,14 @@ random inches away or the agent may elect to take it if he has one or both hands
 free.
 
 
-
-##Ghost
+ 
+## Ghost
 **Requirements**: Novice, Agility d8+, Smarts d8+
 
 This agent is trained to use subterfuge in hostile situations. He receives +2 to all
 Tricks.
 
-##Grab and Hold
+## Grab and Hold
 **Requirements**: Novice, Unarmed Combat (Basic)
 
 The agent’s intimate knowledge of wrestling maneuvers grants him a +1 to any
@@ -147,7 +147,7 @@ his iron grasp. Should he later get, Unarmed Combat (Advanced), it increases to
 Str+d6.
 
 
-##Gun Fu
+## Gun Fu
 **Requirements**: Seasoned, Unarmed Combat (Basic), Shooting d8+
 
 The agent is able to maneuver well enough to continue using any firearm in close
@@ -160,14 +160,14 @@ him.
 **Example**: Agent Rook, having survived his close encounter, learns Gun Fu and
 takes point. The next lycanthrope to jump down on him from the shadows is in
 for a nasty surprise, as he unloads his clip into the creature at point blank range.
-##Hindsight
+## Hindsight
 **Requirements**: Novice, Fighting d10+
 
 Through luck, skill, or a combination of both, this agent is able to expertly defend
 himself against multiple foes. Opponents gain no gang up bonus against him.
 
 
-##Superior Defense
+## Superior Defense
 **Requirements**: Veteran, Agility d8+, Block
 
 The agent has mastered special defensive techniques. When using the Defend
@@ -175,7 +175,7 @@ maneuver, his Parry is increased by +4 (instead of +2). If using the Full Defens
 maneuver, add +2 to his Fighting roll to determine the Parry score.
 
 
-##Takedown
+## Takedown
 **Requirements**: Novice, Fighting d8+
 
 The agent is trained in how to throw or trip an opponent. Make an opposed
@@ -184,13 +184,13 @@ With a success, the now prone opponent may be placed in any spot within 1" of
 the agent. With a raise, the opponent is prone and Shaken; if already Shaken, he
 takes a wound.
 
-##Typewriter
+## Typewriter
 **Requirements**: Novice, Agility d8+, Fighting d8+
 
 The agent knows how to strike foes with maximum effect. He receives +2 to
 unarmed damage rolls.
 
-##Unarmed Combat (Basic)
+## Unarmed Combat (Basic)
 **Requirements**: Novice, Fighting d6+
 
 The agent is considered armed at all times (negating the Unarmed Defender
@@ -202,14 +202,14 @@ Defender, giving his opponents +2 to their Fighting rolls to strike him.
 **Example**: Joe has Unarmed Combat (Basic). He is now treated as armed, and with
 his Str d6, does d6 + d4 damage with a punch, pummel, or kick.
 
-##Unarmed Combat (Advanced)
+## Unarmed Combat (Advanced)
 **Requirements**: Seasoned, Fighting d8+, Unarmed Combat (Basic)
 
 The agent’s Unarmed Combat damage increases to Str+d6. This damage is not
 restricted by a lower Strength die type, so even a character with a d4 Strength
 would do d4+d6 damage with this Edge.
 
-##Wheelman
+## Wheelman
 **Requirements**: Seasoned, Ace
 
 This agent is a demon behind the wheel, able to fire any one-handed weapon while
@@ -219,7 +219,7 @@ when he’s the driver.
 
 *Profesional Edges*
 
-##Cleaner
+## Cleaner
 **Requirements**: Seasoned, Investigator
 
 You know how to hide information as well as uncover it. You may make the
@@ -228,32 +228,32 @@ make an opposed roll to uncover any trace of your presence. The agent receives
 an additional +1 to Investigation, Streetwise, and Notice rolls when searching
 through or obfuscating information. This stacks with the Investigator Edge.
 
-##Demolisher
+## Demolisher
 **Requirements**: Novice, Smarts d8+, Demolitions d8+
 
 The agent receives +2 on demolitions rolls when placing charges, and damage with
 explosives may Ace.
 
-##Engineer
+## Engineer
 **Requirements**: Novice, Smarts d6+, Repair d8+
 
 The agent adds +2 to Repair rolls. With a raise, he halves the time normally required
 to fix something. This means if a particular Repair job can be accomplished in half
 the time with a raise, an engineer could finish the job in one-fourth the time.
 
-##Forger
+## Forger
 **Requirements**: Novice, Smarts d8+, Forgery d8+, Notice d6+
 
 The agent makes excellent forgeries. He receives +2 to all Forgery rolls and +2 to
 Notice rolls to detect fakes (Forgery vs. Notice).
 
-##Master Forger
+## Master Forger
 **Requirements**: Seasoned, Forger
 
 The agent makes flawless forgeries, receiving +1 to all Forgery rolls and +1 to
 Notice rolls to detect fakes. This stacks with the Forger Edge.
 
-##Hacker
+## Hacker
 **Requirements**: Novice, Smarts d8+, Tech Ops d10+
 
 The agent is a master of penetrating electronic and computer security systems. He
@@ -261,7 +261,7 @@ receives +2 to all Tech Ops rolls and any Investigation rolls where he has acces
 computer. Each attempt to penetrate a system’s defenses takes 10 minutes instead
 of the normal hour.
 
-##Linguist
+## Linguist
 **Requirements**: Novice, Smarts d8+
 
 The agent gains an additional number of languages equal to half his Smarts die.
@@ -270,7 +270,7 @@ languages as the situation warrants. As his Smarts die increases, he gains two
 languages (the normal benefit of Smarts combined with this Edge).
 
 
-##Maven
+## Maven
 **Requirements**: Novice, Knowledge (Battle) d8+
 
 At the beginning of each hostile encounter, the maven may make a Knowledge
@@ -279,13 +279,13 @@ any agents on his team. Bennies not used by the end of scene are discarded. Note
 If more than one maven is on a team, the test is treated as a cooperative roll as
 detailed in the Savage Worlds core rulebook.
 
-##Spectre
+## Spectre
 **Requirements**: Seasoned, Agility d10+, Thief
 
 A master of infiltration, Spectre unit members gain +1 to Climbing, Lockpicking
 and Stealth rolls. These benefits stack with those gained from the Thief Edge.
 
-##Sponge
+## Sponge
 **Requirements**: Novice, Jack-of-all-Trades
 
 The agent is an amazing source of wide and varied information that can be dredged
@@ -295,7 +295,7 @@ d6 for the remainder of the scene.
 *Social Edges*
 
 
-##Smooth Talker
+## Smooth Talker
 **Requirements**: Novice
 
 You can speak any language you know with complete fluency and do not suffer
@@ -306,13 +306,13 @@ language can reinforce a cover, this adds a +2 to your disguise rolls.
 
 *Legendary Edges*
 
-##Applied Knowledge
+## Applied Knowledge
 **Requirements**: Legendary, Sponge
 
 The character knows something about everything. He may spend a benny to gain
 any skill at a d6 for the remainder of a scene.
 
-##Empty the Clip
+## Empty the Clip
 **Requirements**: Legendary, Rock and Roll!
 
 You can fire all the remaining bullets in your automatic weapon with a normal
@@ -321,52 +321,52 @@ to use this Edge. You must declare whether you’re firing in a Small Burst or C
 template before you roll. Targets then must make an opposed Agility roll against
 the Shooting roll or they suffer standard damage for the weapon type.
 
-##Impeccable Timing
+## Impeccable Timing
 **Requirements**: Legendary, Agility d10+, Quick
 
 The agent has amazing reaction speed. Should he be dealt less than a 10 for
 initiative, his card is treated as a 10 of the same suit (ties are resolved via opposed
 Agility rolls).
 
-##Inside Man
+## Inside Man
 **Requirements**: Legendary
 
 You may spend a benny to have a contact inside one enemy location per adventure.
 
-##Jet Setter
+## Jet Setter
 **Requirements**: Legendary, Flash and Panache
 
 The character is easily recognizable and gains an additional +2 Charisma bonus.
 
-##Last Man Standing
+## Last Man Standing
 **Requirements**: Legendary, Grizzled
 
 Through sheer determination, the character can push past the effects of shock and
 trauma. By spending a benny, he ignores the effects of wound penalties for the
 remainder of the scene.
 
-##Master of Disguise
+## Master of Disguise
 **Requirements**: Legendary, Persuasion d8+
 
 The character is able to easily throw together a disguise at a moment’s notice and
 receives a +4 to Persuasion rolls to pass himself off as another.
 
-##Up Close and Personal
+## Up Close and Personal
 **Requirements**: Legendary, Gun Fu
 
 When engaging an adjacent opponent with a firearm, the agent uses a TN 4 rather
 than the target’s Parry. It may not be used with Empty the Clip.
 
-##Wraith
+## Wraith
 **Requirements**: Legendary, Ghost, Stealth d8+
 
 The wraith is a highly trained assassin able to catch his opponent off-guard and
 strike in an instant. He may spend a benny to automatically get the drop on an
 opponent.
 
-##Setting rules
+## Setting rules
 
-###Restricted edges
+### Restricted edges
 
 The following Edges from the Savage Worlds core book are not allowed.
 **Background**: Linguist, Noble, Rich and Filthy Rich

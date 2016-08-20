@@ -205,15 +205,7 @@ for a nasty surprise, as he unloads his clip into the creature at point blank ra
 Through luck, skill, or a combination of both, this agent is able to expertly defend
 himself against multiple foes. Opponents gain no gang up bonus against him.
 
-##Ranged Pin
-**Requirements**: Seasoned, Shooting d8+ or Throwing d8+
 
-The agent may use certain missile weapons (knives, arrows, spears, etc.) to pin
-opponents to nearby surfaces. The opponent must be within 1”of a wall, tree, or
-similar surface. Make a Shooting or Throwing roll at –2. If successful, the target
-takes normal damage and is pinned, requiring a successful Strength roll to break
-free. With a raise, the opponent must make his Strength roll at –2 or remain
-pinned.
 ##Silent Kill
 **Requirements**: Veteran, Unarmed Combat (Advanced)
 

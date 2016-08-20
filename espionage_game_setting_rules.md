@@ -341,12 +341,7 @@ You can speak any language you know with complete fluency and do not suffer
 any penalties as a non-native speaker. Additionally, you may adopt regional accents
 and use idioms of any language you know, including your native tongue. When
 language can reinforce a cover, this adds a +2 to your disguise rolls.
-##Well Equipped
-**Requirements**: Novice, Charismatic, Tradecraft d6+
 
-Through favors, recommendations, past performance, or a “friend” in the
-department your character gains an additional 2 Resource Points. These may be
-used before a mission or saved for Field Requisitions as normal.
 
 *Legendary Edges*
 

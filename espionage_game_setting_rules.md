@@ -139,12 +139,6 @@ Hindrance Wanted (Major) by the agency in question.
 *Combat Edges*
 
 
-##Carnivore
-**Requirements**: Novice, Strength d8+, Berserk, Fighting d8+
-
-As a free action, the agent may make a Spirit roll to voluntarily go berserk. He may
-also go berserk automatically by spending a benny.
-
 ###Deadly
 **Requirements**: Heroic, Smarts d8+, Fighting or Throwing d10+
 

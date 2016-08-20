@@ -17,30 +17,6 @@ Within the IFO, three branches exist: Assault, Analysis, and Operations. Each
 branch bestows certain benefits upon the agent while they are in that branch. An
 agent may shift branches each time he Advances.
 
-### Agent Branches
-
-**Assault**: Taking the direct approach, agents in this branch mix it up with bullets
-and brawling.
-
-Adaptation note: The assault branch corresponds to Top Secret's Assasination Bureau.
-
-*Benefit*: Combat Immersion Training—Select one Combat Edge.
-
-**Operations**: Strategy, planning, and tactics fall in the bailiwick of this operative.
-
-Adaptation note: The operations branch corresponds to Top Secret's Operations Bureau.
-
-*Benefit*: Operations Immersion Training—Select one Leadership, Professional, or
-Social Edge.
-
-*Note*: These benefits are granted at the start of each new mission, and the character
-must meet the prerequisite of any Edge gained in this manner as normal.
-
-**Analysis**: Investigation, information gathering, and data analysis/interpretation are the specialties of this branch.
-
-Adaptation note: The operations branch corresponds to Top Secret's Investigation Bureau.
-
-*Benefit*: TBD
 
 
 ## Wealth

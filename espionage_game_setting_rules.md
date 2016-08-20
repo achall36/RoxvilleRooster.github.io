@@ -206,19 +206,6 @@ Through luck, skill, or a combination of both, this agent is able to expertly de
 himself against multiple foes. Opponents gain no gang up bonus against him.
 
 
-##Silent Kill
-**Requirements**: Veteran, Unarmed Combat (Advanced)
-
-This agent has been trained in the art of stealth assassination. Whenever he
-successfully kills an enemy unnoticed in a single round, he may attempt one of
-two actions: He may pin the body in place with a Smarts roll or make a Stealth
-roll to catch the body and quietly move and/or hide it with the remainder of his
-movement. Either choice is a free action.
-
-**Example**: Agent Suzuki, creeping along the rooftop of a mafia safe house, drops
-down upon a sentry and kills him in one blow. He may then make a Stealth roll to
-catch the body and move it under the bushes before being spotted. With a success,
-the other guard at the end of the garden path may never suspect a thing.
 ##Superior Defense
 **Requirements**: Veteran, Agility d8+, Block
 

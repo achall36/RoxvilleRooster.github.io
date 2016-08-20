@@ -9,14 +9,7 @@ Agency candidates do not wash out. Six weeks of training gives you the following
 skills at a d4: Fighting, Notice, Shooting, and Tradecraft.
 You also begin with the Hindrance: Obligations (Major: Agency). This does
 NOT count towards your normal Hindrance total.
-
-## Division Assignment and Branch Selection
-All characters are in IFO (Intelligence and Field Operations), but may be loaned
-to other divisions.
-Within the IFO, three branches exist: Assault, Analysis, and Operations. Each
-branch bestows certain benefits upon the agent while they are in that branch. An
-agent may shift branches each time he Advances.
-
+All agents get a free adge (standard for human characters in Savage Worlds).
 
 
 ## Wealth

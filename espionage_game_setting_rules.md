@@ -9,17 +9,9 @@ Agency candidates do not wash out. Six weeks of training gives you the following
 skills at a d4: Fighting, Notice, Shooting, and Tradecraft.
 You also begin with the Hindrance: Obligations (Major: Agency). This does
 NOT count towards your normal Hindrance total.
+
 All agents get a free adge (standard for human characters in Savage Worlds).
 
-
-## Wealth
-Agents are taken care of by the Agency—their lifestyle is determined by their Rank.
-Agent Income Societal Equivalent Security Clearance
-Standard Middle Class Novice
-Well Funded Upper Class Seasoned
-Deep Pockets Rich Veteran
-High Roller Very Rich Heroic
-Jet Set Filthy Rich Legendary
 
 ## Languages
 Besides their native tongue, all agents know half their Smarts die in languages.

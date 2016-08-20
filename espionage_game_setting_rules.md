@@ -12,6 +12,10 @@ NOT count towards your normal Hindrance total.
 
 All agents get a free adge (standard for human characters in Savage Worlds).
 
+## Starting rank
+The agents have appreciable field experience and start at 25 XP (Seasoned rank). 
+Discuss any exceptions to this assumption with the GM well before the session starts.
+
 
 ## Languages
 Besides their native tongue, all agents know half their Smarts die in languages.

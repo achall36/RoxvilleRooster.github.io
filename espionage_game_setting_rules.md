@@ -212,12 +212,14 @@ himself against multiple foes. Opponents gain no gang up bonus against him.
 The agent has mastered special defensive techniques. When using the Defend
 maneuver, his Parry is increased by +4 (instead of +2). If using the Full Defense
 maneuver, add +2 to his Fighting roll to determine the Parry score.
+
+
 ##Takedown
 **Requirements**: Novice, Fighting d8+
 
 The agent is trained in how to throw or trip an opponent. Make an opposed
 Fighting roll versus the target. Each Size category difference incurs a –2 penalty.
-With a success, the now prone opponent may be placed in any spot within 1”of
+With a success, the now prone opponent may be placed in any spot within 1" of
 the agent. With a raise, the opponent is prone and Shaken; if already Shaken, he
 takes a wound.
 
@@ -226,6 +228,7 @@ takes a wound.
 
 The agent knows how to strike foes with maximum effect. He receives +2 to
 unarmed damage rolls.
+
 ##Unarmed Combat (Basic)
 **Requirements**: Novice, Fighting d6+
 
@@ -237,12 +240,14 @@ Defender, giving his opponents +2 to their Fighting rolls to strike him.
 
 **Example**: Joe has Unarmed Combat (Basic). He is now treated as armed, and with
 his Str d6, does d6 + d4 damage with a punch, pummel, or kick.
+
 ##Unarmed Combat (Advanced)
 **Requirements**: Seasoned, Fighting d8+, Unarmed Combat (Basic)
 
 The agent’s Unarmed Combat damage increases to Str+d6. This damage is not
 restricted by a lower Strength die type, so even a character with a d4 Strength
 would do d4+d6 damage with this Edge.
+
 ##Wheelman
 **Requirements**: Seasoned, Ace
 
@@ -261,27 +266,32 @@ appropriate roll to hide or obliterate evidence. Others coming behind you must
 make an opposed roll to uncover any trace of your presence. The agent receives
 an additional +1 to Investigation, Streetwise, and Notice rolls when searching
 through or obfuscating information. This stacks with the Investigator Edge.
+
 ##Demolisher
 **Requirements**: Novice, Smarts d8+, Demolitions d8+
 
 The agent receives +2 on demolitions rolls when placing charges, and damage with
 explosives may Ace.
+
 ##Engineer
 **Requirements**: Novice, Smarts d6+, Repair d8+
 
 The agent adds +2 to Repair rolls. With a raise, he halves the time normally required
 to fix something. This means if a particular Repair job can be accomplished in half
 the time with a raise, an engineer could finish the job in one-fourth the time.
+
 ##Forger
 **Requirements**: Novice, Smarts d8+, Forgery d8+, Notice d6+
 
 The agent makes excellent forgeries. He receives +2 to all Forgery rolls and +2 to
 Notice rolls to detect fakes (Forgery vs. Notice).
+
 ##Master Forger
 **Requirements**: Seasoned, Forger
 
 The agent makes flawless forgeries, receiving +1 to all Forgery rolls and +1 to
-Notice rolls to detect fakes. This stacks with the Forger Edge
+Notice rolls to detect fakes. This stacks with the Forger Edge.
+
 ##Hacker
 **Requirements**: Novice, Smarts d8+, Tech Ops d10+
 
@@ -297,6 +307,8 @@ The agent gains an additional number of languages equal to half his Smarts die.
 Additionally, he may make a Smarts roll to identify, speak, and read unknown
 languages as the situation warrants. As his Smarts die increases, he gains two
 languages (the normal benefit of Smarts combined with this Edge).
+
+
 ##Maven
 **Requirements**: Novice, Knowledge (Battle) d8+
 
@@ -305,11 +317,13 @@ At the beginning of each hostile encounter, the maven may make a Knowledge
 any agents on his team. Bennies not used by the end of scene are discarded. Note:
 If more than one maven is on a team, the test is treated as a cooperative roll as
 detailed in the Savage Worlds core rulebook.
+
 ##Spectre
 **Requirements**: Seasoned, Agility d10+, Thief
 
 A master of infiltration, Spectre unit members gain +1 to Climbing, Lockpicking
 and Stealth rolls. These benefits stack with those gained from the Thief Edge.
+
 ##Sponge
 **Requirements**: Novice, Jack-of-all-Trades
 
@@ -318,14 +332,7 @@ up at a moment’s notice. He may spend a benny to have any Smarts-based skill a
 d6 for the remainder of the scene.
 
 *Social Edges*
-##Field Tester
-**Requirements**: Seasoned, Tradecraft d8+
 
-The agent has been chosen to test prototypes in the field for the Vault. Your
-character gains an additional 2 Resource Points to spend on spytech or SUDs. A
-1 on the skill die when using this equipment causes it to malfunction or act in an
-unexpected way – as determined by the Director. These points may only be used
-before a mission and may not be saved for Field Requisitions.
 ##Flash and Panache
 **Requirements**: Veteran, Charismatic
 

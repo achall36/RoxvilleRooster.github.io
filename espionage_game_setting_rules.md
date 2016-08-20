@@ -333,12 +333,7 @@ d6 for the remainder of the scene.
 
 *Social Edges*
 
-##Flash and Panache
-**Requirements**: Veteran, Charismatic
 
-You know how to get the most bang for your buck. You gain an additional +2
-bonus to reaction modifiers and related skill rolls (such as Persuasion) when
-throwing money around.
 ##Smooth Talker
 **Requirements**: Novice
 

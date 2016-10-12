@@ -1,8 +1,9 @@
 ---
-title: Espionage game setting rules (lite)
+title: Savage Special Ops
 layout: page
 ---
 
+# Game setting rules
 
 The year is 1983.
 You are agents working together in a joint mission under the service of The Agency, (NATO nations).
@@ -14,10 +15,9 @@ You have 25 XP (5 advances to spend).
 
 
 Some sample tokens are here:
-https://drive.google.com/open?id=0B0lb1qfRe-jtQ2dIY3FwQk1QMmc
+(https://drive.google.com/open?id=0B0lb1qfRe-jtQ2dIY3FwQk1QMmc)
 
-And there's a playlist:
-https://play.spotify.com/user/achall-us/playlist/1NIH7MURguqFqBgcLJxhlj
+And there's a [playlist](https://play.spotify.com/user/achall-us/playlist/1NIH7MURguqFqBgcLJxhlj)
 
 It's go time!
 

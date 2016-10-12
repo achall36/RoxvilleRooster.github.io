@@ -1,4 +1,7 @@
-# Espionage game setting rules
+---
+title: Espionage game setting rules (lite)
+layout: page
+---
 
 
 The year is 1983.

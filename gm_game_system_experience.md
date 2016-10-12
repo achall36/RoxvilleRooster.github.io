@@ -1,4 +1,8 @@
-# More about Andy
+
+---
+title: More about this GM and player
+layout: page
+---
 
 
 ### Game systems I have GMed

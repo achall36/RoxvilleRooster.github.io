@@ -392,6 +392,7 @@ opponent.
 ### Restricted edges
 
 The following Edges from the Savage Worlds core book are not allowed.
+
 **Background**: Linguist, Noble, Rich and Filthy Rich
 
 **Combat Edges**: Improvisational Fighter

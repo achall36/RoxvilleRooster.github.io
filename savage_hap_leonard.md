@@ -1,4 +1,9 @@
-# Savaging Lansdale's Hap and Leonard
+---
+title: Savaging Hap and Leonard
+layout: page
+---
+
+# Adapting Joe R. Lansdale's Hap and Leonard
 
 
 Hap Collins and Leonard Pine are the main characters in series of novels and
@@ -6,14 +11,16 @@ short stories by Joe R. Lansdale. In 2016, the Sundance network released a
 six-part TV series that covers the novel "Savage Season".
 
 The point of this page is to describe the characters from the stories for the
-Savage Worlds Role-Playing Game.
+Savage Worlds Roleplaying Game.
 
 ## Being a Joe R. Lansdale fan
 
 
 Joe Lansdale writes some fun, evocative yarns. Thanks to Bruce Campbell and the movie version of Bubba Ho-Tep, I found Champion Joe. I will not claim I have read all of Joe's stuff (the master is prolific) but I have read most of everything related to the Hap and Leonard series. To me, Hap and Leonard are similar to Fritz Leiber's Fafhrd and the Grey Mouser.   
+
 ## Being a Savage Worlds gamer                                                                                                                                                                                                                                                                                                                                                                                                                        
 When I came back to tabletop role-playing games in my early forties, I soon found Savage Worlds (after an initial foray into Pathfinder). Savage Worlds is my system of choice nowadays because it is versatile and fast. There is also enough crunch in the rules to satisfy my old-schooly wants.                                                                                                                                                
+
 ## Savage Worlds and Joe Lansdale's East Texas                                                                                                                                                                                                                                                                                                                                                                                                                     
 In 2015, Pinnacle Entertainment Group came out with the East Texas University (ETU) setting, which is a mash up where Buffy the Vampire Slayer, Miskatonic University, and Blue Mountain State meet in Lansdale country. There is even a building named after Champion Joe on the ETU campus.                                                                                                                                                      
 Unlike the supernatureal horror in the ETU setting, the horror in the Hap and Leonard books is visceral, earthly horror and it is efective because it is man-made, unnerving, mundane yet inhuman.                                                                                                                                                                                                                                                Hap and Leonard reside in the fictional town of LaBorde, Texas and that can easily be situated close by the fictitious university town of Pinebox. You can easily find a reason for Hap and Leonard to visit Pinebox. They have served as security guards at a chicken processing plant before, so maybe they can do a stint as campus police.                                                                                                     
@@ -21,7 +28,6 @@ As far as the timelines are concerned, do not sweat it. Hap and Leonard were ver
 
 ![collins-pine](http://images.amcnetworks.com/sundancechannel.com/wp-content/uploads/2016/01/HAP-AND-LEONARD_hap-collins_james-purefoy_leonard-pine-michael-k-williams_01_1000x594.jpg)                                                                                                                                                                                                                                                                           
 ## Character spotlights                                                                                                                                                                                                                                                                                                                                                                                                                               
-
 
 *   [Hap Collins](#hap-collins)
 *   [Leonard Pine](#leonard-pine)
@@ -35,6 +41,7 @@ As far as the timelines are concerned, do not sweat it. Hap and Leonard were ver
 *	[Charlie Blank] (#charlie-blank)
 
 ### Hap Collins
+
 * Caucasian male 
 * Leans to the left on the political spectrum 
 * Reads Doc Savage and Michael Moorcock 
@@ -43,10 +50,10 @@ As far as the timelines are concerned, do not sweat it. Hap and Leonard were ver
 * Heroic 
 * Drinks near beer (Sharps brand is typical) 
 * Will not shoot an unarmed foe (minor pacfist?)
-![Hap]
-(http://images.amcnetworks.com/sundancechannel.com/wp-content/uploads/2016/01/HAP-AND-LEONARD_hap-collins_james-purefoy_02_700x384.jpg)
+![Hap](http://images.amcnetworks.com/sundancechannel.com/wp-content/uploads/2016/01/HAP-AND-LEONARD_hap-collins_james-purefoy_02_700x384.jpg)
 
 ### Leonard Pine                                                          
+
 * Black male, homosexual, openly gay but not flamboyant 
 * Tends to vote Republican 
 * Likes classic country music (e.g., Pasty Cline) 
@@ -56,10 +63,10 @@ As far as the timelines are concerned, do not sweat it. Hap and Leonard were ver
 * Loves dogs and does not take kindly to folks who would abuse them 
 * Loves vanilla cookies and Dr. Pepper       
 
-![Leonard]
-(http://images.amcnetworks.com/sundancechannel.com/wp-content/uploads/2016/03/Michael-Kenneth-Williams-Leonard-Pine-Hap-and-Leonard-101-700384.jpg)                                   
+![Leonard](http://images.amcnetworks.com/sundancechannel.com/wp-content/uploads/2016/03/Michael-Kenneth-Williams-Leonard-Pine-Hap-and-Leonard-101-700384.jpg)                                   
 
 ### Brett Sawyer
+
 * Ginger female, Hap's girlfriend
 * Professional nurse (later private investigator)
 * She's an awesome, strong female character
@@ -67,8 +74,8 @@ As far as the timelines are concerned, do not sweat it. Hap and Leonard were ver
 * Who would I cast as Brett? Marg Helgenberger.
 
 
-
 ### Marvin Hanson
+
 * Former detective turned private investigator; later chief of police in LaBorde, Texas
 * Friend and patron to Hap and Leonard; has them do legwork for his cases
 * Wounded in the leg, is debilitated for a long time, eventually reovers but should be consdidered to have the lame hindrance
@@ -76,23 +83,27 @@ As far as the timelines are concerned, do not sweat it. Hap and Leonard were ver
 * Troubled married life after her cheated on is wife
 * Is not intimidated by Leonard
 
-
-
-
 ### Vanilla Ride                                                          
+
 * Blonde female, very attractive
 * Known to be interested in Hap
 * Assasin, very stealthy
 * Expert shot
 * Very good driver
 * Lethal customer                                                                                                                                                                                                                                     
-### Cason Stadler                                                       * Caucasian male
+
+### Cason Stadler
+
+* Caucasian male
 * Consider him a "player" with the ladies
 * Pulltizer prize nominated investigative journalist now works for the local paper (in Camp Rapture) 
 * Iraq war veteran 
 * Leverages connections/contacts 
 * Handsome and persuasive                                                                                                                  
-### Booger                                                        *   Describes himself as a mutt (from a racial/ethnic perspective)
+
+### Booger                                                        
+
+*   Describes himself as a mutt (from a racial/ethnic perspective)
 *   Possible sociopath
 *   Veteran
 *   Crazy cheshire-cat like grin
@@ -104,6 +115,7 @@ As far as the timelines are concerned, do not sweat it. Hap and Leonard were ver
 *   Will shoot an unarmed foe
 
 ### Jim Bob Luke
+
 * Tough-as-nails private detective; very capable in combat
 * Acts like a redneck and uses racial/ethnic slurs (calls Mexicans "Fritos"); is not racist, but cultivates a hick/redneck image
 * Has a network of connections
@@ -111,10 +123,10 @@ As far as the timelines are concerned, do not sweat it. Hap and Leonard were ver
 * Drives "the red bitch"
 * Known to raise pigs
 
-![JimBob]
-(http://files.list.co.uk/images/2014/06/09/cij-still-281-lst141322.jpg)
+![JimBob](http://files.list.co.uk/images/2014/06/09/cij-still-281-lst141322.jpg)
 
 ### Charlie Blank
+
 * Detective, worked with Hanson
 * Friend to Hap and Leonard
 * Wore a porkpie hat and a K-Mart suit

@@ -427,7 +427,7 @@ This assumes that you act on the deuce. If you have multiple
 inititaive cards and choose to act on the deuce instead of the 
 higher cards, you get this benny.
 
-### "Screw me" benny
+### The "screw me!" benny
 If you roll double ones on a trait test, you can elect to take the failure and not use a benny to reroll. 
 If you take the failure, you narrate the consequences and draw a benny.
 

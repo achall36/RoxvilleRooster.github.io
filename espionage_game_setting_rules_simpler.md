@@ -14,10 +14,9 @@ Pregens are created with 0 XP and they are in the Roll20 Game.
 You have 25 XP (5 advances to spend).
 
 
-Some sample tokens are [in Google Drive here]
-(https://drive.google.com/open?id=0B0lb1qfRe-jtQ2dIY3FwQk1QMmc)
+Some sample tokens are [in Google Drive here](https://drive.google.com/open?id=0B0lb1qfRe-jtQ2dIY3FwQk1QMmc).
 
-And there's a [playlist](https://play.spotify.com/user/achall-us/playlist/1NIH7MURguqFqBgcLJxhlj)
+And there's a [playlist](https://play.spotify.com/user/achall-us/playlist/1NIH7MURguqFqBgcLJxhlj).
 
 It's go time!
 

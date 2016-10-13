@@ -14,7 +14,7 @@ Pregens are created with 0 XP and they are in the Roll20 Game.
 You have 25 XP (5 advances to spend).
 
 
-Some sample tokens are here:
+Some sample tokens are [in Google Drive here]
 (https://drive.google.com/open?id=0B0lb1qfRe-jtQ2dIY3FwQk1QMmc)
 
 And there's a [playlist](https://play.spotify.com/user/achall-us/playlist/1NIH7MURguqFqBgcLJxhlj)
@@ -407,9 +407,10 @@ Mentalist, Mr. Fix-It, and Wizard
 Remember the original, unforgiving shaken rules? We'll use them.
 
 On an his action, a Shaken character msut attempt to recover from being Shaken by making a Spirit roll:
-Failure: Character remains shaken and can only perform free actions.
-Success: Character is no longer Shaken, but can only perform free actions that turn.
-Raise: Character is no longer Shaken and can act normally.
+* __Failure__: Character remains shaken and can only perform free actions.
+* __Success__: Character is no longer Shaken, but can only perform free actions that turn.
+* __Raise__: Character is no longer Shaken and can act normally.
+
 A player can spend a benny anytime to remove the Shaken status from a character.
 
 

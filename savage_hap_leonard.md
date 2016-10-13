@@ -84,6 +84,7 @@ As far as the timelines are concerned, do not sweat it. Hap and Leonard were ver
 * Dark-skinned black man
 * Troubled married life after her cheated on is wife
 * Is not intimidated by Leonard
+* Who would I cast as Hanson? Andre Braugher
 
 ### Vanilla Ride                                                          
 
@@ -93,6 +94,7 @@ As far as the timelines are concerned, do not sweat it. Hap and Leonard were ver
 * Expert shot
 * Very good driver
 * Lethal customer                                                                                                                                                                                                                                     
+* Who would I cast as Vanilla Ride? Blake Lively
 
 ### Cason Stadler
 
@@ -100,7 +102,8 @@ As far as the timelines are concerned, do not sweat it. Hap and Leonard were ver
 * Handsome and persuasive; consider him a "player" with the ladies
 * Pulltizer prize-nominated investigative journalist who now works for the local paper (in Camp Rapture) 
 * Iraq war veteran 
-* Leverages connections/contacts 
+* Leverages connections/contacts
+* Who would I cast as Cason? Mark Ruffalo 
                                                                                                                 
 
 ### Booger                                                        
@@ -115,6 +118,7 @@ As far as the timelines are concerned, do not sweat it. Hap and Leonard were ver
 *   Boxer's physique
 *   Associate of Cason Stadler (Iraq war buddy?)
 *   Will shoot an unarmed foe
+*   Who would I cast as Hanson? Liev Schreiber
 
 ### Jim Bob Luke
 
@@ -134,3 +138,4 @@ As far as the timelines are concerned, do not sweat it. Hap and Leonard were ver
 * Detective, worked with Hanson
 * Friend to Hap and Leonard
 * Wore a porkpie hat and a K-Mart suit
+* * Who would I cast as Charlie? Joey Pants

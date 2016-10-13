@@ -53,7 +53,7 @@ The ability to fabricate, adapt or imitate objects or documents with the intent 
 deceive. Attempting to make forgeries without the proper tools is done at –2. The
 tools vary wildly, depending upon the nature of the item in question.
 
-## Tech Ops (Smarts)
+### Tech Ops (Smarts)
 Technical Operations is the ability to operate, secure, and sabotage computer and
 electronic systems.
 

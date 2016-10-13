@@ -47,13 +47,16 @@ Amount of Explosive Maximum Size of Effect
 3d6 SBT
 4d6 MBT, Cone
 5d6 LBT, Cone
+
 ### Forgery (Smarts)
 The ability to fabricate, adapt or imitate objects or documents with the intent to
 deceive. Attempting to make forgeries without the proper tools is done at –2. The
 tools vary wildly, depending upon the nature of the item in question.
+
 ## Tech Ops (Smarts)
 Technical Operations is the ability to operate, secure, and sabotage computer and
 electronic systems.
+
 ## Tradecraft (Smarts)
 This skill reflects the practical application of procedures and protocols such as dead
 drops, brief encounters, pickups, load and unload signals, danger and safe signals,
@@ -62,6 +65,7 @@ of other world agencies as well as aiding in field requisitions and governs exac
 what you can requisition at any given Rank.
 
 ## New hindrances
+
 ### Obligations (Minor or Major)
 The agent is connected to someone or something demanding a portion of his
 time. These obligations can include almost anything, such as checking in on a
@@ -103,6 +107,7 @@ discretion.
 Pandoran agent rushes toward him. Jake lunges with his plastic drinking straw,
 smashing it into the Pandoran’s throat, causing d6+d4 damage! Leaving him
 wheezing in the road, Jake quickly and quietly flees the scene.
+
 ### Disarm Mastery
 **Requirements**: Novice, Fighting d8+, Martial Artist
 
@@ -111,6 +116,7 @@ an opposed Fighting roll against his opponent. With a success, the adversary
 drops his weapon. With a raise, the opponent is Shaken and the weapon flies 1d4
 random inches away or the agent may elect to take it if he has one or both hands
 free.
+
 ### Fast Strike
 **Requirements**: Seasoned, Agility d8+, Fighting d8+
 
@@ -125,6 +131,7 @@ agent is still subject to First Strike attacks from adjacent foes as normal.
 
 This agent is trained to use subterfuge in hostile situations. He receives +2 to all
 Tricks.
+
 ### Grab and Hold
 **Requirements**: Novice, Martial Artist
 
@@ -139,6 +146,7 @@ unarmed strikes. When he grapples, he does only his Strength in damage.
 (Basic) damage to grappled opponents, doing Str+d4 damage to anyone within
 his iron grasp. Should he later get, Unarmed Combat (Advanced), it increases to
 Str+d6.
+
 ### Grizzled
 **Requirements**: Seasoned, Spirit d6+, Vigor d8+
 
@@ -158,6 +166,7 @@ him.
 **Example**: Agent Rook, having survived his close encounter, learns Gun Fu and
 takes point. The next lycanthrope to jump down on him from the shadows is in
 for a nasty surprise, as he unloads his clip into the creature at point blank range.
+
 ### Hindsight
 **Requirements**: Novice, Fighting d10+
 
@@ -173,6 +182,7 @@ similar surface. Make a Shooting or Throwing roll at –2. If successful, the ta
 takes normal damage and is pinned, requiring a successful Strength roll to break
 free. With a raise, the opponent must make his Strength roll at –2 or remain
 pinned.
+
 ### Silent Kill
 **Requirements**: Veteran, Improved Martial Artist
 
@@ -186,12 +196,14 @@ movement. Either choice is a free action.
 down upon a sentry and kills him in one blow. He may then make a Stealth roll to
 catch the body and move it under the bushes before being spotted. With a success,
 the other guard at the end of the garden path may never suspect a thing.
+
 ### Superior Defense
 **Requirements**: Veteran, Agility d8+, Block
 
 The agent has mastered special defensive techniques. When using the Defend
 maneuver, his Parry is increased by +4 (instead of +2). If using the Full Defense
 maneuver, add +2 to his Fighting roll to determine the Parry score.
+
 ### Takedown
 **Requirements**: Novice, Fighting d8+
 
@@ -226,27 +238,32 @@ appropriate roll to hide or obliterate evidence. Others coming behind you must
 make an opposed roll to uncover any trace of your presence. The agent receives
 an additional +1 to Investigation, Streetwise, and Notice rolls when searching
 through or obfuscating information. This stacks with the Investigator Edge.
+
 ### Demolisher
 **Requirements**: Novice, Smarts d8+, Demolitions d8+
 
 The agent receives +2 on demolitions rolls when placing charges, and damage with
 explosives may Ace.
+
 ### Engineer
 **Requirements**: Novice, Smarts d6+, Repair d8+
 
 The agent adds +2 to Repair rolls. With a raise, he halves the time normally required
 to fix something. This means if a particular Repair job can be accomplished in half
 the time with a raise, an engineer could finish the job in one-fourth the time.
+
 ### Forger
 **Requirements**: Novice, Smarts d8+, Forgery d8+, Notice d6+
 
 The agent makes excellent forgeries. He receives +2 to all Forgery rolls and +2 to
 Notice rolls to detect fakes (Forgery vs. Notice).
+
 ### Master Forger
 **Requirements**: Seasoned, Forger
 
 The agent makes flawless forgeries, receiving +1 to all Forgery rolls and +1 to
 Notice rolls to detect fakes. This stacks with the Forger Edge
+
 ### Hacker
 **Requirements**: Novice, Smarts d8+, Tech Ops d10+
 
@@ -262,6 +279,7 @@ The agent gains an additional number of languages equal to half his Smarts die.
 Additionally, he may make a Smarts roll to identify, speak, and read unknown
 languages as the situation warrants. As his Smarts die increases, he gains two
 languages (the normal benefit of Smarts combined with this Edge).
+
 ### Maven
 **Requirements**: Novice, Knowledge (Battle) d8+
 
@@ -270,11 +288,13 @@ At the beginning of each hostile encounter, the maven may make a Knowledge
 any agents on his team. Bennies not used by the end of scene are discarded. Note:
 If more than one maven is on a team, the test is treated as a cooperative roll as
 detailed in the Savage Worlds core rulebook.
+
 ### Spectre
 **Requirements**: Seasoned, Agility d10+, Thief
 
 A master of infiltration, Spectre unit members gain +1 to Climbing, Lockpicking
 and Stealth rolls. These benefits stack with those gained from the Thief Edge.
+
 ### Sponge
 **Requirements**: Novice, Jack-of-all-Trades
 
@@ -290,6 +310,7 @@ d6 for the remainder of the scene.
 You know how to get the most bang for your buck. You gain an additional +2
 bonus to reaction modifiers and related skill rolls (such as Persuasion) when
 throwing money around.
+
 ### Smooth Talker
 **Requirements**: Novice
 
@@ -305,6 +326,7 @@ language can reinforce a cover, this adds a +2 to your disguise rolls.
 
 The character knows something about everything. He may spend a benny to gain
 any skill at a d6 for the remainder of a scene.
+
 ### Empty the Clip
 **Requirements**: Legendary, Rock and Roll!
 
@@ -313,36 +335,43 @@ Shooting roll by spending a benny. You must have at least half a clip remaining
 to use this Edge. You must declare whether you’re firing in a Small Burst or Cone
 template before you roll. Targets then must make an opposed Agility roll against
 the Shooting roll or they suffer standard damage for the weapon type.
+
 ### Impeccable Timing
 **Requirements**: Legendary, Agility d10+, Quick
 
 The agent has amazing reaction speed. Should he be dealt less than a 10 for
 initiative, his card is treated as a 10 of the same suit (ties are resolved via opposed
 Agility rolls).
+
 ### Inside Man
 **Requirements**: Legendary
 
 You may spend a benny to have a contact inside one enemy location per adventure.
+
 ### Jet Setter
 **Requirements**: Legendary, Flash and Panache
 
 The character is easily recognizable and gains an additional +2 Charisma bonus.
+
 ### Last Man Standing
 **Requirements**: Legendary, Grizzled
 
 Through sheer determination, the character can push past the effects of shock and
 trauma. By spending a benny, he ignores the effects of wound penalties for the
 remainder of the scene.
+
 ### Master of Disguise
 **Requirements**: Legendary, Persuasion d8+
 
 The character is able to easily throw together a disguise at a moment’s notice and
 receives a +4 to Persuasion rolls to pass himself off as another.
+
 ### Up Close and Personal
 **Requirements**: Legendary, Gun Fu
 
 When engaging an adjacent opponent with a firearm, the agent uses a TN 4 rather
 than the target’s Parry. It may not be used with Empty the Clip.
+
 ### Wraith
 **Requirements**: Legendary, Ghost, Stealth d8+
 

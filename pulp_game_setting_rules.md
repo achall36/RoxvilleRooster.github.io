@@ -63,10 +63,12 @@ The GM has final say on Story Declaration, but generally, if what you propose ma
 Mooks are the level below Extras. Mooks are the faceless cannon-fodder who get thrown at the heroes in combat. The villain will throw these at the heroes in an effort to slow their progress, with the off chance that one or more Mooks might get lucky and do some damage.
 
 Mooks are just like Extras, but with the following special rules:
+
 * Every Trait is average (d6).
 * They only possess four skills, and each skill is rated at d6.
 * They have no edges and no hindrances.
 * Mooks are never Shaken.
+
 If you equal or exceed their Toughness, they’re out of the fight.
 Mooks will willingly lay down their lives for the main villain (see the SWDEE setting rule Fanaticism).
 
@@ -78,10 +80,11 @@ In addition to skills and traits, every character has a number of interests and 
 Your character begins with a number of defining interests equal to half of her Smarts die type. Any permanent increase in a character's Smarts grants the appropriate number of additional defining interests that should be selected at the time of the increase. A defining interest gives the character a base +1 to their Common Knowledge roll when the subject is called into question.
 
 #### Sample Interests
-Culture: Anthropology, Archaeology, Astrology, Astronomy, Biology, Botany, City Knowledge (Specific), Chemistry, Classical Literature, Cooking, Culture (Specific), Etiquette, Folklore, Forensics, Geology, Language (Specific), Knowledge (Specific), Natural History, Photography, Physics 
-Craft: Art (Specific), Electrical Repair, Mechanical Repair
-Perform: Acting, Comedy, Dance, Disguise, Juggling, Instrument (Specific), Oratory, Puppetry, Singing
-Languages: Languages fall under the category of defining interests. A character can automatically speak and (when appropriate) read and write his native tongue. Additional languages require the player to choose the Language interest.
+
+__Culture__: Anthropology, Archaeology, Astrology, Astronomy, Biology, Botany, City Knowledge (Specific), Chemistry, Classical Literature, Cooking, Culture (Specific), Etiquette, Folklore, Forensics, Geology, Language (Specific), Knowledge (Specific), Natural History, Photography, Physics 
+__Craft__: Art (Specific), Electrical Repair, Mechanical Repair
+__Perform__: Acting, Comedy, Dance, Disguise, Juggling, Instrument (Specific), Oratory, Puppetry, Singing
+__Languages__: Languages fall under the category of defining interests. A character can automatically speak and (when appropriate) read and write his native tongue. Additional languages require the player to choose the Language interest.
 
 **Note:**
 You can come up with additional items that fit your PC, subject to the GM’s approval. A defining interest provides only a general knowledge of a topic and is not as detailed as someone who takes a specific Knowledge skill.

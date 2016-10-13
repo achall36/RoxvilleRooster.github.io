@@ -28,6 +28,7 @@ Unlike the supernatureal horror in the ETU setting, the horror in the Hap and Le
 As far as the timelines are concerned, do not sweat it. Hap and Leonard were very active in the late 80s but the latest novel, Honkytonk Samurai (2016), is set in the 2010s or so (there is a reference to a character making a video using a tablet). Technology seldom plays a big factor in the Hap and Leonard oeuvre and I do not think Joe Lansdale is too fussy when the stories take place on the calendar, as long as the vibe is right. 
 
 ![collins-pine](http://images.amcnetworks.com/sundancechannel.com/wp-content/uploads/2016/01/HAP-AND-LEONARD_hap-collins_james-purefoy_leonard-pine-michael-k-williams_01_1000x594.jpg)                                                                                                                                                                                                                                                                           
+
 ## Character spotlights                                                                                                                                                                                                                                                                                                                                                                                                                               
 
 *   [Hap Collins](#hap-collins)
@@ -96,11 +97,11 @@ As far as the timelines are concerned, do not sweat it. Hap and Leonard were ver
 ### Cason Stadler
 
 * Caucasian male
-* Consider him a "player" with the ladies
-* Pulltizer prize nominated investigative journalist now works for the local paper (in Camp Rapture) 
+* Handsome and persuasive; consider him a "player" with the ladies
+* Pulltizer prize-nominated investigative journalist who now works for the local paper (in Camp Rapture) 
 * Iraq war veteran 
 * Leverages connections/contacts 
-* Handsome and persuasive                                                                                                                  
+                                                                                                                
 
 ### Booger                                                        
 
@@ -118,13 +119,15 @@ As far as the timelines are concerned, do not sweat it. Hap and Leonard were ver
 ### Jim Bob Luke
 
 * Tough-as-nails private detective; very capable in combat
-* Acts like a redneck and uses racial/ethnic slurs (calls Mexicans "Fritos"); is not racist, but cultivates a hick/redneck image
+* Acts like a redneck and uses racial/ethnic slurs (calls Mexicans "Fritos"); is not a racist, but cultivates a hick/redneck image
 * Has a network of connections
 * Experienced investigator with great instincts
-* Drives "the red bitch"
+* Drives "the red bitch", a vintage red Cadillac with steer horns on the front
 * Known to raise pigs
 
 ![JimBob](http://files.list.co.uk/images/2014/06/09/cij-still-281-lst141322.jpg)
+
+![The Red Bitch](http://www.imcdb.org/i731581.jpg)
 
 ### Charlie Blank
 

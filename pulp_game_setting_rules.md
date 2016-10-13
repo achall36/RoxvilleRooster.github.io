@@ -1,4 +1,9 @@
-# Rules for the classic pulp game
+---
+title: Classic pulp
+layout: page
+---
+
+# Setting rules
 
 
 ## House rules

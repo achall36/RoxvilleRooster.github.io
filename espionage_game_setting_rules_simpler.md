@@ -327,6 +327,7 @@ language can reinforce a cover, this adds a +2 to your disguise rolls.
 The character knows something about everything. He may spend a benny to gain
 any skill at a d6 for the remainder of a scene.
 
+
 ### Empty the Clip
 **Requirements**: Legendary, Rock and Roll!
 
@@ -336,6 +337,7 @@ to use this Edge. You must declare whether you’re firing in a Small Burst or C
 template before you roll. Targets then must make an opposed Agility roll against
 the Shooting roll or they suffer standard damage for the weapon type.
 
+
 ### Impeccable Timing
 **Requirements**: Legendary, Agility d10+, Quick
 
@@ -343,15 +345,18 @@ The agent has amazing reaction speed. Should he be dealt less than a 10 for
 initiative, his card is treated as a 10 of the same suit (ties are resolved via opposed
 Agility rolls).
 
+
 ### Inside Man
 **Requirements**: Legendary
 
 You may spend a benny to have a contact inside one enemy location per adventure.
 
+
 ### Jet Setter
 **Requirements**: Legendary, Flash and Panache
 
 The character is easily recognizable and gains an additional +2 Charisma bonus.
+
 
 ### Last Man Standing
 **Requirements**: Legendary, Grizzled
@@ -360,17 +365,20 @@ Through sheer determination, the character can push past the effects of shock an
 trauma. By spending a benny, he ignores the effects of wound penalties for the
 remainder of the scene.
 
+
 ### Master of Disguise
 **Requirements**: Legendary, Persuasion d8+
 
 The character is able to easily throw together a disguise at a moment’s notice and
 receives a +4 to Persuasion rolls to pass himself off as another.
 
+
 ### Up Close and Personal
 **Requirements**: Legendary, Gun Fu
 
 When engaging an adjacent opponent with a firearm, the agent uses a TN 4 rather
 than the target’s Parry. It may not be used with Empty the Clip.
+
 
 ### Wraith
 **Requirements**: Legendary, Ghost, Stealth d8+
@@ -415,7 +423,7 @@ receive a Benny!
 If you get a deuce for combat initiative, you get a benny.
 This assumes that you act on the deuce. If you have multiple 
 inititaive cards and choose to act on the deuce instead of the 
-higher cards, you get his benny.
+higher cards, you get this benny.
 
 ### "Screw me" benny
 If you roll double ones on a trait test, you can elect to take the failure and not use a benny to reroll. 

@@ -407,8 +407,11 @@ Mentalist, Mr. Fix-It, and Wizard
 Remember the original, unforgiving shaken rules? We'll use them.
 
 On an his action, a Shaken character msut attempt to recover from being Shaken by making a Spirit roll:
+
 * __Failure__: Character remains shaken and can only perform free actions.
+
 * __Success__: Character is no longer Shaken, but can only perform free actions that turn.
+
 * __Raise__: Character is no longer Shaken and can act normally.
 
 A player can spend a benny anytime to remove the Shaken status from a character.

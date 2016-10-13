@@ -20,7 +20,8 @@ Instead of having separate skills for Swimming and Climbing, we'll use Athletics
 Download the [Daring Tales of Adventure: Pulp Rules](http://tripleacegames.com/Downloads/DaringTales/TAG31000A_PULP_RULES.pdf) from Triple Ace Games.
 
 We'll be using these rules but we will make the following exceptions:
-* For Heroic Combat, we will ignore the Extras' Damage and Nonlethal rules. This will make the enemy extras more of a threat. 
+
+* For Heroic Combat, we will ignore the __Extras' Damage__ and __Nonlethal__ rules. This will make the enemy extras more of a threat. 
 
 From the Savage Worlds Deluxe Explorer's Edition (p108), we'll also use the following setting rules:
 
@@ -116,8 +117,7 @@ The character has the perception, skill, and agility to handle multiple foes. Op
 ##### Improved Combat Sense
 Requirements: Veteran, Combat Sense
 
-Opponents gain no Gang Up bonus against
-this warrior.
+Opponents gain no Gang Up bonus against this warrior.
 
 
 #### Dirty Fighter (Combat)

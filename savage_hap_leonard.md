@@ -33,14 +33,14 @@ As far as the timelines are concerned, do not sweat it. Hap and Leonard were ver
 
 *   [Hap Collins](#hap-collins)
 *   [Leonard Pine](#leonard-pine)
-*   Brett Sawyer (#brett-sawyer)
+*   [Brett Sawyer](#brett-sawyer)
 *   [Marvin Hanson](#marvin-hanson)
 *   [Jim Bob Luke](#jim-bob-luke)
-*   [Cason Stadler] (#cason-stadler)
-*   [Veil] (#veil)
-*   [Vanilla Ride] (#vanilla-ride)
-*	[Booger] (#booger)
-*	[Charlie Blank] (#charlie-blank)
+*   [Cason Stadler](#cason-stadler)
+*   [Veil](#veil)
+*   [Vanilla Ride](#vanilla-ride)
+*	[Booger](#booger)
+*	[Charlie Blank](#charlie-blank)
 
 ### Hap Collins
 
@@ -104,7 +104,13 @@ As far as the timelines are concerned, do not sweat it. Hap and Leonard were ver
 * Iraq war veteran 
 * Leverages connections/contacts
 * Who would I cast as Cason? Mark Ruffalo 
-                                                                                                                
+   
+### Veil   
+* Laywer, defended Leonard
+* Old friend of Hap
+* Vigilante who hunts down rapists, killers, molesters
+* Thin
+* From the big city (Outsider in East Texas)
 
 ### Booger                                                        
 
@@ -138,4 +144,4 @@ As far as the timelines are concerned, do not sweat it. Hap and Leonard were ver
 * Detective, worked with Hanson
 * Friend to Hap and Leonard
 * Wore a porkpie hat and a K-Mart suit
-* * Who would I cast as Charlie? Joey Pants
+* Who would I cast as Charlie? Joey Pants

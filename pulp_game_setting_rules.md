@@ -1,5 +1,5 @@
 ---
-title: Classic pulp
+title: Classic Pulp
 layout: page
 ---
 
@@ -7,6 +7,7 @@ layout: page
 
 
 ## House rules
+
 ### Success with a cost
 If you roll a 1 on your skill die but your wild die is successful, that is still considered a success, but there is a negative effect or compromise (e.g., your weapon becomes entangled in an enemy's armor). 
 The player can describe what the negative effect looks like. This is derived from Dungeon World mechanic.
@@ -22,6 +23,7 @@ We'll be using these rules but we will make the following exceptions:
 * For Heroic Combat, we will ignore the Extras' Damage and Nonlethal rules. This will make the enemy extras more of a threat. 
 
 From the Savage Worlds Deluxe Explorer's Edition (p108), we'll also use the following setting rules:
+
 * Born a Hero
 * Critical Failures
 * Fanatics

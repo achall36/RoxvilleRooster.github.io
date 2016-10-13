@@ -3,8 +3,9 @@ title: Savaging Hap and Leonard
 layout: page
 ---
 
-# Adapting Joe R. Lansdale's Hap and Leonard
+# Adapting Joe R. Lansdale's Hap and Leonard for the Savage Worlds RPG
 
+_This is a work in progress_
 
 Hap Collins and Leonard Pine are the main characters in series of novels and
 short stories by Joe R. Lansdale. In 2016, the Sundance network released a

@@ -82,8 +82,11 @@ Your character begins with a number of defining interests equal to half of her S
 #### Sample Interests
 
 __Culture__: Anthropology, Archaeology, Astrology, Astronomy, Biology, Botany, City Knowledge (Specific), Chemistry, Classical Literature, Cooking, Culture (Specific), Etiquette, Folklore, Forensics, Geology, Language (Specific), Knowledge (Specific), Natural History, Photography, Physics 
+
 __Craft__: Art (Specific), Electrical Repair, Mechanical Repair
+
 __Perform__: Acting, Comedy, Dance, Disguise, Juggling, Instrument (Specific), Oratory, Puppetry, Singing
+
 __Languages__: Languages fall under the category of defining interests. A character can automatically speak and (when appropriate) read and write his native tongue. Additional languages require the player to choose the Language interest.
 
 **Note:**

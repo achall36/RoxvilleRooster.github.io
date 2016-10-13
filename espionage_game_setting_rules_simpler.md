@@ -57,7 +57,7 @@ tools vary wildly, depending upon the nature of the item in question.
 Technical Operations is the ability to operate, secure, and sabotage computer and
 electronic systems.
 
-## Tradecraft (Smarts)
+### Tradecraft (Smarts)
 This skill reflects the practical application of procedures and protocols such as dead
 drops, brief encounters, pickups, load and unload signals, danger and safe signals,
 and the fine arts of surveillance and counter-surveillance. It also covers knowledge

@@ -25,12 +25,13 @@ permalink: /expectations/
 # Savage Worlds rules
 
 We'll be using Savage Worlds Deluxe Explorer's Edition (SWDEE)
+
 * Where possible, we want to follow the "Fast, Furious, and Fun" model
 * I want to keep houseruling to a minimum, but we will borrow rules from other settings.
 * Before we begin a campaign, we will determine the setting rules.
 * At first, I do not expect new players to know the Savage Worlds rules
 * Characters will be awarded an average of 2 XP per session; if you miss a session, you get no experience
-* After a few sessions, I expect players to have a licensed copy of the SWDEE (an affordable $10 USD).
+* After a few sessions, I expect players to have a licensed copy of the SWDEE (an affordable $10 USD)
 
 # Goals
 

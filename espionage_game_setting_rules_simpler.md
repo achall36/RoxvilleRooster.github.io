@@ -3,6 +3,8 @@ title: Savage Special Ops
 layout: page
 ---
 
+_These setting rules are are largely a subset of the rules from Reality Blurs' "Agents of Oblivion"._
+
 # Game setting rules
 
 The year is 1983.

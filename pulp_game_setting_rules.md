@@ -1,6 +1,7 @@
 ---
 title: Classic Pulp
 layout: page
+permalink: /pulp/
 ---
 
 # Setting rules

@@ -1,3 +1,11 @@
+---
+title: Daring Tales
+layout: page
+permalink: /DToA/
+---
+
+
+
 # Daring Tales of Adventure: Two-Fisted Action in the Classic Age of Pulp
 * Starting with "Rocket Nazis on the Orient Express", the aim is to play through the initial scenarios in the Daring Tales of Adventure series (Triple Ace Games)
 * As a player, you are one of the good guys; make sure your character has a reason why she would get involved in globetrotting, heroic exploits

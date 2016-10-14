@@ -1,6 +1,7 @@
 ---
 title: Savage Special Ops
 layout: page
+permalink: /special-ops/
 ---
 
 _These setting rules are are largely a subset of the rules from Reality Blurs' "Agents of Oblivion"._

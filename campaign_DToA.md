@@ -1,9 +1,3 @@
----
-title: Daring Tales
-layout: page
-permalink: /DToA/
----
-
 
 
 # Daring Tales of Adventure: Two-Fisted Action in the Classic Age of Pulp

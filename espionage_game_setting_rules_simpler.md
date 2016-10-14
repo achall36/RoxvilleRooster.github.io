@@ -107,11 +107,6 @@ negligible damage (such as a paper clip or a thimble) does Str+d4. Additionally,
 normally non-lethal items can be used to inflict deadly damage at the Director’s
 discretion.
 
-**Example**: Jake Britain (with a Str d6) is sitting at a table in a street cafe when a
-Pandoran agent rushes toward him. Jake lunges with his plastic drinking straw,
-smashing it into the Pandoran’s throat, causing d6+d4 damage! Leaving him
-wheezing in the road, Jake quickly and quietly flees the scene.
-
 ### Disarm Mastery
 **Requirements**: Novice, Fighting d8+, Martial Artist
 
@@ -143,14 +138,6 @@ The agent’s intimate knowledge of wrestling maneuvers grants him a +1 to any
 opposed Strength or Agility grappling rolls. Additionally, he substitutes his
 unarmed (martial artist) damage for normal grappling damage.
 
-**Normal**: Snake has Martial Artist and does Str+d4 damage with his
-unarmed strikes. When he grapples, he does only his Strength in damage.
-
-**Example**: Snake learns Grab and Hold. Now, he may apply his unarmed combat
-(martial artist) damage to grappled opponents, doing Str+d4 damage to anyone within
-his iron grasp. Should he later get Improved Martial Artist, it increases to
-Str+d6.
-
 ### Grizzled
 **Requirements**: Seasoned, Spirit d6+, Vigor d8+
 
@@ -162,14 +149,6 @@ The agent’s field work has made him tough — even his scars have scars. He ga
 
 The agent is able to maneuver well enough to continue using any firearm in close
 combat.
-
-**Normal**: Agent Rook has an M-16 and is rushed by a werewolf. He can club the
-beast with it, but is unable to get a bead on the creature as it bites and slashes at
-him.
-
-**Example**: Agent Rook, having survived his close encounter, learns Gun Fu and
-takes point. The next lycanthrope to jump down on him from the shadows is in
-for a nasty surprise, as he unloads his clip into the creature at point blank range.
 
 ### Hindsight
 **Requirements**: Novice, Fighting d10+
@@ -195,11 +174,6 @@ successfully kills an enemy unnoticed in a single round, he may attempt one of
 two actions: He may pin the body in place with a Smarts roll or make a Stealth
 roll to catch the body and quietly move and/or hide it with the remainder of his
 movement. Either choice is a free action.
-
-**Example**: Agent Suzuki, creeping along the rooftop of a mafia safe house, drops
-down upon a sentry and kills him in one blow. He may then make a Stealth roll to
-catch the body and move it under the bushes before being spotted. With a success,
-the other guard at the end of the garden path may never suspect a thing.
 
 ### Superior Defense
 **Requirements**: Veteran, Agility d8+, Block
@@ -432,8 +406,9 @@ This assumes that you act on the deuce. If you have multiple
 inititaive cards and choose to act on the deuce instead of the 
 higher cards, you get this benny.
 
-### The "screw me!" benny
+### The "screw me" benny
 If you roll double ones on a trait test, you can elect to take the failure and not use a benny to reroll. 
-If you take the failure, you narrate the consequences and draw a benny.
+If you take the failure, you narrate the consequences and draw a benny. 
+
 
 

@@ -1,7 +1,4 @@
----
-title: Goals
-layout: page
----
+
 
 As a GM and player, I have these goals:
 

@@ -138,14 +138,14 @@ Tricks.
 
 The agent’s intimate knowledge of wrestling maneuvers grants him a +1 to any
 opposed Strength or Agility grappling rolls. Additionally, he substitutes his
-Unarmed Combat damage for normal grappling damage.
+unarmed (martial artist) damage for normal grappling damage.
 
 **Normal**: Snake has Martial Artist and does Str+d4 damage with his
 unarmed strikes. When he grapples, he does only his Strength in damage.
 
-**Example**: Snake learns Grab and Hold. Now, he may apply his Unarmed Combat
-(Basic) damage to grappled opponents, doing Str+d4 damage to anyone within
-his iron grasp. Should he later get, Unarmed Combat (Advanced), it increases to
+**Example**: Snake learns Grab and Hold. Now, he may apply his unarmed combat
+(martial artist) damage to grappled opponents, doing Str+d4 damage to anyone within
+his iron grasp. Should he later get Improved Martial Artist, it increases to
 Str+d6.
 
 ### Grizzled

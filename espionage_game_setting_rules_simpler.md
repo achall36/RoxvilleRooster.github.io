@@ -10,7 +10,7 @@ You are agents working together in a joint mission under the service of The Agen
 
 All the mission details are available as handouts.
 
-[Roll20 campaign] (https://app.roll20.net/campaigns/details/1673998/savage-top-secret-1983)
+[Roll20 campaign](https://app.roll20.net/campaigns/details/1673998/savage-top-secret-1983)
 Pregens are created with 0 XP and they are in the Roll20 Game.
 You have 25 XP (5 advances to spend).
 

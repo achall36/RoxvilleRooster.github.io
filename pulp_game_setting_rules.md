@@ -4,9 +4,6 @@ layout: page
 permalink: /pulp/
 ---
 
-# Setting rules
-
-
 ## House rules
 
 ### Success with a cost

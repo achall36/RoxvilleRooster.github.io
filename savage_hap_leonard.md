@@ -107,11 +107,15 @@ As far as the timelines are concerned, do not sweat it. Hap and Leonard were ver
 * Who would I cast as Cason? Mark Ruffalo 
    
 ### Veil   
-* Laywer, defended Leonard
+* Hitman turned laywer, defended Leonard
+* Vigilante who had hunted down rapists, killers, molesters, child pornographers
 * Old friend of Hap
-* Vigilante who hunts down rapists, killers, molesters
-* Thin
+* Wandering eye; average height; greying hair; "beard like a brillo pad"
+Thin
 * From the big city (Outsider in East Texas)
+*  Who would I cast as Veil? 
+
+See the write up of [Veil's Visit](http://hapandleonard.net/veil.htm)
 
 ### Booger                                                        
 
@@ -125,7 +129,7 @@ As far as the timelines are concerned, do not sweat it. Hap and Leonard were ver
 *   Boxer's physique
 *   Associate of Cason Stadler (Iraq war buddy?)
 *   Will shoot an unarmed foe
-*   Who would I cast as Hanson? Liev Schreiber
+*   Who would I cast as Booger? Not sure.
 
 ### Jim Bob Luke
 

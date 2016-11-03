@@ -65,15 +65,12 @@ Folks who can skate a few laps have a -2 to anything hockey related on ice.
 All hockey players require either the "Hockey Skater" or "Hockey Goalie" edge.
 
 A hockey player character with the "Hockey Skater" suffers no penalties to any hockey-related skill or trait tests. This player cannot play the goaltender position.
-
-A hockey player character with the "Improved Hockey Skater" can allocate 2 bonuses to his hockey-related traits or skills for the purposes of hockey only. 
-For example, Alexander Bure takes the "Improved Hockey Skater"  edge adds +1 to Hockey Shooting and +1 to Ice Skating (aka Agility), or just +2 to his Hockey Shooting.
+A hockey player character with the "Improved Hockey Skater" can allocate +2 to one of his hockey-related traits or skills for the purposes of hockey only. 
 The "Improved Hockey Skater" edge can be taken multiple times.
 
 A hockey player character with the "Hockey Goalie" edge suffers no penalties to any hockey-related skill or trait tests, but he cannot play forward or defense positions.
 "Hockey Goalie" uses Agility and Spirit trait tests to influence the results of the game.
-A hockey player character with the "Improved Hockey Goalie" can allocate 2 bonuses to his hockey-related traits for the purposes of hockey only. 
-For example, Brent Malarchuk takes the "Improved Hockey Goalie"  edge adds +2 to his Hockey Spirt or +1 to his Hockey Spirit and +1 to his Hockey Agility.
+A hockey player character with the "Improved Hockey Goalie" can allocate +2 to one of his goalie-related traits for the purposes of hockey only. 
 The "Improved Hockey Goalie" edge can be taken multiple times.
 
 Hockey goalies usually have multiple quirks for hindrances.

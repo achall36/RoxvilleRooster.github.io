@@ -49,6 +49,8 @@ Stonebridge removes a bullet lodged near Scott's femoral artery wih a knife
 Defuse bomb
 Treat woudnds with pen in the back of a jeep being pursued and fired on during a chase
 "Dramatic task in a chase"
+Cross a minefield with innocents
+
 
 Bad things happen to the heroes
 they get wounded

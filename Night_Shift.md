@@ -8,26 +8,25 @@ Charisma: -2; Pace: 6; Parry: 6; Toughness: 5
 Hindrances: 
  -Dependent (Mrs. Liscombe, the nice old landlady) (Super Karma setting rule)
  -Out of My League
+ -Outsider (Dishonorably discharged from US military): -2 Charisma, treated badly by those of dominant society
  -Vow (Major: to the knights of Mithras): A pledge to a group, deity, or religion
 Edges: 
+ -Ace: +2 to Boating, Driving, Piloting; may make Soak rolls for vehicle at -2 (human)
  -Arcane Background (Super Powers): Allows access to Arcane Background (Super Powers) (setting rule)
  -Investiagtor
  -Elan
 
 Gear: 
  -$500
-Super Powers: 
+
+ Super Powers: 
  - Unspent Power Points: 55
 
- 
-
- 
  
 Character creation allocation:
   - Attribute (+1 step Agility)
   - Attribute (+1 step Spirit)
   - Edge (Ace)
-
  
  Advances:
   5 XP: +1 step Smarts
@@ -35,5 +34,3 @@ Character creation allocation:
  15 XP: +1 step Investigation, +1 step Stealth
  20 XP: Investigator
  25 XP: Elan
- 
- 

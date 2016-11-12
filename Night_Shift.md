@@ -69,6 +69,7 @@ Unspent Power Points: = 0; Spent Power Points = 55
 * Black suit jacket, pants, gloves, and boots
 * Black dress shirt and tie
 * Wears a bronze ring that depicts a hand clutching thunderbolts
+* Known to wield a hooked sword or an iron-shod rod
 
 
 

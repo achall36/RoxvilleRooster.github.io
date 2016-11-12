@@ -20,9 +20,11 @@ Gear:
  -$500
 
  Super Powers: 
- - Unspent Power Points: 55
- 
- IN
+  -Unspent Power Points: 0
+  
+  -Super Attribute (4) (+2 die steps to Agility [from d8 to d12])
+  -Super Attribute (6) (+3 die steps to Vigor [from d6 to d12])  
+  -Super Attribute (6) (+3 die steps to Strength [from d6 to d12])    
   -Super Skill (4) (+4 die steps Throwing [from d4 to d12])
   -Super Skill (4) (+4 die steps Fighting [from d4 to d12])
   -Super Skill (4) (+4 die steps Shooting [from d4 to d12])
@@ -34,24 +36,14 @@ Gear:
   -Uncanny Reflexes (8)	
   -Awareness (3)
   -Extra Actions (3)  
+  -Heightened Senses (1): Perception.  
+  -Wall walker (1): Equipment
+  -Swinging (2): Equipment
+  -Immune to Disease (1)
+
   
    
-   
- OUT
- 
- -Attack, Ranged (4): Device. Armor Piercing.
- -Awareness (3)
- -Extra Actions (3)
- -Gifted (2)
- -Heightened Senses (1): Perception.
- -Jinx (4): Improved Jinx.
- -Super Attribute (6) (Agility.)
- -Super Attribute (6) (Vigor.)
- -Super Edge (8) (Level Headed.)
 
-
- -Uncanny Reflexes (8)
- 
  
 
  

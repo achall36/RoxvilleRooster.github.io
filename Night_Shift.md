@@ -1,10 +1,12 @@
 ---
 title: Night Shift
 layout: page
-permalink: /night-shift/
+permalink: /savage-supers/
 ---
 
-#Savage Worlds Superheroes
+#Night Shift
+*Four-color hero for a Savage Worlds superhero campaign*
+
  
 **Secret ID**: Henry Blunt
 

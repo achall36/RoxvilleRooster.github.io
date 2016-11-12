@@ -6,22 +6,26 @@ permalink: /night-shift/
 
 
 # Night Shift 
-*Secret ID*: Henry Blunt
+**Secret ID**: Henry Blunt
 
-*Concept*: Agent of Mithras
+**Concept**: Agent of Mithras, foe of supernatural evil
 
-*Race*: Human
+**Race**: Human
+
 ## Attributes
 Agility d12, Smarts d8, Spirit d8, Strength d12, Vigor d12
+
 ## Skills: 
 Climbing d4, Driving d8+2, Fighting d12, Investigation d8+2, Notice d8+2, Persuasion d4, Shooting d12, Stealth d6, Streetwise d8, Throwing d12
 ## Derived attributes: 
 Charisma: -2; Pace: 6; Parry: 8; Toughness: 8
+
 ## Hindrances
 * Dependent (Mrs. Liscombe, the nice old landlady) (Super Karma setting rule)
 * Out of My League
 * Outsider (Dishonorably discharged from US military): -2 Charisma, treated badly by those of dominant society
 * Vow (Major: to the knights of Mithras): A pledge to a group, deity, or religion
+
 ## Edges 
 * Ace: +2 to Boating, Driving, Piloting; may make Soak rolls for vehicle at -2 (human)
 * Arcane Background (Super Powers): Allows access to Arcane Background (Super Powers) (setting rule)

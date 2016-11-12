@@ -1,7 +1,7 @@
 ---
 title: Night Shift
 layout: page
-permalink: /savage-supers/
+permalink: /night-shift/
 ---
 
 

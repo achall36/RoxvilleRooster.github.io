@@ -2,9 +2,9 @@ Hero Name: Night Shift
 Secret ID: Henry Blunt
 Concept: Agent of Mithras
 Race: Human
-Attributes: Agility d8, Smarts d8, Spirit d8, Strength d6, Vigor d6
-Skills: Climbing d4, Driving d8+2, Fighting d4, Investigation d8, Notice d8, Persuasion d4, Shooting d4, Stealth d6, Streetwise d8, Throwing d4
-Charisma: -2; Pace: 6; Parry: 6; Toughness: 5
+Attributes: Agility d12, Smarts d8, Spirit d8, Strength d12, Vigor d12
+Skills: Climbing d4, Driving d8+2, Fighting d12, Investigation d8, Notice d8, Persuasion d4, Shooting d12, Stealth d6, Streetwise d8, Throwing d12
+Charisma: -2; Pace: 6; Parry: 8; Toughness: 8
 Hindrances: 
  -Dependent (Mrs. Liscombe, the nice old landlady) (Super Karma setting rule)
  -Out of My League
@@ -15,6 +15,10 @@ Edges:
  -Arcane Background (Super Powers): Allows access to Arcane Background (Super Powers) (setting rule)
  -Investiagtor
  -Elan
+ -Level headed           
+ -Improved Level headed
+ -Quick draw
+ -Steady Hands
 
 Gear: 
  -$500
@@ -42,10 +46,6 @@ Gear:
   -Immune to Disease (1)
 
   
-   
-
- 
-
  
 Character creation allocation:
   - Attribute (+1 step Agility)

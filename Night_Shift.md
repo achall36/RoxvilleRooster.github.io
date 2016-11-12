@@ -21,6 +21,38 @@ Gear:
 
  Super Powers: 
  - Unspent Power Points: 55
+ 
+ IN
+  -Super Skill (4) (+4 die steps Throwing [from d4 to d12])
+  -Super Skill (4) (+4 die steps Fighting [from d4 to d12])
+  -Super Skill (4) (+4 die steps Shooting [from d4 to d12])
+  -Super Edges: 
+	-Level headed (2)           
+	-Improved Level headed (2)
+	-Quick draw (2)
+	-Steady Hands (2)
+  -Uncanny Reflexes (8)	
+  -Awareness (3)
+  -Extra Actions (3)  
+  
+   
+   
+ OUT
+ 
+ -Attack, Ranged (4): Device. Armor Piercing.
+ -Awareness (3)
+ -Extra Actions (3)
+ -Gifted (2)
+ -Heightened Senses (1): Perception.
+ -Jinx (4): Improved Jinx.
+ -Super Attribute (6) (Agility.)
+ -Super Attribute (6) (Vigor.)
+ -Super Edge (8) (Level Headed.)
+
+
+ -Uncanny Reflexes (8)
+ 
+ 
 
  
 Character creation allocation:

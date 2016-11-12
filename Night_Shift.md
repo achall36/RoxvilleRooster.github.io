@@ -1,14 +1,14 @@
 ---
-title: Savage Worlds Supers - Night Shift
+title: Night Shift
 layout: page
 permalink: /night-shift/
 ---
 
-
-# Night Shift 
+#Savage Worlds Superheroes
+ 
 **Secret ID**: Henry Blunt
 
-**Concept**: Agent of Mithras, foe of supernatural evil
+**Concept**: Veteran, cab driver, and foe of supernatural evil
 
 **Race**: Human
 
@@ -16,14 +16,14 @@ permalink: /night-shift/
 Agility d12, Smarts d8, Spirit d8, Strength d12, Vigor d12
 
 ## Skills: 
-Climbing d4, Driving d8+2, Fighting d12, Investigation d8+2, Notice d8+2, Persuasion d4, Shooting d12, Stealth d6, Streetwise d8, Throwing d12
+Climbing d4, Driving d8+2, Fighting d12, Investigation d8+2, Notice d8, Persuasion d4, Shooting d12, Stealth d6, Streetwise d8+2, Throwing d12
 ## Derived attributes: 
 Charisma: -2; Pace: 6; Parry: 8; Toughness: 8
 
 ## Hindrances
 * Dependent (Mrs. Liscombe, the nice old landlady) (Super Karma setting rule)
 * Out of My League
-* Outsider (Dishonorably discharged from US military): -2 Charisma, treated badly by those of dominant society
+* Outsider (Dishonorably discharged from US military): -2 Charisma, treated badly by those of dominant society when they learn of his past)
 * Vow (Major: to the knights of Mithras): A pledge to a group, deity, or religion
 
 ## Edges 
@@ -31,13 +31,15 @@ Charisma: -2; Pace: 6; Parry: 8; Toughness: 8
 * Arcane Background (Super Powers): Allows access to Arcane Background (Super Powers) (setting rule)
 * Investiagtor
 * Elan
-* Level headed           
-* Improved Level headed
+* Level Headed           
+* Improved Level Headed
 * Quick draw
 * Steady Hands
 
 ## Gear: 
 * $500
+* Hooked sword (d8 damage)
+* Iron-shod rod (d6 damage)
 
 ## Super Powers: 
 * Super Attribute (4) (+2 die steps to Agility [from d8 to d12])
@@ -58,6 +60,18 @@ Charisma: -2; Pace: 6; Parry: 8; Toughness: 8
 * Swinging (2): Equipment
 
 Unspent Power Points: = 0; Spent Power Points = 55
+
+## Description 
+* 5'11"
+* 160 lbs.
+* Black and bronze colored mask covers his face
+* Black suit jacket, pants, gloves, and boots
+* Bronze colored shirt
+* Black tie
+* Wears a bronze ring that depicts a hand clutching thunderbolts
+
+
+
 
 ## Journal  
  

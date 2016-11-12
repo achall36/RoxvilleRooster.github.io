@@ -5,7 +5,7 @@ permalink: /night-shift/
 ---
 
 
-* A four-color hero for a Savage Worlds superhero campaign*
+*A four-color hero for a Savage Worlds superhero campaign*
  
 **Secret ID**: Henry Blunt
 
@@ -67,8 +67,7 @@ Unspent Power Points: = 0; Spent Power Points = 55
 * 160 lbs.
 * Black and bronze colored mask covers his face
 * Black suit jacket, pants, gloves, and boots
-* Black shirt
-* Black tie
+* Black dress shirt and tie
 * Wears a bronze ring that depicts a hand clutching thunderbolts
 
 

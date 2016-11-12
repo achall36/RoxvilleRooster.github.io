@@ -7,12 +7,14 @@ permalink: /night-shift/
 
 # Night Shift 
 *Secret ID*: Henry Blunt
+
 *Concept*: Agent of Mithras
+
 *Race*: Human
 ## Attributes
 Agility d12, Smarts d8, Spirit d8, Strength d12, Vigor d12
 ## Skills: 
-Climbing d4, Driving d8+2, Fighting d12, Investigation d8, Notice d8, Persuasion d4, Shooting d12, Stealth d6, Streetwise d8, Throwing d12
+Climbing d4, Driving d8+2, Fighting d12, Investigation d8+2, Notice d8+2, Persuasion d4, Shooting d12, Stealth d6, Streetwise d8, Throwing d12
 ## Derived attributes: 
 Charisma: -2; Pace: 6; Parry: 8; Toughness: 8
 ## Hindrances
@@ -41,17 +43,15 @@ Charisma: -2; Pace: 6; Parry: 8; Toughness: 8
 * Super Skill (4) (+4 die steps Fighting [from d4 to d12])
 * Super Skill (4) (+4 die steps Shooting [from d4 to d12])
 * Super Edges: 
-	-Level headed (2)           
-	-Improved Level headed (2)
-	-Quick draw (2)
-	-Steady Hands (2)
+	* Level headed (2)           
+	* Improved Level headed (2)
+	* Quick draw (2)
+	* Steady Hands (2)
 * Uncanny Reflexes (8)	
-* Awareness (3)
+* Awareness (5): Ignore all obscurement penalties; negates gangup bonuses against character
 * Extra Actions (3)  
-* Heightened Senses (1): Perception.  
 * Wall walker (1): Equipment
 * Swinging (2): Equipment
-* Immune to Disease (1)
 
 Unspent Power Points: = 0; Spent Power Points = 55
 
@@ -63,8 +63,8 @@ Unspent Power Points: = 0; Spent Power Points = 55
 * Edge (Ace)
  
 ### Advances:
-  5 XP: +1 step Smarts
- 10 XP: +1 step Investigation, +1 step Streetwise
- 15 XP: +1 step Investigation, +1 step Stealth
- 20 XP: Investigator
- 25 XP: Elan
+*  5 XP: +1 step Smarts
+* 10 XP: +1 step Investigation, +1 step Streetwise
+* 15 XP: +1 step Investigation, +1 step Stealth
+* 20 XP: Investigator
+* 25 XP: Elan

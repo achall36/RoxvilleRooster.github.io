@@ -82,12 +82,12 @@ Unspent Power Points: = 0; Spent Power Points = 55
 
 ## Journal  
  
-### Character creation allocation:
+### Character creation allocation
 * Attribute (+1 step Agility)
 * Attribute (+1 step Spirit)
 * Edge (Ace)
  
-### Advances:
+### Advances
 *  5 XP: +1 step Smarts
 * 10 XP: +1 step Investigation, +1 step Streetwise
 * 15 XP: +1 step Investigation, +1 step Stealth

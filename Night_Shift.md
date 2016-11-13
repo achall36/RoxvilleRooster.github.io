@@ -62,6 +62,12 @@ Charisma: -2; Pace: 6; Parry: 8; Toughness: 8
 
 Unspent Power Points: = 0; Spent Power Points = 55
 
+## Other character possibilities
+* Knowledge (Supernatural)
+* Ranged attack with special properties against supernatural (throwing)
+* Melee attach (likley sword or rod)
+
+
 ## Description 
 * 5'11"
 * 160 lbs.

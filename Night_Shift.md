@@ -17,7 +17,7 @@ permalink: /night-shift/
 Agility d12, Smarts d8, Spirit d8, Strength d12, Vigor d12
 
 ## Skills: 
-Climbing d4, Driving d8+2, Fighting d12, Investigation d8+2, Notice d8, Persuasion d4, Shooting d12, Stealth d6, Streetwise d8+2, Throwing d12
+Climbing d4, Driving d8+2, Fighting d12, Investigation d8+2, Notice d8, Persuasion d4, Shooting d8, Stealth d6, Streetwise d8+2, Throwing d12
 ## Derived attributes: 
 Charisma: -2; Pace: 6; Parry: 8; Toughness: 8
 
@@ -48,19 +48,18 @@ Charisma: -2; Pace: 6; Parry: 8; Toughness: 8
 * Super Attribute (6) (+3 die steps to Strength [from d6 to d12])    
 * Super Skill (4) (+4 die steps Throwing [from d4 to d12])
 * Super Skill (4) (+4 die steps Fighting [from d4 to d12])
-* Super Skill (4) (+4 die steps Shooting [from d4 to d12])
+* Super Skill (2) (+2 die steps Fighting [from d4 to d8])
 * Super Edges: 
 	* Level headed (2)           
 	* Improved Level headed (2)
 	* Quick draw (2)
-	* Steady Hands (2)
+	* Marksman (2)
 * Uncanny Reflexes (8)	
-* Awareness (5): Ignore all obscurement penalties; negates gangup bonuses against character
+* Awareness (3): Ignore all obscurement penalties
 * Extra Actions (3)  
-* Wall walker (1): Equipment
 * Swinging (2): Equipment
 
-Unspent Power Points: = 0; Spent Power Points = 55
+Unspent Power Points: = 5; 
 
 ## Other character possibilities
 * Knowledge (Supernatural)

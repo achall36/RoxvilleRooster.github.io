@@ -16,10 +16,10 @@ permalink: /night-shift/
 ## Attributes
 Agility d12, Smarts d8, Spirit d8, Strength d12, Vigor d12
 
-## Skills: 
+## Skills
 Climbing d4, Driving d8+2, Fighting d12, Investigation d8+2, Notice d8, Persuasion d4, Shooting d8, Stealth d6, Streetwise d8+2, Throwing d12
 
-## Derived attributes: 
+## Derived attributes
 Charisma: -2; Pace: 6; Parry: 8; Toughness: 8
 
 ## Hindrances
@@ -38,13 +38,13 @@ Charisma: -2; Pace: 6; Parry: 8; Toughness: 8
 * Quick draw
 * Steady Hands
 
-## Gear: 
+## Gear
 * $500
 * Hooked sword (d8 damage)
 * Iron-shod rod (d6 damage)
 * Throwing irons (d4 damage)
 
-## Super Powers: 
+## Super Powers
 * Super Attribute (4) (+2 die steps to Agility [from d8 to d12])
 * Super Attribute (6) (+3 die steps to Vigor [from d6 to d12])  
 * Super Attribute (6) (+3 die steps to Strength [from d6 to d12])    
@@ -78,9 +78,6 @@ Unspent Power Points: = 5;
 * Black dress shirt and tie
 * Wears a bronze ring that depicts a hand clutching thunderbolts
 * Known to wield a hooked sword or an iron-shod rod
-
-
-
 
 ## Journal  
  

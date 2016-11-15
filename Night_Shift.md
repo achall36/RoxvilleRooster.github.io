@@ -62,7 +62,7 @@ Charisma: -2; Pace: 6; Parry: 8; Toughness: 8
 * Swinging (2): Equipment
 * Regeneration (5): Makes natural healing rolls twice per hour; recovers fatigue at half normal rate
 
-Unspent Power Points: = 5; 
+Unspent Power Points: = 0; 
 
 ## Other character possibilities
 * Knowledge (Supernatural)

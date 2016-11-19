@@ -17,7 +17,7 @@ permalink: /night-shift/
 Agility d12, Smarts d8, Spirit d8, Strength d12, Vigor d12
 
 ## Skills
-Climbing d4, Driving d8+2, Fighting d12, Investigation d8+2, Notice d8, Persuasion d4, Shooting d8, Stealth d6, Streetwise d8+2, Throwing d12
+Climbing d4, Driving d8+2, Fighting d12, Investigation d8+2, Notice d6, Intimidation d4, Swimming d4, Persuaion d4, Shooting d8, Stealth d6, Streetwise d8+2, Throwing d12
 
 ## Derived attributes
 Charisma: -2; Pace: 6; Parry: 8; Toughness: 8
@@ -32,7 +32,6 @@ Charisma: -2; Pace: 6; Parry: 8; Toughness: 8
 * Ace: +2 to Boating, Driving, Piloting; may make Soak rolls for vehicle at -2 (human)
 * Arcane Background (Super Powers): Allows access to Arcane Background (Super Powers) (setting rule)
 * Investiagtor
-* Elan
 * Level Headed           
 * Improved Level Headed
 * Quick draw
@@ -91,4 +90,4 @@ Unspent Power Points: = 0;
 * 10 XP: +1 step Investigation, +1 step Streetwise
 * 15 XP: +1 step Investigation, +1 step Stealth
 * 20 XP: Investigator
-* 25 XP: Elan
+* 25 XP: +1 step Notice, +1 step Intimidation

@@ -35,7 +35,7 @@ Charisma: -2; Pace: 6; Parry: 8; Toughness: 8
 * Level Headed           
 * Improved Level Headed
 * Quick draw
-* Steady Hands
+* Martial Arts
 
 ## Gear
 * $500
@@ -55,6 +55,7 @@ Charisma: -2; Pace: 6; Parry: 8; Toughness: 8
 	* Improved Level headed (2)
 	* Quick draw (2)
 	* Marksman (2)
+	* Martial Arts (2)
 * Uncanny Reflexes (8)	
 * Awareness (3): Ignore all obscurement penalties
 * Extra Actions (3)  

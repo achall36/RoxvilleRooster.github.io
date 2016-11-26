@@ -33,7 +33,7 @@ Charisma: -2; Pace: 6; Parry: 8; Toughness: 8
 * Arcane Background (Super Powers): Allows access to Arcane Background (Super Powers) (setting rule)
 * Investiagtor
 * Level Headed           
-* Improved Level Headed
+# * Improved Level Headed
 * Quick draw
 * Martial Arts
 
@@ -52,17 +52,17 @@ Charisma: -2; Pace: 6; Parry: 8; Toughness: 8
 * Super Skill (2) (+2 die steps Shooting [from d4 to d8])
 * Super Edges: 
 	* Level headed (2)           
-	* Improved Level headed (2)
+#	* Improved Level headed (2)
 	* Quick draw (2)
 	* Marksman (2)
 	* Martial Arts (2)
 * Uncanny Reflexes (8)	
-* Awareness (3): Ignore all obscurement penalties
+* Awareness (5): Ignore all obscurement penalties; ignore gang up
 * Extra Actions (3)  
 * Swinging (2): Equipment
-* Regeneration (5): Makes natural healing rolls twice per hour; recovers fatigue at half normal rate
+* Regeneration (7): Makes natural healing rolls every 10 minutes; recovers fatigue at half normal rate
 
-Unspent Power Points: = 0; 
+Unspent Power Points: = 2; 
 
 ## Other character possibilities
 * Knowledge (Supernatural)
@@ -89,6 +89,6 @@ Unspent Power Points: = 0;
 ### Advances
 *  5 XP: +1 step Smarts
 * 10 XP: +1 step Investigation, +1 step Streetwise
-* 15 XP: +1 step Investigation, +1 step Stealth
+* 15 XP: +1 step Investigation, +1 step Notice
 * 20 XP: Investigator
-* 25 XP: +1 step Notice, +1 step Intimidation
+* 25 XP: +1 step Stealth, +1 step Intimidation

@@ -33,11 +33,6 @@ Charisma: -2; Pace: 6; Parry: 8; Toughness: 8
 * Arcane Background (Super Powers): Allows access to Arcane Background (Super Powers) (setting rule)
 * Investiagtor
 * Level Headed 
-
-<!--          
-* Improved Level Headed
--->
-
 * Quick draw
 * Martial Arts
 
@@ -56,9 +51,6 @@ Charisma: -2; Pace: 6; Parry: 8; Toughness: 8
 * Super Skill (2) (+2 die steps Shooting [from d4 to d8])
 * Super Edges: 
 	* Level headed (2)           
-<!--
-	* Improved Level headed (2)
--->
 	* Quick draw (2)
 	* Marksman (2)
 	* Martial Arts (2)

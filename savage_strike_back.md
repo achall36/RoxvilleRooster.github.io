@@ -9,6 +9,7 @@ Military intelligence
 No Bond-esque gadgets
 
 
+The heroes in the series are Legendary rank, 140+ XP
 Both have 
 rock'n roll
 steady hands
@@ -20,11 +21,8 @@ Chivalry: "I can't leave the women behind."
 
 
 
-The heroes in the series are Legendary rank, 140+ XP
 
-Stand-out villains
-Matlock
-Hansen
+
 
 
 Existing settings to reference:
@@ -68,6 +66,10 @@ Some bad guys are obviosly vile
 They kill innocents/hostages
 The bad guys are as observant as the heroes; everyone is on their guard
 Bad guy extras may take cyanide pills
+
+Stand-out villains
+Matlock (mercenary, decorated, ex-Foreign Legion)
+Hansen (ex-SAS, acrobat, stealth)
 
 
 

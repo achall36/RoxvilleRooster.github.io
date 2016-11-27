@@ -1,8 +1,12 @@
 Savage Strike Back
 https://docs.google.com/document/d/15mUX_qKmJBT6QcjykRI25ltyADNfnDzNTEBIr4QBB-k/edit
 
+Modern Pulp Cover Ops
+
+
 Elite covert ops 
-Militarty intelligence
+Military intelligence
+No Bond-esque gadgets
 
 
 Both have 
@@ -15,6 +19,27 @@ improvisational fighter
 Chivalry: "I can't leave the women behind."
 
 
+
+The heroes in the series are Legendary rank, 140+ XP
+
+Stand-out villains
+Matlock
+Hansen
+
+
+Existing settings to reference:
+
+
+Strike Force 7 Savaged
+Special character creation rules (military operations)
+
+
+* +1 die type to any two Attributes of your choice.
+* Bonus Edge: any combat edge. You must still meet all the requirements for the edge.
+* Section 20 Team Member Edge
+
+
+
 Scott
 Tricks (throws dirt)
 Disarms (disarms foe with a towel)
@@ -22,6 +47,8 @@ Kills with the drop
 Outside: dishonorable discharge
 Habit: Lecehrous
 Photograhic memory
+Marksman
+
 
 
 

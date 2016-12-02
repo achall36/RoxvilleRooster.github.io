@@ -11,9 +11,6 @@ If you roll a 1 on your skill die but your wild die is successful, that is still
 The player can describe what the negative effect looks like. This is derived from Dungeon World mechanic.
 I also attribute the idea of applying this type of effect to Savage Worlds to Eric Lamoureux.
 
-### Athletics skill (Strength)
-Instead of having separate skills for Swimming and Climbing, we'll use Athletics and link it to the Strength attribute. See the discussion on the [PEG forums](http://www.pegforum.com/viewtopic.php?t=21609).
-
 ## Setting rules
 Download the [Daring Tales of Adventure: Pulp Rules](http://tripleacegames.com/Downloads/DaringTales/TAG31000A_PULP_RULES.pdf) from Triple Ace Games.
 

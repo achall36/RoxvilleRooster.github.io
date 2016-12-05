@@ -10,6 +10,5 @@ The Day After Ragnarok: Introduction
 
 From Kenneth Hite's "The Day After Ragnarok", p. 1
 
-
-[1]: http://savagepedia.wikispaces.com/file/view/Day_After_Ragnarok_Color_Map.jpg/131060027/Day_After_Ragnarok_Color_Map.jpg "Earth after the Serpentfall"
-[2]: https://www.youtube.com/watch?v=N4OwWke8O_g "Intro video"
+* http://savagepedia.wikispaces.com/file/view/Day_After_Ragnarok_Color_Map.jpg/131060027/Day_After_Ragnarok_Color_Map.jpg "Earth after the Serpentfall"
+* https://www.youtube.com/watch?v=N4OwWke8O_g "Intro video"

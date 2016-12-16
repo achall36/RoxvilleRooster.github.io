@@ -126,7 +126,7 @@ Mentalist, Mr. Fix-It, and Wizard
 ### Classic shaken
 Remember the original, unforgiving shaken rules? We'll use them.
 
-On an his action, a Shaken character msut attempt to recover from being Shaken by making a Spirit roll:
+On his action, a Shaken character must attempt to recover from being Shaken by making a Spirit roll:
 
 * Failure: Character remains shaken and can only perform free actions.
 * Success: Character is no longer Shaken, but can only perform free actions that turn.

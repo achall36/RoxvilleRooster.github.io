@@ -1,23 +1,11 @@
+---
+title: Savage Special Ops Edges and Skills
+layout: page
+permalink: /special-ops-character-adds/
+---
 
+_These skills, edges, and hindrances are a subset of the rules from Reality Blurs' "Agents of Oblivion"._
 
-_These setting rules are are largely a subset of the rules from Reality Blurs' "Agents of Oblivion"._
-
-
-
-## Operative training
-
-*The following rule supplements the Savage Worlds character creation rules.*
-
-Agency candidates do not wash out. Six weeks of training gives you the following
-skills at a d4: Fighting, Notice, Shooting, and Tradecraft.
-You also begin with the Hindrance: Obligations (Major: Agency). This does
-NOT count towards your normal Hindrance total.
-
-## Languages
-Besides their native tongue, all agents know half their Smarts die in languages.
-They speak with an obvious accent, betraying their nationality. Social interaction
-skills dependent upon speech are at a -2 when attempted in the speaker’s nonnative
-tongue.
 
 ## New skills
 

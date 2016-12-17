@@ -25,8 +25,6 @@ And there's a [playlist](https://play.spotify.com/user/achall-us/playlist/1NIH7M
 
 It's go time!
 
-And there are [Additional character rules](../special-ops-character-adds) for skills, edges, and hindrances.
-
 
 ## Operative training
 
@@ -45,6 +43,7 @@ tongue.
 
 ## New skills
 Skills are from Reality Blurs' _Agents of Oblivion_
+For more information on new skills, see [Additional character rules](../special-ops-character-adds).
 
 * Demolitions (Smarts)
 * Forgery (Smarts)
@@ -55,9 +54,12 @@ Skills are from Reality Blurs' _Agents of Oblivion_
 ## New hindrances
 
 * Obligations (Minor or Major)
+For more information on the new hindrance, see [Additional character rules](../special-ops-character-adds).
+
 
 ## New edges
 Edges are from Reality Blurs' _Agents of Oblivion_
+For more information on new edges, see [Additional character rules](../special-ops-character-adds).
 
 ### Combat Edges
 

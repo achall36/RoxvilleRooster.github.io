@@ -11,7 +11,7 @@ _These setting rules are are largely a subset of the rules from Reality Blurs' "
 The year is 1983.
 You are agents working together in a joint mission under the service of The Agency, (NATO nations).
 
-All the mission details are available as handouts.
+All the mission details are available as handouts inside the Roll20 campaign.
 
 See the [Roll20 campaign](https://app.roll20.net/campaigns/details/1673998/savage-top-secret-1983).
 

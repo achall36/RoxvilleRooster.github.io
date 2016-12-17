@@ -1,7 +1,7 @@
 ---
-title: Blades Drawn in Lankhmar
+title: Swords Drawn in Lankhmar
 layout: page
-permalink: /blades-drawn/
+permalink: /swords-drawn/
 ---
 
 

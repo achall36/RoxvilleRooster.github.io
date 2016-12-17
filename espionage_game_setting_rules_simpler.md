@@ -25,8 +25,7 @@ And there's a [playlist](https://play.spotify.com/user/achall-us/playlist/1NIH7M
 
 It's go time!
 
-
-And there's a [Additional character rules](special-ops-character-adds) or [test](espionage_Agents_of_Oblivion_details).
+And there are [Additional character rules](../special-ops-character-adds) for skills, edges, and hindrances.
 
 
 ## Operative training

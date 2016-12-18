@@ -145,15 +145,12 @@ combat, he receives his normal +2 bonus to Trait
 and damage rolls. In addition, all player characters
 receive a Benny!
 
-### Benny for your deuce
-If you get a deuce for combat initiative, you get a benny.
-This assumes that you act on the deuce. If you have multiple 
-inititaive cards and choose to act on the deuce instead of the 
-higher cards, you get this benny.
-
 ### The "screw me" benny
 If you roll double ones on a trait test, you can elect to take the failure and not use a benny to reroll. 
 If you take the failure, you narrate the consequences and draw a benny. 
 
-
+### Success with a cost
+If you roll a 1 on your skill die but your wild die is successful, that is still considered a success, but there is a negative effect or compromise (e.g., your weapon becomes entangled in an enemy's armor). 
+The player can describe what the negative effect looks like. This is derived from a Dungeon World mechanic.
+I also attribute the idea of applying this type of effect to Savage Worlds to Eric Lamoureux.
 

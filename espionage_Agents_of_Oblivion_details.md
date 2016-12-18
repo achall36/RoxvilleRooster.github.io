@@ -233,6 +233,11 @@ any agents on his team. Bennies not used by the end of scene are discarded. Note
 If more than one maven is on a team, the test is treated as a cooperative roll as
 detailed in the Savage Worlds core rulebook.
 
+### Photographic Memory
+**Requirements**: Smarts d10+
+
+The character is able to remember everything they see, hear or read, down to the tiniest detail.
+
 ### Spectre
 **Requirements**: Seasoned, Agility d10+, Thief
 

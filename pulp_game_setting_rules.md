@@ -88,6 +88,17 @@ __Languages__: Languages fall under the category of defining interests. A charac
 You can come up with additional items that fit your PC, subject to the GM’s approval. A defining interest provides only a general knowledge of a topic and is not as detailed as someone who takes a specific Knowledge skill.
 
 
+### New skills
+
+##### Athletics (Strength)
+The Athletics skill replaces the climbing and swimming skills and is also used when making tests of endurance and foot chase rules. It also applies to jumping.
+
+#### Replaced skills
+
+The following skills are replaced by Athletics:
+* Swimming
+* Climbing
+
 ### New hindrances
 The following hindrances introduced in Adamant Entertainment's "Thrilling Tales of Adventure" are permitted. 
 

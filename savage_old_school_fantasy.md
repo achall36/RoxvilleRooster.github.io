@@ -16,7 +16,7 @@ As Savage Worlds does not require the killing of monsters or acquisition of trea
 
 There are traps but they tend to be  less lethal to a Savage Worlds novice-level PC than they were to a first-level B/X magic-user.
 
-You are welcome to hire henchmen and hirelings (Savage Worlds allied extras). Players will control these extras in combat; make sure that your PCs treat the henchmen and hirelings fairly or they may turn (sneak away, run at a critical time, steal, or worse).
+You are welcome to hire and employ henchmen and hirelings (Savage Worlds allied extras). Players will control these extras in combat; make sure that your PCs treat the henchmen and hirelings fairly or they may turn (sneak away, run at a critical time, steal, or worse).
 
 There is no need for a player to serve as  mapper or caller.
 

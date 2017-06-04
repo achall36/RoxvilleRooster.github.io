@@ -1,9 +1,10 @@
+<!--
 ---
 title: Savage Special Ops Edges and Skills
 layout: page
 permalink: /special-ops-character-adds/
 ---
-
+-->
 _These skills, edges, and hindrances are a subset of the rules from Reality Blurs' "Agents of Oblivion"._
 
 

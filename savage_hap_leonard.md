@@ -66,7 +66,7 @@ As far as the timelines are concerned, do not sweat it. Hap and Leonard were ver
 * Loves dogs and does not take kindly to folks who would abuse them 
 * Loves vanilla cookies and Dr. Pepper       
 
-![Leonard](http://images.amcnetworks.com/sundancechannel.com/wp-content/uploads/2015/12/HAP-AND-LEONARD_leonard-pine-michael-k-williams_02_700x384.jpg)                                   
+![Leonard](http://images.amcnetworks.com/sundancechannel.com/wp-content/uploads/2016/01/Hap-and-Leonard-Gallery-Leonard-Pine-Michael-K-Williams-01-800x450-620x340.jpg)                                   
 
 ### Brett Sawyer
 

@@ -28,7 +28,7 @@ In 2015, Pinnacle Entertainment Group came out with the East Texas University (E
 Unlike the supernatureal horror in the ETU setting, the horror in the Hap and Leonard books is visceral, earthly horror and it is efective because it is man-made, unnerving, mundane yet inhuman.                                                                                                                                                                                                                                                Hap and Leonard reside in the fictional town of LaBorde, Texas and that can easily be situated close by the fictitious university town of Pinebox. You can easily find a reason for Hap and Leonard to visit Pinebox. They have served as security guards at a chicken processing plant before, so maybe they can do a stint as campus police.                                                                                                     
 As far as the timelines are concerned, do not sweat it. Hap and Leonard were very active in the late 80s but the latest novel, Honkytonk Samurai (2016), is set in the 2010s or so (there is a reference to a character making a video using a tablet). Technology seldom plays a big factor in the Hap and Leonard oeuvre and I do not think Joe Lansdale is too fussy when the stories take place on the calendar, as long as the vibe is right. 
 
-![collins-pine](http://images.amcnetworks.com/sundancechannel.com/wp-content/uploads/2016/01/HAP-AND-LEONARD_hap-collins_james-purefoy_leonard-pine-michael-k-williams_01_1000x594.jpg)                                                                                                                                                                                                                                                                           
+![collins-pine](https://when-release.com/.u/.d/1460751590.jpg)                                                                                                                                                                                                                                                                           
 
 ## Character spotlights                                                                                                                                                                                                                                                                                                                                                                                                                               
 
@@ -53,7 +53,7 @@ As far as the timelines are concerned, do not sweat it. Hap and Leonard were ver
 * Heroic 
 * Drinks near beer (Sharps brand is typical) 
 * Will not shoot an unarmed foe (minor pacfist?)
-![Hap](http://images.amcnetworks.com/sundancechannel.com/wp-content/uploads/2016/01/HAP-AND-LEONARD_hap-collins_james-purefoy_02_700x384.jpg)
+![Hap](https://s-media-cache-ak0.pinimg.com/originals/f0/4a/6c/f04a6c66b76262ae1196d9cc8bac864a.jpg)
 
 ### Leonard Pine                                                          
 
@@ -66,7 +66,7 @@ As far as the timelines are concerned, do not sweat it. Hap and Leonard were ver
 * Loves dogs and does not take kindly to folks who would abuse them 
 * Loves vanilla cookies and Dr. Pepper       
 
-![Leonard](http://images.amcnetworks.com/sundancechannel.com/wp-content/uploads/2016/03/Michael-Kenneth-Williams-Leonard-Pine-Hap-and-Leonard-101-700384.jpg)                                   
+![Leonard](http://images.amcnetworks.com/sundancechannel.com/wp-content/uploads/2015/12/HAP-AND-LEONARD_leonard-pine-michael-k-williams_02_700x384.jpg)                                   
 
 ### Brett Sawyer
 

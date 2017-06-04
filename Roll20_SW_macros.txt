@@ -139,6 +139,14 @@ Autofire shot 2! [[{1d@{Selected|Shooting}!} + ?{Modifier|0} -@{Selected|Wounds}
 Autofire shot 3! [[{1d@{Selected|Shooting}!} + ?{Modifier|0} -@{Selected|Wounds}[Wounds]  -@{Selected|Fatigue}[Fatigue] ]]    
 Autofire wild die! [[{1d6!} + ?{Modifier|0} -@{Selected|Wounds}[Wounds]  -@{Selected|Fatigue}[Fatigue] ]] 
 
+
+>autofire.bolt.wc
+Wild card with autofire weapon
+Autofire shot 1! [[{1d@{Selected|Spellcasting}!} + ?{Modifier|0} -@{Selected|Wounds}[Wounds]  -@{Selected|Fatigue}[Fatigue] ]]   
+Autofire shot 2! [[{1d@{Selected|Spellcasting}!} + ?{Modifier|0} -@{Selected|Wounds}[Wounds]  -@{Selected|Fatigue}[Fatigue] ]]  
+Autofire shot 3! [[{1d@{Selected|Spellcasting}!} + ?{Modifier|0} -@{Selected|Wounds}[Wounds]  -@{Selected|Fatigue}[Fatigue] ]]    
+Autofire wild die! [[{1d6!} + ?{Modifier|0} -@{Selected|Wounds}[Wounds]  -@{Selected|Fatigue}[Fatigue] ]] 
+
 	
 >autofire.x
 Extra with machinegun gun sprays bullets

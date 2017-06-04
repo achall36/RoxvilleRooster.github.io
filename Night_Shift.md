@@ -1,9 +1,10 @@
+<!--
 ---
 title: Night Shift
 layout: page
 permalink: /night-shift/
 ---
-
+-->
 
 *A four-color hero for a Savage Worlds superhero campaign*
  

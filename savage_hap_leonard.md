@@ -76,17 +76,6 @@ As far as the timelines are concerned, do not sweat it. Hap and Leonard were ver
 * Her daughter (Tilly?) is a drug addict 
 * Who would I cast as Brett? Marg Helgenberger.
 
-
-### Marvin Hanson
-
-* Former detective turned private investigator; later chief of police in LaBorde, Texas
-* Friend and patron to Hap and Leonard; has them do legwork for his cases
-* Wounded in the leg, is debilitated for a long time, eventually reovers but should be consdidered to have the lame hindrance
-* Dark-skinned black man
-* Troubled married life after her cheated on is wife
-* Is not intimidated by Leonard
-* Who would I cast as Hanson? Andre Braugher
-
 ### Vanilla Ride                                                          
 
 * Blonde female, very attractive
@@ -143,6 +132,19 @@ See the write up of [Veil's Visit](http://hapandleonard.net/veil.htm)
 ![JimBob](http://files.list.co.uk/images/2014/06/09/cij-still-281-lst141322.jpg)
 
 ![The Red Bitch](http://www.imcdb.org/i731581.jpg)
+
+### Marvin Hanson
+
+* Former detective turned private investigator; later chief of police in LaBorde, Texas
+* Friend and patron to Hap and Leonard; has them do legwork for his cases
+* Wounded in the leg, is debilitated for a long time, eventually reovers but should be consdidered to have the lame hindrance
+* Dark-skinned black man
+* Troubled married life after her cheated on is wife
+* Is not intimidated by Leonard
+* Who would I cast as Hanson? Andre Braugher
+
+![Blank and Hanson](https://projectfandom.com/wp-content/uploads/2017/04/Hap-Leonard-s2e5-Blank-Hanson.jpg)
+
 
 ### Charlie Blank
 

@@ -72,6 +72,11 @@ Shooting roll! [[{1d@{Selected|shooting}!, 1d6!}kh1 + ?{Modifier|0} -@{Selected|
 /me draws upon mystical powers
 [[{1d@{Selected|spellcasting}, 1d6!}kh1 + ?{Modifier|0} ]] 
 
+.sk.Kn.Arcane
+/me draws upon his vast knowledge of arcane lore and teachings
+[[{1d@{Selected|KnArcana}, 1d6!}kh1 + ?{Modifier|0} ]] 
+
+
 .sk.Stealth
 Here's a stealth roll! [[{1d@{Selected|Stealth}!, 1d6!}kh1 + ?{Modifier|0} -@{Selected|Wounds}[Wounds]  -@{Selected|Fatigue}[Fatigue] ]] 
 
@@ -141,7 +146,7 @@ Autofire wild die! [[{1d6!} + ?{Modifier|0} -@{Selected|Wounds}[Wounds]  -@{Sele
 
 
 >autofire.bolt.wc
-Wild card with autofire weapon
+Wild card with autofire bolt
 Autofire shot 1! [[{1d@{Selected|Spellcasting}!} + ?{Modifier|0} -@{Selected|Wounds}[Wounds]  -@{Selected|Fatigue}[Fatigue] ]]   
 Autofire shot 2! [[{1d@{Selected|Spellcasting}!} + ?{Modifier|0} -@{Selected|Wounds}[Wounds]  -@{Selected|Fatigue}[Fatigue] ]]  
 Autofire shot 3! [[{1d@{Selected|Spellcasting}!} + ?{Modifier|0} -@{Selected|Wounds}[Wounds]  -@{Selected|Fatigue}[Fatigue] ]]    

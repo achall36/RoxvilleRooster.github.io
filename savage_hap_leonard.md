@@ -9,11 +9,12 @@ permalink: /hap-leonard/
 _This is a work in progress_
 
 Hap Collins and Leonard Pine are the main characters in series of novels and
-short stories by Joe R. Lansdale. In 2016, the Sundance network released a
-six-part TV series that covers the novel "Savage Season".
+short stories by Joe R. Lansdale. In 2016, the Sundance network released a [Hap and Leonard](http://www.imdb.com/title/tt3729898/?ref_=ttep_ep_tt), a  
+six-part TV series that covers the novel "Savage Season". 
+In 2017, Sundance TV released season 2 (6 episodes), based on the novel "Mucho Mojo".
 
 The point of this page is to describe the characters from the stories for the
-Savage Worlds Roleplaying Game.
+Savage Worlds Roleplaying Game and for other RPGs.
 
 ## Being a Joe R. Lansdale fan
 
@@ -26,7 +27,7 @@ When I came back to tabletop role-playing games in my early forties, I soon foun
 ## Savage Worlds and Joe Lansdale's East Texas                                                                                                                                                                                                                                                                                                                                                                                                                     
 In 2015, Pinnacle Entertainment Group came out with the East Texas University (ETU) setting, which is a mash up where Buffy the Vampire Slayer, Miskatonic University, and Blue Mountain State meet in Lansdale country. There is even a building named after Champion Joe on the ETU campus.                                                                                                                                                      
 Unlike the supernatureal horror in the ETU setting, the horror in the Hap and Leonard books is visceral, earthly horror and it is efective because it is man-made, unnerving, mundane yet inhuman.                                                                                                                                                                                                                                                Hap and Leonard reside in the fictional town of LaBorde, Texas and that can easily be situated close by the fictitious university town of Pinebox. You can easily find a reason for Hap and Leonard to visit Pinebox. They have served as security guards at a chicken processing plant before, so maybe they can do a stint as campus police.                                                                                                     
-As far as the timelines are concerned, do not sweat it. Hap and Leonard were very active in the late 80s but the latest novel, Honkytonk Samurai (2016), is set in the 2010s or so (there is a reference to a character making a video using a tablet). Technology seldom plays a big factor in the Hap and Leonard oeuvre and I do not think Joe Lansdale is too fussy when the stories take place on the calendar, as long as the vibe is right. 
+As far as the timelines are concerned, do not sweat it. Hap and Leonard were very active in the late 80s but the latest novel, Rusty Puppy (2017), is set in the 2010s. 
 
 ![collins-pine](https://when-release.com/.u/.d/1460751590.jpg)                                                                                                                                                                                                                                                                           
 
@@ -74,7 +75,7 @@ As far as the timelines are concerned, do not sweat it. Hap and Leonard were ver
 * Professional nurse (later private investigator)
 * She's an awesome, strong female character
 * Her daughter (Tilly?) is a drug addict 
-* Who would I cast as Brett? Marg Helgenberger.
+* Who would I cast as Brett? Marg Helgenberger from her early CSI years.
 
 ### Vanilla Ride                                                          
 
@@ -128,6 +129,7 @@ See the write up of [Veil's Visit](http://hapandleonard.net/veil.htm)
 * Experienced investigator with great instincts
 * Drives "the red bitch", a vintage red Cadillac with steer horns on the front
 * Known to raise pigs
+* Played by Don Johnson in the 2014 movie[Cold in July](http://www.imdb.com/title/tt1179031/?ref_=fn_al_tt_1).
 
 ![JimBob](http://files.list.co.uk/images/2014/06/09/cij-still-281-lst141322.jpg)
 
@@ -138,10 +140,8 @@ See the write up of [Veil's Visit](http://hapandleonard.net/veil.htm)
 * Former detective turned private investigator; later chief of police in LaBorde, Texas
 * Friend and patron to Hap and Leonard; has them do legwork for his cases
 * Wounded in the leg, is debilitated for a long time, eventually reovers but should be consdidered to have the lame hindrance
-* Dark-skinned black man
 * Troubled married life after her cheated on is wife
 * Is not intimidated by Leonard
-* Who would I cast as Hanson? Andre Braugher
 
 ![Blank and Hanson](https://projectfandom.com/wp-content/uploads/2017/04/Hap-Leonard-s2e5-Blank-Hanson.jpg)
 
@@ -151,4 +151,3 @@ See the write up of [Veil's Visit](http://hapandleonard.net/veil.htm)
 * Detective, worked with Hanson
 * Friend to Hap and Leonard
 * Wore a porkpie hat and a K-Mart suit
-* Who would I cast as Charlie? Joey Pants

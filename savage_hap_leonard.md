@@ -9,7 +9,7 @@ permalink: /hap-leonard/
 _This is a work in progress_
 
 Hap Collins and Leonard Pine are the main characters in series of novels and
-short stories by Joe R. Lansdale. In 2016, the Sundance network released a [Hap and Leonard](http://www.imdb.com/title/tt3729898/?ref_=ttep_ep_tt), a  
+short stories by Joe R. Lansdale. In 2016, the Sundance network released [Hap and Leonard](http://www.imdb.com/title/tt3729898/?ref_=ttep_ep_tt), a  
 six-part TV series that covers the novel "Savage Season". 
 In 2017, Sundance TV released season 2 (6 episodes), based on the novel "Mucho Mojo".
 
@@ -101,11 +101,10 @@ As far as the timelines are concerned, do not sweat it. Hap and Leonard were ver
 ### Veil   
 * Hitman turned laywer, defended Leonard
 * Vigilante who had hunted down rapists, killers, molesters, child pornographers
-* Old friend of Hap
+* Old friend of Hap Collins
 * Wandering eye; average height; greying hair; "beard like a brillo pad"
-Thin
+* Thin
 * From the big city (Outsider in East Texas)
-*  Who would I cast as Veil? 
 
 See the write up of [Veil's Visit](http://hapandleonard.net/veil.htm)
 
@@ -121,7 +120,6 @@ See the write up of [Veil's Visit](http://hapandleonard.net/veil.htm)
 *   Boxer's physique
 *   Associate of Cason Stadler (Iraq war buddy?)
 *   Will shoot an unarmed foe
-*   Who would I cast as Booger? Not sure.
 
 ### Jim Bob Luke
 
@@ -131,7 +129,7 @@ See the write up of [Veil's Visit](http://hapandleonard.net/veil.htm)
 * Experienced investigator with great instincts
 * Drives "the red bitch", a vintage red Cadillac with steer horns on the front
 * Known to raise pigs
-* Played by Don Johnson in the 2014 movie[Cold in July](http://www.imdb.com/title/tt1179031/?ref_=fn_al_tt_1).
+* Played by Don Johnson in the 2014 movie [Cold in July](http://www.imdb.com/title/tt1179031/?ref_=fn_al_tt_1).
 
 ![JimBob](http://files.list.co.uk/images/2014/06/09/cij-still-281-lst141322.jpg)
 

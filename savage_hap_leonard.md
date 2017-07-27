@@ -16,6 +16,8 @@ In 2017, Sundance TV released season 2 (6 episodes), based on the novel "Mucho M
 The point of this page is to describe the characters from the stories for the
 Savage Worlds Roleplaying Game and for other RPGs.
 
+Looking for more information on Hap and Leonard? See the [Wikipedia entry](https://en.wikipedia.org/wiki/Hap_and_Leonard).
+
 ## Being a Joe R. Lansdale fan
 
 

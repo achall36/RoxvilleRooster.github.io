@@ -7,14 +7,21 @@ permalink: /hap-leonard/
 # Adapting Joe R. Lansdale's Hap and Leonard for the Savage Worlds RPG
 
 _This is a work in progress_
+_Updated Aug 5, 2017_
 
 Hap Collins and Leonard Pine are the main characters in series of novels and
 short stories by Joe R. Lansdale. In 2016, the Sundance network released [Hap and Leonard](http://www.imdb.com/title/tt3729898/?ref_=ttep_ep_tt), a  
 six-part TV series that covers the novel "Savage Season". 
 In 2017, Sundance TV released season 2 (6 episodes), based on the novel "Mucho Mojo".
+Of course, the TV series is different from the novels and stories. The TV series is more of a mystery drama with occassional violence, whereas I see violence and fisticuffs feature more prominenlty in the stories.
 
 The point of this page is to describe the characters from the stories for the
-Savage Worlds Roleplaying Game and for other RPGs.
+Savage Worlds Roleplaying Game and for other RPGs. 
+
+There are other good RPGs out there that could facilitate a Hap and Leonard-type game.
+I bet the Gumshoe system could handle the investigative aspects quite nicely.
+I imagine that Fate Accelerated (FAE) or Fate Core could be used to considerable effect.
+To me, I know Savage Worlds can support a Hap and Leonard-style story, especially when the wiescracks, fists, and bullets begin to fly.
 
 Looking for more information on Hap and Leonard? See the [Wikipedia entry](https://en.wikipedia.org/wiki/Hap_and_Leonard).
 
@@ -60,15 +67,14 @@ As far as the timelines are concerned, do not sweat it. Hap and Leonard were ver
 
 ### Leonard Pine                                                          
 
-* Black male, homosexual, openly gay but not flamboyant 
+* Black male, homosexual, openly gay but not flamboyant (i.e., not a "skipper") 
 * Tends to vote Republican 
 * Likes classic country music (e.g., Pasty Cline) 
 * Vietnam war veteran (green beret) 
 * Strong willed and tough 
 * Loyal to Hap
 * Loves dogs and does not take kindly to folks who would abuse them 
-* Loves vanilla cookies and Dr. Pepper       
-
+* Loves vanilla cookies and Dr. Pepper
 ![Leonard](https://tribzap2it.files.wordpress.com/2017/03/hap-and-leonard-michael-k-williams-1.jpg)                                   
 
 ### Brett Sawyer

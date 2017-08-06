@@ -70,12 +70,14 @@ Name: Hap Collins
 Attributes: Agility d8, Smarts d8, Spirit d6, Strength d6, Vigor d8
 
 Skills: Fighting d8, Intimidation d6+2, Investigation d4, Notice d8, Persuasion d4, Repair d4, Shooting d8, Stealth d4, Streetwise d4, Survival d4, Swimming d4, Taunt d8+2
+
 Charisma: 0; Pace: 6; Parry: 6; Toughness: 6
 
 Hindrances: 
  * Heroic: Character always helps those in need
  * Poverty: Half starting funds, inability to hang onto future income
  * Loyal: The hero tries to never betray or disappoint his friends
+
 Edges: 
  * Level Headed: Act on best of two cards in combat
  * Marksman: Aim maneuver (+2 Shooting) if hero does not move
@@ -102,12 +104,14 @@ Name: Leonard Pine
 Attributes: Agility d8, Smarts d6, Spirit d6, Strength d8, Vigor d8
 
 Skills: Driving d4, Fighting d8, Intimidation d6, Notice d6, Riding d4, Shooting d6, Stealth d6, Streetwise d4, Survival d4, Swimming d4, Taunt d6, Tracking d4
+
 Charisma: 0; Pace: 6; Parry: 6; Toughness: 7
 
 Hindrances: 
  * Heroic: Character always helps those in need
  * Loyal: The hero tries to never betray or disappoint his friends
  * Poverty: Half starting funds, inability to hang onto future income
+
 Edges: 
  * Brawler: +2 to unarmed damage rolls
  * Brawny: Toughness +1; load limit is 8 x Str

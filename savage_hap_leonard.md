@@ -63,6 +63,7 @@ As far as the timelines are concerned, do not sweat it. Hap and Leonard were ver
 * Cannot stand injustice
 * Drinks near beer (Sharps brand is typical) 
 * Will not shoot an unarmed foe
+* Sucker for the ladies
 
 Name: Hap Collins
 Attributes: Agility d8, Smarts d8, Spirit d6, Strength d6, Vigor d8
@@ -91,6 +92,7 @@ Edges:
 * Cannot tolerate hypocrisy
 * Loves dogs and won't suffer folks who abuse them 
 * Loves vanilla cookies and Dr. Pepper
+* Needs a hat/likes a hat
 
 Name: Leonard Pine
 Attributes: Agility d8, Smarts d6, Spirit d6, Strength d8, Vigor d8

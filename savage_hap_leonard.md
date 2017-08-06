@@ -7,7 +7,7 @@ permalink: /hap-leonard/
 # Adapting Joe R. Lansdale's Hap and Leonard for the Savage Worlds RPG
 
 _This is a work in progress_
-_Updated Aug 5, 2017_
+_Updated Aug 6, 2017_
 
 Hap Collins and Leonard Pine are the main characters in series of novels and
 short stories by Joe R. Lansdale. In 2016, the Sundance network released [Hap and Leonard](http://www.imdb.com/title/tt3729898/?ref_=ttep_ep_tt), a  
@@ -65,11 +65,11 @@ As far as the timelines are concerned, do not sweat it. Hap and Leonard were ver
 * Will not shoot an unarmed foe
 * Sucker for the ladies
 
-Name: Hap Collins
+Name: Hap Collins; XP: 45
 
 Attributes: Agility d8, Smarts d8, Spirit d6, Strength d6, Vigor d8
 
-Skills: Fighting d8, Intimidation d6+2, Investigation d4, Notice d8, Persuasion d4, Repair d4, Shooting d8, Stealth d4, Streetwise d4, Survival d4, Swimming d4, Taunt d8+2
+Skills: Fighting d8, Intimidation d6+2, Investigation d6, Notice d8, Persuasion d6, Repair d4, Shooting d8, Stealth d4, Streetwise d4, Survival d4, Swimming d4, Taunt d8+2
 
 Charisma: 0; Pace: 6; Parry: 6; Toughness: 6
 
@@ -99,13 +99,13 @@ Edges:
 * Loves vanilla cookies and Dr. Pepper
 * Needs a hat/likes a hat
 
-Name: Leonard Pine
+Name: Leonard Pine; XP: 45
 
 Attributes: Agility d8, Smarts d6, Spirit d6, Strength d8, Vigor d8
 
-Skills: Driving d4, Fighting d8, Intimidation d6, Notice d6, Riding d4, Shooting d6, Stealth d6, Streetwise d4, Survival d4, Swimming d4, Taunt d6, Tracking d4
+Skills: Driving d4, Fighting d10, Intimidation d6, Notice d6, Riding d4, Shooting d6, Stealth d6, Streetwise d4, Survival d4, Swimming d4, Taunt d6, Tracking d4
 
-Charisma: 0; Pace: 6; Parry: 6; Toughness: 7
+Charisma: 0; Pace: 6; Parry: 7; Toughness: 7
 
 Hindrances: 
  * Heroic: Character always helps those in need

@@ -184,7 +184,15 @@ Tommy gun hits for
 >multi.extra.attack
 /r ?{Number of Dice|1}d?{Die Type|6}!s
 
+#afk
+[be right back](https://i.ytimg.com/vi/0iLle0BSAjg/hqdefault.jpg)
+
+#atk
+[That's right](http://blog.corbitronmusic.com/wp-content/uploads/sites/2/2017/03/Untitled-2-800x450.png)
 
 
 
+>dmg.eddie.punch
+Eddie Thomas drives a fist into a foe!
+/r {1d10! +2 +?{Additional modifiers|0}}
 

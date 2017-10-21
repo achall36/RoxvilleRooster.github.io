@@ -1,8 +1,8 @@
-// ---
-// title: Classic Pulp
-// layout: page
-// permalink: /pulp/
-// ---
+---
+title: Simple Pulp
+layout: page
+permalink: /pulp_simple/
+---
 
 ## House rules
 
@@ -27,16 +27,28 @@ From the Savage Worlds Deluxe Explorer's Edition (p108), we'll also use the foll
 ### Knock-Out Blows
 *From PEG's Deadlands Noir*
 
-When a character takes enough damage to be Shaken or worse from an opponent  who has The Drop on him (see Savage Worlds), he has to make a Vigor roll against the total damage or be knocked unconscious. If the character Soaks all the wounds from the damage, he is unaffected. A character who is knocked unconscious in this manner is out for at least the remainder of the scene, or possibly longer (GM discretion); what happens during that time is up to the GM.
+When a character takes enough damage to be Shaken or worse from an opponent  who has The Drop on him (see Savage Worlds), 
+he has to make a Vigor roll against the total damage or be knocked unconscious. If the character Soaks all the wounds from 
+the damage, he is unaffected. A character who is knocked unconscious in this manner is out for at least the remainder of the 
+scene, or possibly longer (GM discretion); what happens during that time is up to the GM.
 
 ### Stunts 
 *From Adamant Entertainment's "Thrilling Tales of Adventure"*
 
-Any character who attempts a stunt action deserves  a benny. A stunt action is any action which is performed in a flashier manner than one would normally observe. Getting on board an airship before it lifts off from the platform is an action. Leaping from the sidecar of a speeding motorcycle onto an airship at the last second as it lifts off from the platform -- now that is a stunt action, and should be rewarded.
+Any character who attempts a stunt action deserves a benny. A stunt action is any action which 
+is performed in a flashier manner than one would normally observe. 
 
-In game terms, a stunt is an action where the player purposefully makes the action more difficult for the character. In the above example, the player would have had the option to get on board the airship, but instead announced that the character had gotten there too late, and instead described the stunt action. In a way, the player is taking on the role of the game master for a moment, changing the situation for his or her character in such a way that a more difficult solution is required. 
+Conservative action:
+* Getting on board an airship before it lifts off from the platform is an action
 
-A stunt action should always require a roll, at a minimum -2 penalty. The game master is the final arbiter of the roll penalty of a particular stunt action. Pulling off nearly impossible stunts (-6 or more to the roll) may even result in the hero earning more than one benny, at the GM’s discretion.
+Stunt action:
+* Leaping from the sidecar of a speeding motorcycle onto an airship at the last second as it lifts off from the platform
+
+In game terms, a stunt is an action where the player purposefully makes the action more 
+difficult for the character. A stunt action should always require a roll, at a minimum -2 penalty. 
+The GM is the final arbiter of the roll penalty of a particular stunt action. Pulling off 
+nearly impossible stunts (-6 or more to the roll) may even result in the hero earning 
+more than one benny (GM’s discretion).
 
 ### Story Declarations 
 *From Adamant Entertainment's "Thrilling Tales of Adventure"*
@@ -52,55 +64,20 @@ The key limit to Story Declaration is you cannot contradict previously establish
 The GM has final say on Story Declaration, but generally, if what you propose makes the game more interesting, odds are in your favor. If a proposed declaration isn’t approved, you keep the benny, and the change doesn’t happen.
 
 
-### Mooks
-*From Adamant Entertainment's "Thrilling Tales of Adventure"*
-
-Mooks are the level below Extras. Mooks are the faceless cannon-fodder who get thrown at the heroes in combat. The villain will throw these at the heroes in an effort to slow their progress, with the off chance that one or more Mooks might get lucky and do some damage.
-
-Mooks are just like Extras, but with the following special rules:
-
-* Every Trait is average (d6).
-* They only possess four skills, and each skill is rated at d6.
-* They have no edges and no hindrances.
-* Mooks are never Shaken.
-
-If you equal or exceed their Toughness, they’re out of the fight.
-Mooks will willingly lay down their lives for the main villain (see the SWDEE setting rule Fanaticism).
-
-### Defining Interests
-*From Reality Blurs' "Realms of Cthulhu"*
-
-In addition to skills and traits, every character has a number of interests and hobbies that may have nothing to do with their professional pursuits, or may, at best, complement them on occasion.
-
-Your character begins with a number of defining interests equal to half of her Smarts die type. Any permanent increase in a character's Smarts grants the appropriate number of additional defining interests that should be selected at the time of the increase. A defining interest gives the character a base +1 to their Common Knowledge roll when the subject is called into question.
-
-#### Sample Interests
-
-__Culture__: Anthropology, Archaeology, Astrology, Astronomy, Biology, Botany, City Knowledge (Specific), Chemistry, Classical Literature, Cooking, Culture (Specific), Etiquette, Folklore, Forensics, Geology, Language (Specific), Knowledge (Specific), Natural History, Photography, Physics 
-
-__Craft__: Art (Specific), Electrical Repair, Mechanical Repair
-
-__Perform__: Acting, Comedy, Dance, Disguise, Juggling, Instrument (Specific), Oratory, Puppetry, Singing
-
-__Languages__: Languages fall under the category of defining interests. A character can automatically speak and (when appropriate) read and write his native tongue. Additional languages require the player to choose the Language interest.
-
-**Note:**
-You can come up with additional items that fit your PC, subject to the GM’s approval. A defining interest provides only a general knowledge of a topic and is not as detailed as someone who takes a specific Knowledge skill.
-
-
 ### New skills
 
 ##### Athletics (Strength)
-The Athletics skill replaces the climbing and swimming skills and is also used when making tests of endurance and foot chase rules. It also applies to jumping.
+The Athletics skill replaces the climbing and swimming skills and is also used when making tests of endurance and foot chase rules. It also applies to jumping. 
 
 #### Replaced skills
 
 The following skills are replaced by Athletics:
 * Swimming
 * Climbing
+Athletics does not replace Throwing.
 
 ### New hindrances
-The following hindrances introduced in Adamant Entertainment's "Thrilling Tales of Adventure" are permitted. 
+Many of the following hindrances introduced in Adamant Entertainment's "Thrilling Tales of Adventure" are permitted. 
 
 #### Cocky (Minor)
 The character is a braggart, and must spend the first round of any combat announcing how great he is, or what he’s going to do to any and all opponents. This tendency to boast can be overcome by spending a benny.
@@ -159,3 +136,11 @@ Once per session, the character may “suddenly remember” that he has a useful
 Requirements: Smarts d10+
 
 The character is able to remember everything they see, hear or read, down to the tiniest detail.
+
+
+#### Font of INformation (Professional)
+Requirements: Seasoned, Smarts d8+
+The character may make a Common Knowledge roll at +2 to see whether he knows some relevant information 
+about anything - local notable people, legendary items, or
+noteworthy places - regardless of how specialized or obscure the knowledge.
+_As this is an overpowered edge, this is only be added at the GMs' discretion._

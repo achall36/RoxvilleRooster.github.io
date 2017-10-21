@@ -1,8 +1,10 @@
-// ---
-// title: Classic Pulp
-// layout: page
-// permalink: /pulp/
-// ---
+<!-- 
+---
+title: Classic Pulp
+layout: page
+permalink: /pulp/
+---
+-->
 
 ## House rules
 

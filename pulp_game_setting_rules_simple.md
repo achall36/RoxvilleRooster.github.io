@@ -38,7 +38,7 @@ scene, or possibly longer (GM discretion); what happens during that time is up t
 Any character who attempts a stunt action deserves a benny. A stunt action is any action which 
 is performed in a flashier manner than one would normally observe. 
 
-Conservative action:
+Conventional action:
 * Getting on board an airship before it lifts off from the platform is an action
 
 Stunt action:
@@ -138,9 +138,10 @@ Requirements: Smarts d10+
 The character is able to remember everything they see, hear or read, down to the tiniest detail.
 
 
-#### Font of INformation (Professional)
+#### Font of Information (Professional)
 Requirements: Seasoned, Smarts d8+
 The character may make a Common Knowledge roll at +2 to see whether he knows some relevant information 
 about anything - local notable people, legendary items, or
 noteworthy places - regardless of how specialized or obscure the knowledge.
-_As this is an overpowered edge, this is only be added at the GMs' discretion._
+
+_As this is an overpowered edge, consult the GM before you add it to a character._

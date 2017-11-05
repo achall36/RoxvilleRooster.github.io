@@ -99,6 +99,16 @@ The character recovers slowly from the shock and trauma of combat, whether due t
 ### New Edges
 Many of new edges from Adamant Entertainment's "Thrilling Tales of Adventure" are permitted.
 
+
+#### Bring it on! (Combat)
+Requirements: Seasoned, Fighting d10+
+
+The character is a master of defending
+against multiple attackers.
+Opponents get no Gang Up
+bonus against this character.
+
+<!--
 #### Combat Sense
 Requirements: Seasoned, Fighting d8+, Notice d8+
 
@@ -108,7 +118,7 @@ The character has the perception, skill, and agility to handle multiple foes. Op
 Requirements: Veteran, Combat Sense
 
 Opponents gain no Gang Up bonus against this warrior.
-
+-->
 
 #### Dirty Fighter (Combat)
 Requirements: Seasoned

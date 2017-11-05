@@ -14,10 +14,11 @@ I also attribute the idea of applying this type of effect to Savage Worlds to Er
 ## Setting rules
 Download the [Daring Tales of Adventure: Pulp Rules](http://tripleacegames.com/Downloads/DaringTales/TAG31000A_PULP_RULES.pdf) from Triple Ace Games.
 
+<!--
 We'll be using these rules but we will make the following exceptions:
 
 * For Heroic Combat, we will ignore the __Extras' Damage__ and __Nonlethal__ rules. This will make the enemy extras more of a threat. 
-
+-->
 From the Savage Worlds Deluxe Explorer's Edition (p108), we'll also use the following setting rules:
 
 * Born a Hero

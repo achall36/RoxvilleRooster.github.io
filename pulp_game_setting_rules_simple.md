@@ -138,6 +138,16 @@ The character has the use of a single Weird Science device--as if they had acces
 
 This edge is for character concepts where the hero has access to a gizmo, but is not the scientist who built it --for example, a down-on-his-luck air circus pilot who finds a high-tech rocket pack.
 
+
+#### Iron Jaw (Combat)
+
+Requirements: Vigor d8+
+
+The character can shrug off the
+mightiest of blows, receiving a +2
+bonus to Soak rolls.
+
+
 #### Just the Thing (Weird)
 Requirements: Wild Card, Luck
 

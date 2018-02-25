@@ -201,7 +201,7 @@ See the write up of [Veil's Visit](http://hapandleonard.net/veil.htm)
 * Troubled married life after her cheated on is wife
 * Is not intimidated by Leonard
 
-![Blank and Hanson](https://projectfandom.com/wp-content/uploads/2017/04/Hap-Leonard-s2e5-Blank-Hanson.jpg)
+![Hanson](https://static.tvmaze.com/uploads/images/medium_portrait/109/273297.jpg)
 
 
 ### Charlie Blank

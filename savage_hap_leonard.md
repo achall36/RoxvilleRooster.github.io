@@ -7,19 +7,20 @@ permalink: /hap-leonard/
 # Adapting Joe R. Lansdale's Hap and Leonard for the Savage Worlds RPG
 
 _This is a work in progress_
-_Updated Aug 6, 2017_
 
-Hap Collins and Leonard Pine are the main characters in series of novels and
-short stories by Joe R. Lansdale. In 2016, the Sundance network released [Hap and Leonard](http://www.imdb.com/title/tt3729898/?ref_=ttep_ep_tt), a  
-six-part TV series that covers the novel "Savage Season". 
+_Updated February 26, 2018_
+
+Hap Collins and Leonard Pine are the main characters in series of novels, novellas, and
+short stories by Joe R. Lansdale. In 2016, the Sundance network released [Hap and Leonard](http://www.imdb.com/title/tt3729898/?ref_=ttep_ep_tt), a  six-part TV series that covers the novel "Savage Season". 
 In 2017, Sundance TV released season 2 (6 episodes), based on the novel "Mucho Mojo".
-Of course, the TV series is different from the novels and stories. The TV series is more of a mystery drama with occassional violence, whereas I see violence and fisticuffs feature more prominenlty in the stories.
+In 2018, Sundance TV releases season 3, which is baded on one of my favorite novels, "Two Bear Mambo".
+Of course, the TV series differs from the novels and stories. The TV series is more of a mystery drama with occassional violence, whereas I see violence, horrot, and fisticuffs feature more prominenlty in the stories.
 
 The point of this page is to describe the characters from the stories for the
 Savage Worlds Roleplaying Game and for other RPGs. 
 
 There are other good RPGs out there that could facilitate a Hap and Leonard-type game.
-I bet the Gumshoe system could handle the investigative aspects quite nicely.
+I bet the Gumshoe system could handle the investigative aspects quite nicely. 
 I imagine that Fate Accelerated (FAE) or Fate Core could be used to considerable effect.
 To me, I know Savage Worlds can support a Hap and Leonard-style story, especially when the wiescracks, fists, and bullets begin to fly.
 
@@ -39,9 +40,15 @@ Unlike the supernatureal horror in the ETU setting, the horror in the Hap and Le
 As far as the timelines are concerned, do not sweat it. Hap and Leonard were very active in the late 80s but the latest novel, Rusty Puppy (2017), is set in the 2010s. 
 
 ![collins-pine](https://when-release.com/.u/.d/1460751590.jpg)                                                                                                                                                                                                                                                                           
+## Hap and Leonard as a team
+Hap and Leonard are amateur investigators andtypically find themselvces doing legwork. Where they lack the classic sleuth skills, they get by with a little luck, intuition, and knowledge of the locals and location.
+
+They are also noty overly ambitious; some see that as lazy. OK, maybe they are a bit lazy but, when these guys get going, they do not sit back. 
+Hap and Leonard also exemplify a great friendship that crosses lines of race, sexual orientation, and politics. They are very different people but they are brothers and do anything for one another.
+
 
 ## Character spotlights                                                                                                                                                                                                                                                                                                                                                                                                                               
-
+ 
 *   [Hap Collins](#hap-collins)
 *   [Leonard Pine](#leonard-pine)
 *   [Brett Sawyer](#brett-sawyer)
@@ -120,7 +127,7 @@ Edges:
  * Quick: Discard draw of 5 or less for new card
  * Two-Fisted: May attack with a weapon in each hand without multi-action penalty
 
-![Leonard](https://tribzap2it.files.wordpress.com/2017/03/hap-and-leonard-michael-k-williams-1.jpg)                                   
+![Leonard](http://www.slate.com/content/dam/slate/blogs/outward/2016/03/02/hap_and_leonard_s_jim_mickle_interviewed/sdc065_handls1_hapleonard_truck20735_x2.jpg.CROP.promo-xlarge2.jpg)                                   
 
 ### Brett Sawyer
 

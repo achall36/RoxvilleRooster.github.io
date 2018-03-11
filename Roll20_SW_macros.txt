@@ -138,7 +138,7 @@ An untrained roll for a wild card!
 ##Special
 
 >autofire.wc
-Wild card with autofire weapon
+Wild card with autofire weapon RoF 3
 Autofire shot 1! [[{1d@{Selected|Shooting}!} + ?{Modifier|0} -@{Selected|Wounds}[Wounds]  -@{Selected|Fatigue}[Fatigue] ]]   
 Autofire shot 2! [[{1d@{Selected|Shooting}!} + ?{Modifier|0} -@{Selected|Wounds}[Wounds]  -@{Selected|Fatigue}[Fatigue] ]]  
 Autofire shot 3! [[{1d@{Selected|Shooting}!} + ?{Modifier|0} -@{Selected|Wounds}[Wounds]  -@{Selected|Fatigue}[Fatigue] ]]    

@@ -8,27 +8,26 @@ permalink: /hap-leonard/
 
 _This is a work in progress_
 
-_Updated February 26, 2018_
+_Updated May 6, 2018_
 
+The point of this page is to describe the characters from the stories for the
+Savage Worlds Roleplaying Game. 
+
+_There are other good RPGs out there that could facilitate a Hap and Leonard-type game.
+The Gumshoe system could handle the investigative aspects quite nicely. 
+Fate Accelerated (FAE) or Fate Core could be used to considerable effect.
+For me, I know Savage Worlds can support a Hap and Leonard-style story, especially when the wisecracks, fists, and bullets begin to fly._
+
+## Stories and the TV series
 Hap Collins and Leonard Pine are the main characters in series of novels, novellas, and
 short stories by Joe R. Lansdale. In 2016, the Sundance network released [Hap and Leonard](http://www.imdb.com/title/tt3729898/?ref_=ttep_ep_tt), a  six-part TV series that covers the novel "Savage Season". 
 In 2017, Sundance TV released season 2 (6 episodes), based on the novel "Mucho Mojo".
-In 2018, Sundance TV releases season 3, which is based on one of my favorite novels, "Two Bear Mambo".
-Of course, the TV series differs from the novels and stories. The TV series is more of a mystery drama with occasional violence, whereas I see violence, horror, and fisticuffs feature more prominenlty in the stories.
-
-The point of this page is to describe the characters from the stories for the
-Savage Worlds Roleplaying Game and for other RPGs. 
-
-There are other good RPGs out there that could facilitate a Hap and Leonard-type game.
-I bet the Gumshoe system could handle the investigative aspects quite nicely. 
-I imagine that Fate Accelerated (FAE) or Fate Core could be used to considerable effect.
-To me, I know Savage Worlds can support a Hap and Leonard-style story, especially when the wisecracks, fists, and bullets begin to fly.
+In 2018, Sundance TV released season 3, which is based on one of my favorite novels, "Two Bear Mambo".
+Of course, the TV series differs from the novels and stories but they are relatively faithful. The TV series is more of a mystery drama with occasional violence, whereas violence, horror, and fisticuffs feature more prominenlty in the stories.
 
 Looking for more information on Hap and Leonard? See the [Wikipedia entry](https://en.wikipedia.org/wiki/Hap_and_Leonard).
 
 ## Being a Joe R. Lansdale fan
-
-
 Joe Lansdale writes some fun, evocative yarns. Thanks to Bruce Campbell and the movie version of Bubba Ho-Tep, I found Champion Joe. I will not claim I have read all of Joe's stuff (the master is prolific) but I have read most of everything related to the Hap and Leonard series. To me, Hap and Leonard are similar to Fritz Leiber's Fafhrd and the Grey Mouser.   
 
 ## Being a Savage Worlds gamer                                                                                                                                                                                                                                                                                                                                                                                                                        
@@ -36,7 +35,8 @@ When I came back to tabletop role-playing games in my early forties, I soon foun
 
 ## Savage Worlds and Joe Lansdale's East Texas                                                                                                                                                                                                                                                                                                                                                                                                                     
 In 2015, Pinnacle Entertainment Group came out with the East Texas University (ETU) setting, which is a mash up where Buffy the Vampire Slayer, Miskatonic University, and Blue Mountain State meet in Lansdale country. There is even a building named after Champion Joe on the ETU campus.                                                                                                                                                      
-Unlike the supernatural horror in the ETU setting, the horror in the Hap and Leonard books is visceral, earthly horror and it is effective because it is man-made, unnerving, mundane yet inhuman.                                                                                                                                                                                                                                                Hap and Leonard reside in the fictional town of LaBorde, Texas and that can easily be situated close by the fictitious university town of Pinebox. You can easily find a reason for Hap and Leonard to visit Pinebox. They have served as security guards at a chicken processing plant before, so maybe they can do a stint as campus police.                                                                                                     
+Unlike the supernatural horror in the ETU setting, the horror in the Hap and Leonard books is visceral, earthly horror and it is effective because it is man-made, unnerving, mundane yet inhuman.                                                                                                                                                                                                                                                
+Hap and Leonard reside in the fictional town of LaBorde, Texas and that can easily be situated close by the fictitious university town of Pinebox. You can easily find a reason for Hap and Leonard to visit Pinebox. They have served as security guards at a chicken processing plant before, so maybe they can do a stint as campus police.                                                                                                     
 As far as the time lines are concerned, do not sweat it. Hap and Leonard were very active in the late 80s but the latest novel, Rusty Puppy (2017), is set in the 2010s. 
 
 ![collins-pine](https://when-release.com/.u/.d/1460751590.jpg)                                                                                                                                                                                                                                                                           
@@ -46,9 +46,7 @@ Hap and Leonard are amateur investigators and typically find themselves doing le
 They are unambitious; some see that as lazy. OK, maybe they are a bit lazy but, when these guys get going, they do not sit back. 
 Hap and Leonard also exemplify a great friendship that crosses lines of race, sexual orientation, and politics. They are very different people but they are brothers and do anything for one another.
 
-
-## Character spotlights                                                                                                                                                                                                                                                                                                                                                                                                                               
- 
+## Character spotlights                                                                                                                                                                                                                                                                                                                                                                                                                                
 *   [Hap Collins](#hap-collins)
 *   [Leonard Pine](#leonard-pine)
 *   [Brett Sawyer](#brett-sawyer)
@@ -132,9 +130,9 @@ Edges:
 ### Brett Sawyer
 
 * Ginger female, Hap's girlfriend
-* Professional nurse (later private investigator)
+* Professional nurse (later a private investigator)
 * She's an awesome, strong female character
-* Her daughter (Tilly?) is a drug addict 
+* Her daughter,Tilly, is a drug addict and runs with a bad crowd
 * Who would I cast as Brett? Marg Helgenberger from her early CSI years.
 
 ### Vanilla Ride                                                          

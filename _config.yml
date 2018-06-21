@@ -26,3 +26,4 @@ markdown: kramdown
 google_analytics: 
 show_downloads: true
 theme: jekyll-theme-minimal
+encoding: UTF-8

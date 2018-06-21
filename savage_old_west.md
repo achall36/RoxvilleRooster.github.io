@@ -2,6 +2,7 @@
 title: Savage Old West
 layout: page
 permalink: /savage-old-west/
+encoding: UTF-8
 ---
 
 This campaign is an attempt at reproduce a conventiaonal cinematic old west using the Savage Worlds rules. 

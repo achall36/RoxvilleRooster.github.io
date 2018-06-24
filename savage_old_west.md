@@ -2,12 +2,11 @@
 title: Savage Old West
 layout: page
 permalink: /savage-old-west/
-encoding: UTF-8
 ---
 
 This campaign is an attempt at reproduce a conventiaonal cinematic old west using the Savage Worlds rules. 
 The rules of Deadlands Reloaded and the Sixth Gun setting that focus on fantasy and horror elements are set aside.
-Unless stated otherwise, we're using the rules set out in SWDEE but there is significant borrowing of the less fantasy-oriented rules from Deadlands Reloaded. _Frontier Towns: Fort Griffin_ is also referenced below.
+Unless stated otherwise, we're using the rules set out in SWDEE but there is significant borrowing of the less fantasy-oriented rules from Deadlands Reloaded. Frontier Towns: Fort Griffin is also referenced below.
 
 # Setting rules
 
@@ -30,7 +29,7 @@ The follwing rules should get a special focus in an old west game:
 ## Hindrances
 * Ailin' (Minor or Major, Deadlands Reloaded Player's Guide 27) - replaces Anemic in SWDEE
 * Heavy Sleeper (Minor, Deadlands Reloaded Player's Guide 28)
-* Lyin’ Eyes (Minor, Deadlands Reloaded Player's Guide 28)
+* Lyin' Eyes (Minor, Deadlands Reloaded Player's Guide 28)
 * Slowpoke (Minor, Deadlands Reloaded Player's Guide 29)
 * Tenderfoot (Minor, Deadlands Reloaded Player's Guide 29)
 * Thin Skinned (Major, Deadlands Reloaded Player's Guide 29)
@@ -66,5 +65,5 @@ The following knowledge skills are generally applicable to player characters in 
 ## Weapons, additional
 * Dynamite (Deadlands Reloaded Player's Guide 45 and 47)
 * Lasso (Frontier Towns: Fort Griffin  85)
-* Reid’s Knuckleduster (Frontier Towns: Fort Griffin 30)
+* Reid's Knuckleduster (Frontier Towns: Fort Griffin 30)
 * Slingshot (Frontier Towns: Fort Griffin 75)

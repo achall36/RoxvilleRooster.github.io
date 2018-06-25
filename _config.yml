@@ -25,5 +25,5 @@ markdown: kramdown
 
 google_analytics: 
 show_downloads: true
-theme: jekyll-theme-minimal
+theme: jekyll-theme-midnight
 encoding: UTF-8

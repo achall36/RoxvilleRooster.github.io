@@ -26,7 +26,7 @@ The follwing rules should get a special focus in an old west game:
 * Dramatic tasks (e.g., traveling in dangerous country)
 * Hazards
 	* Wildlife (e.g., rattlesnakes, buffalo herds)
-	* Hostiles (e.g., bandits and outlaws, Indian peoples, Mexican army, domestic military)
+	* Hostiles (e.g., bandits and outlaws, native war parties, Mexican army, domestic military)
 	* Environment (e.g., floods, wildfires, cold, thirst)
 	
 ## Hindrances

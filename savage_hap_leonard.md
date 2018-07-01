@@ -113,7 +113,7 @@ Skills: Driving d4, Fighting d10, Intimidation d6, Notice d6, Riding d4, Shootin
 Charisma: 0; Pace: 6; Parry: 7; Toughness: 7
 
 Hindrances: 
- * Heroic: Comes off as reluctant, but his impulses to do the right think win out
+ * Heroic: Comes off as a reluctant hero, but his impulse to do the right thing and help others win out sooner rather than later
  * Loyal: See Hap; will do anything for his brother Hap
  * Poverty: See Hap
 

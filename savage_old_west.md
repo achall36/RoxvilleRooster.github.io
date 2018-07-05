@@ -19,7 +19,7 @@ Consider using the following setting rules from SWDEE:
 * Critical Failures
 * Joker's Wild
 
-The follwing rules should get a special focus in an old west game:
+The following rules should get a special focus in an old west game:
 * Gunfights (DRPG 61)
 * Hanging (DRPG 68)
 * Riding and Driving (chases)
@@ -41,13 +41,13 @@ The follwing rules should get a special focus in an old west game:
 * Speech Impediment (FTFG 138)
 
 ## Edges
-The following Edges are not allowed: 
+The following Edges do not fit and are not allowed: 
 * all Arcane Backgrounds
 * Mentalist
 * Soul Drain
 * Wizard
 
-Players can also select the following Edges provioded that requirements are met: 
+Players can also select the following Edges provided that requirements are met: 
 * Hip-Shooting and Improved Hip-Shooting (DRPG 32)
 * Speed Load (DRPG 32)
 * Reputation (DRPG 33)
@@ -59,6 +59,7 @@ Players can also select the following Edges provioded that requirements are met:
 ## Skills
 The following knowledge skills are generally applicable to player characters in an old west game:
 * Horses
+* Livestock
 * Law
 * Battle
 * Medicine
@@ -70,3 +71,7 @@ The following knowledge skills are generally applicable to player characters in 
 * Lasso (FTFG  85)
 * Reid's Knuckleduster (FTFG 30)
 * Slingshot (FTFG 75)
+
+## Resources
+* Dog House Rules' [Frontier Towns: Fort Griffin Savaged](http://www.drivethrurpg.com/product/195491/Frontier-Towns-Fort-Griffin-Savaged?term=Fort+Gr&test_epoch=0)
+* Fabled Environments' [An Average Wild West Town](http://www.drivethrurpg.com/product/155041/An-Average-Wild-West-Town?term=west&manufacturers_id=3118&test_epoch=0)

@@ -13,11 +13,11 @@ permalink: /expectations/
 * Be engaged during the game session and do your best to pay attention
 * Share the stage so your fellow players can shine
 * Plan to make the game entertaining, interesting, and challenging
-* Give the GM feedback on what is working well and what needs work
-* If you have any rules for your character's schticks (e.g., arcane powers or gambling), learn them (or at least have the rules handy)
+* Give the GM feedback on what is working well, what you want to see more of, and what could use some work
+* If you have any rules for your character's schticks (e.g., arcane powers or gambling), learn them or at least have the rules handy
 * If you cannot attend the game at the specified time, give reasonable advanced notice
 * Engage in a adult conversation if we ever need to course correct
-* Be open to trying new tools for communication (e.g., Slack, Google Spaces, Discord)
+* Be open to trying new tools for communication (e.g., Discord)
 * Read and heed the tabletop creed
 
 ![tabletop-creed](http://fragsandbeer.com/wp-content/uploads/2016/05/TabletopCreed.jpg)
@@ -27,10 +27,9 @@ permalink: /expectations/
 We'll be using Savage Worlds Deluxe Explorer's Edition (SWDEE)
 
 * Where possible, we want to follow the "Fast, Furious, and Fun" model
-* I want to keep houseruling to a minimum, but we will borrow rules from other settings.
-* Before we begin a campaign, we will determine the setting rules.
+* Before we begin a campaign, we will determine the setting rules. We want to keep houseruling to a minimum
 * At first, I do not expect new players to know the Savage Worlds rules
-* Characters will be awarded an average of 2 XP per session; if you miss a session, you get no experience
+* Characters will be awarded an average of 2 XP per session; if you miss a session, you get no experience and your character will likely operate as an allied extra
 * After a few sessions, I expect players to have a licensed copy of the SWDEE (an affordable $10 USD)
 
 # Goals

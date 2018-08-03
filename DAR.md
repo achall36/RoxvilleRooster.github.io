@@ -12,3 +12,21 @@ From the introduction to Kenneth Hite's "The Day After Ragnarok", p. 1
 * [Fake trailer] (https://www.youtube.com/watch?v=HlbiIQhCb8Q)
 * [Intro video] (https://www.youtube.com/watch?v=N4OwWke8O_g)
 * [Pulp montage video] (https://www.youtube.com/watch?v=G2x0ACCLywc)
+
+
+## Medicine and health
+* Rickets may occur (attribuited to lack of Vitamin D)
+* Limited access to penicilin
+* No known cures or vaccines for
+  * polio
+  * infleunza
+  * measles
+  * mumps
+  * pneumonia
+  * rubella
+* Scarcity of vaccines for 
+  * tetanus
+  * tuberculosis
+  * whoopimng cough
+  * diptheria
+  

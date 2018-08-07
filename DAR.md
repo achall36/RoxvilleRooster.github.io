@@ -1,4 +1,4 @@
-The Day After Ragnarok is a post-apocolyptic pulp fantasy setting from Ken Hite.
+The Day After Ragnarok is a post-apocalyptic pulp fantasy setting from Ken Hite.
 
 > Know, O Prince, that between the years when the Serpent fell and the oceans drank America and the gleaming cities, and the rise of the Sons of Space, there was an Age undreamed of, when nations guttered low and flared brilliant across the poisoned world like dying stars – California and Texas each claiming the flag of the West, France torn asunder and facing the desert, harsh Mexico, slumbering Brazil, Argentina where the seeds of Thule lay waiting, ancient lands of Persia and Arabia and Iraq between two empires, the coldly clutching Soviet Union whispering behind its Wall of Serpent, Japan whose warriors wore steel and silk and khaki. But the proudest kingdom of the world was Australia, the last green and pleasant land, ringed around by its dominions and bulwarked by the sea.
 

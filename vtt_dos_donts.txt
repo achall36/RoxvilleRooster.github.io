@@ -1,0 +1,15 @@
+## Tokens
+*Do*: Describe NPCs with 1 to 3 descriptors; what do the players need to takeaway from the description; be careful not to over-describe
+*Don't*" Use images of famous characters/actors for NPCs because, when players see these, they associate the token with the character portrayed.
+* Don't*" Rely on the image of the token  to describe the NPC
+
+To describe NPCs, create a list of keywords that you use to describe the GM characters; keep adding to these keywords
+
+## Maps on the tabletop
+*Do*: If you are using maps, take 1 of 2 approaches:
+	1. Maps are accurate and detailed
+	2. Maps are more vague and have gaps and players can help fill in the blanks 
+*Do*: If there are drawing tools (e.g., Roll20 has these), develop enough proficiency with these that you can hastily sketch up aspects of the scene when the need arises. 
+	*Don't*: Use maps that misrepresent the scene. For example, if the map shows a specific object (e.g., a sword on a table), that object should be there.
+
+To describe objects on a map, create a list of keywords that you use to describe the objects; keep adding to these keywords

@@ -8,7 +8,7 @@ permalink: /hap-leonard/
 
 _This is a work in progress_
 
-_Updated May 6, 2018_
+_Updated July 1, 2018_
 
 The point of this page is to describe the characters from the stories for the
 Savage Worlds Roleplaying Game. 
@@ -37,7 +37,7 @@ When I came back to tabletop role-playing games in my early forties, I soon foun
 In 2015, Pinnacle Entertainment Group came out with the East Texas University (ETU) setting, which is a mash up where Buffy the Vampire Slayer, Miskatonic University, and Blue Mountain State meet in Lansdale country. There is even a building named after Champion Joe on the ETU campus.                                                                                                                                                      
 Unlike the supernatural horror in the ETU setting, the horror in the Hap and Leonard books is visceral, earthly horror and it is effective because it is man-made, unnerving, mundane yet inhuman.                                                                                                                                                                                                                                                
 Hap and Leonard reside in the fictional town of LaBorde, Texas and that can easily be situated close by the fictitious university town of Pinebox. You can easily find a reason for Hap and Leonard to visit Pinebox. They have served as security guards at a chicken processing plant before, so maybe they can do a stint as campus police.                                                                                                     
-As far as the time lines are concerned, do not sweat it. Hap and Leonard were very active in the late 80s but the latest novel, Rusty Puppy (2017), is set in the 2010s. 
+As far as the time lines are concerned, do not sweat it. Hap and Leonard were very active in the late 80s. A recent novel, Rusty Puppy (2017), is set in the early 2010s. Hap and Leonard don't exactly age as quickly as the rest of us. 
 
 ![collins-pine](https://when-release.com/.u/.d/1460751590.jpg)                                                                                                                                                                                                                                                                           
 ## Hap and Leonard as a team
@@ -70,7 +70,7 @@ Hap and Leonard also exemplify a great friendship that crosses lines of race, se
 * Will not shoot an unarmed foe
 * Sucker for the ladies
 
-Name: Hap Collins; XP: 45
+Name: Hap Collins; XP: 45 (circa "Two Bear Mambo")
 
 Attributes: Agility d8, Smarts d8, Spirit d6, Strength d6, Vigor d8
 
@@ -79,9 +79,9 @@ Skills: Fighting d8, Intimidation d6+2, Investigation d6, Notice d8, Persuasion 
 Charisma: 0; Pace: 6; Parry: 6; Toughness: 6
 
 Hindrances: 
- * Heroic: Character always helps those in need
- * Poverty: Half starting funds, inability to hang onto future income
- * Loyal: The hero tries to never betray or disappoint his friends
+ * Heroic: Can't stand by and watch when something bad is going down
+ * Poverty: He's generally doing unskilled labor
+ * Loyal: You always have your friends' backs; will do anything for his brother Leonard
 
 Edges: 
  * Level Headed: Act on best of two cards in combat
@@ -104,7 +104,7 @@ Edges:
 * Loves vanilla cookies and Dr. Pepper
 * Needs a hat/likes a hat
 
-Name: Leonard Pine; XP: 45
+Name: Leonard Pine; XP: 45 (circa "Two Bear Mambo")
 
 Attributes: Agility d8, Smarts d6, Spirit d6, Strength d8, Vigor d8
 
@@ -113,9 +113,9 @@ Skills: Driving d4, Fighting d10, Intimidation d6, Notice d6, Riding d4, Shootin
 Charisma: 0; Pace: 6; Parry: 7; Toughness: 7
 
 Hindrances: 
- * Heroic: Character always helps those in need
- * Loyal: The hero tries to never betray or disappoint his friends
- * Poverty: Half starting funds, inability to hang onto future income
+ * Heroic: Comes off as a reluctant hero, but his impulse to do the right thing and help others wins out sooner rather than later
+ * Loyal: See Hap; will do anything for his brother Hap
+ * Poverty: See Hap
 
 Edges: 
  * Brawler: +2 to unarmed damage rolls
@@ -168,10 +168,10 @@ See the write up of [Veil's Visit](http://hapandleonard.net/veil.htm)
 
 *   Describes himself as a mutt (from a racial/ethnic perspective)
 *   Possible sociopath
-*   Veteran
+*   Iraq war veteran
 *   Crazy Cheshire-cat like grin
 *   Knows booby traps and can spot and disarm them
-*   Can pick locks too
+*   Picks locks too
 *   Very stealthy
 *   Boxer's physique
 *   Associate of Cason Stadler (Iraq war buddy?)

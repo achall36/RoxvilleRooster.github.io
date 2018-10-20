@@ -18,7 +18,7 @@ permalink: /roll20_savage_worlds/
 | Condition | Token overlay | Notes |
 | - | - | - |
 | Aiming | ![Aim](/images/roll20/target.PNG "Aiming") |   |
-| Cover | ![Cover](/images/roll20/tower.PNG "Cover") |  *light cover* = set overlay number to 1; *medium cover* = set overlay to 2; *heavy cover* = set overlay to 4 |
+| Cover | ![Cover](/images/roll20/tower.PNG "Cover") |  *light cover* = set overlay number to 1 or leave unset; *medium cover* = set overlay to 2; *heavy cover* = set overlay to 4 |
 | Distracted | ![Distracted](/images/roll20/screaming_brain.PNG "Distracted") |   |
 | Dead | ![Dead](/images/roll20/red_x.PNG "Dead")  | Or just remove the token (a/k/a "off the table")  | 
 | Defend | ![Defending](/images/roll20/shield.PNG "Defending") | For *Full Defense*, set overlay number to 2 |

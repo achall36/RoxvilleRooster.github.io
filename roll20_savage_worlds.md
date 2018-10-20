@@ -15,16 +15,17 @@ permalink: /roll20_savage_worlds/
 
 # Status conditions
 
-| Condition | Token overlay |
-| - | - |
-| Aiming | ![Aim](/images/roll20/target.PNG "Aiming")  |
-| Incapacitated |  |
-| Shaken |  |
-| Vulnerable |  |
-| Entangled |  |
-| Holding action |  |
-| Distracted |  |
-| Defending |  |
-| Full-defense |  |
-
-
+| Condition | Token overlay | Notes |
+| - | - | - |
+| Aiming | ![Aim](/images/roll20/target.PNG "Aiming") |   |
+| Cover | ![Cover](/images/roll20/tower.PNG "Cover"  |   |
+| Distracted | ![Distracted](/images/roll20/screaming_brain.PNG "Distracted") |   |
+| Dead | ![Dead](/images/roll20/arrows_in_back.PNG "Dead")  | Or just remove the token.  | 
+| Defending | ![Defending](/images/roll20/shield.PNG "Defending") | For *Full Defense*, set overlay number to 2 |
+| Entangled | ![Entangled](/images/roll20/net.PNG "Entangled") |    |
+| Grappled | ![Grappled](/images/roll20/grip.PNG "Grappled")  | For *Pinned*, set overlay number to 2 |
+| Holding action | ![Hold](/images/roll20/time.PNG "Hold") |  |
+| Incapacitated | ![Incapacitated](/images/roll20/melty_face.PNG "Incapacitated") |   |
+| Shaken | ![Shaken](/images/roll20/arrows_in_back.PNG "Shaken") |   | 
+| Unconscious | ![Unconscious](/images/roll20/arrows_in_back.PNG "Unconscious")  |  Or just remove the token. |
+| Vulnerable | ![Vulnerable](/images/roll20/arrows_in_back.PNG "Vulnerable") |   |

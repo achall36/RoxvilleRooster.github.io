@@ -17,7 +17,7 @@ permalink: /roll20_savage_worlds/
 
 | Condition | Token overlay |
 | - | - |
-| Aiming |  |
+| Aiming | ![Aim](/images/roll20/target.PNG "Aiming")  |
 | Incapacitated |  |
 | Shaken |  |
 | Vulnerable |  |

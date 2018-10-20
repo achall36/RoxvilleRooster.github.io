@@ -4,8 +4,9 @@ layout: page
 permalink: /roll20_savage_worlds/
 ---
 
+# Using Roll20 for Savage Worlds games
 
-# Basic stuff
+## Character sheet and tokens
 We use the tabbed character sheets.
 
 For the character tokens, we link the red, green, and blue circles and link these to character sheet attributes.
@@ -13,14 +14,13 @@ For the character tokens, we link the red, green, and blue circles and link thes
 * Fatigue: We link the green circle overlay for the token with the Fatigue attribute on the character sheet
 * Power points: We link the blue circle overlay for the token with the Power Points attribute on the character sheet
 
-# Bennies
+## Bennies
 We use a special deck of Tokens for these
 
-# Initiative
+## Initiative
 We deal cards for the turn order. If you have an edge of other modifier that effects cards, make sure it is known to the GM. If the GM forgets, remind him.
 
-
-# Status conditions
+## Status conditions
 The following token overlays are used to indicate status/conditions in combat. Of course, other tokens may also be used as needed.
 
 | Condition | Token overlay | Notes |
@@ -35,3 +35,13 @@ The following token overlays are used to indicate status/conditions in combat. O
 | Shaken | ![Shaken](/images/roll20/melty_face.PNG "Shaken") | For *Unconscious* or *Incapacitated*, set overlay number to 2 or remove the token from play | 
 | Stealth | ![Stealth](/images/roll20/ninja.PNG "Stealth") | Indicate a character is *successfully* using Stealth to avoid detection | 
 | Vulnerable | ![Vulnerable](/images/roll20/arrows_in_back.PNG "Vulnerable") |   |
+
+## Macros
+
+Click **Collection** (![Collection](/images/roll20/collection.PNG "Collection") in the top right corner of the Roll20 interface. 
+Next to all the visible macros, check **In Bar** and then check **Show macro quick bar**.
+
+## Changes to settings
+
+Click **My Settings** (![My Settings](/images/roll20/gear.PNG "My Settings") in the top right corner of the Roll20 interface.
+Change the **Display Name** to your character's main name. Click **Save Name**.

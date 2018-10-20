@@ -20,13 +20,12 @@ permalink: /roll20_savage_worlds/
 | Aiming | ![Aim](/images/roll20/target.PNG "Aiming") |   |
 | Cover | ![Cover](/images/roll20/tower.PNG "Cover") |  light cover = set overlay number to 1; medium cover = set overlay number to 2; heavy cover = set overlay number to 4 |
 | Distracted | ![Distracted](/images/roll20/screaming_brain.PNG "Distracted") |   |
-| Dead | ![Dead](/images/roll20/arrows_in_back.PNG "Dead")  | Or just remove the token (a/k/a "off the table").  | 
+| Dead | ![Dead](/images/roll20/red_x.PNG "Dead")  | Or just remove the token (a/k/a "off the table").  | 
 | Defending | ![Defending](/images/roll20/shield.PNG "Defending") | For *Full Defense*, set overlay number to 2 |
 | Entangled | ![Entangled](/images/roll20/net.PNG "Entangled") | For *Bound*, set overlay number to 2 |
-| Grappled | ![Grappled](/images/roll20/grip.PNG "Grappled")  | For *Pinned*, set overlay number to 2 |
-| Hiding |  |   |
+<!--| Grappled | ![Grappled](/images/roll20/grip.PNG "Grappled")  | For *Pinned*, set overlay number to 2 |-->
+| Stealth mode | ![Stealth](/images/roll20/ninja.PNG "Stealth") |  | 
 | Holding action | ![Hold](/images/roll20/time.PNG "Hold") |  |
-| Incapacitated | ![Incapacitated](/images/roll20/melty_face.PNG "Incapacitated") |  Or just remove the token (a/k/a "off the table").  |
-| Shaken | ![Shaken](/images/roll20/melty_face.PNG "Shaken") |   | 
+| Shaken | ![Shaken](/images/roll20/melty_face.PNG "Shaken") | For Unconscious or Incapacitated, set overlay number to 2 or remove the token from play | 
 | Unconscious | ![Unconscious](/images/roll20/arrows_in_back.PNG "Unconscious")  |  Or just remove the token (a/k/a "off the table"). |
 | Vulnerable | ![Vulnerable](/images/roll20/arrows_in_back.PNG "Vulnerable") |   |

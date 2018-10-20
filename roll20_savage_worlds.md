@@ -25,6 +25,5 @@ permalink: /roll20_savage_worlds/
 | Entangled | ![Entangled](/images/roll20/net.PNG "Entangled") | For *Bound*, set overlay number to 2 |
 | Stealth mode | ![Stealth](/images/roll20/ninja.PNG "Stealth") |  | 
 | Holding action | ![Hold](/images/roll20/time.PNG "Hold") |  |
-| Shaken | ![Shaken](/images/roll20/melty_face.PNG "Shaken") | For Unconscious or Incapacitated, set overlay number to 2 or remove the token from play | 
-| Unconscious | ![Unconscious](/images/roll20/arrows_in_back.PNG "Unconscious")  |  Or just remove the token (a/k/a "off the table"). |
+| Shaken | ![Shaken](/images/roll20/melty_face.PNG "Shaken") | For *Unconscious* or *Incapacitated*, set overlay number to 2 or remove the token from play | 
 | Vulnerable | ![Vulnerable](/images/roll20/arrows_in_back.PNG "Vulnerable") |   |

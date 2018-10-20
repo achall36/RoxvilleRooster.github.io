@@ -14,6 +14,7 @@ permalink: /roll20_savage_worlds/
 
 
 # Status conditions
+The following token overlays are used to indicate status/conditions in combat. Of course, other tokens may also be used as needed.
 
 | Condition | Token overlay | Notes |
 | - | - | - |

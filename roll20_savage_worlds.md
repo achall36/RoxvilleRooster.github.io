@@ -38,10 +38,10 @@ The following token overlays are used to indicate status/conditions in combat. O
 
 ## Macros
 
-Click **Collection** (![Collection](/images/roll20/collection.PNG "Collection") in the top right corner of the Roll20 interface. 
+Click **Collection** (![Collection](/images/roll20/collection.PNG "Collection")) in the top right corner of the Roll20 interface. 
 Next to all the visible macros, check **In Bar** and then check **Show macro quick bar**.
 
 ## Changes to settings
 
-Click **My Settings** (![My Settings](/images/roll20/gear.PNG "My Settings") in the top right corner of the Roll20 interface.
-Change the **Display Name** to your character's main name. Click **Save Name**.
+1. Click **My Settings** (![My Settings](/images/roll20/gear.PNG "My Settings")) in the top right corner of the Roll20 interface.
+2. Change the **Display Name** to your character's main name. Click **Save Name**.

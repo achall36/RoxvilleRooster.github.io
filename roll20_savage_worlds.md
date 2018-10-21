@@ -6,6 +6,7 @@ permalink: /roll20_savage_worlds/
 
 # Using Roll20 for Savage Worlds games
 
+
 ## Character sheet and tokens
 We use the tabbed character sheets for Savaged Worlds.
 
@@ -63,3 +64,9 @@ The following token overlays are used to indicate status/conditions in combat. O
 
 Click **Collection** (![Collection](/images/roll20/collection.PNG "Collection")) in the top right corner of the Roll20 interface. 
 Next to all the visible macros, check **In Bar** and then check **Show macro quick bar**.
+
+## References
+
+* Jerrod Gunning's *Savage Daddy's Roll20 Player’s Guide*
+* [Savage Worlds](https://wiki.roll20.net/Savage_Worlds)
+* [Savage Worlds Tabbed](https://wiki.roll20.net/Savage_Worlds_Tabbed)

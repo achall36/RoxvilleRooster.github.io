@@ -9,13 +9,20 @@ permalink: /roll20_savage_worlds/
 ## Character sheet and tokens
 We use the tabbed character sheets for Savaged Worlds.
 
-For the character tokens, we link the red, green, and blue circles and link these to character sheet attributes.
+For the character tokens, we link the red, green, and blue bubbles and link these to character sheet attributes to track and display these values.
 * Wounds: We link the red circle overlay for the token with the Wounds attribute on the character sheet
 * Fatigue: We link the green circle overlay for the token with the Fatigue attribute on the character sheet
 * Power points: We link the blue circle overlay for the token with the Power Points attribute on the character sheet
 
+**Shortcut:** Press SHIFT and double-click the character token to display the character sheet. 
+
 ## Bennies
 We use a special deck of Tokens for these. This deck will vary depending on the theme of the game.
+
+To access your stack of bennies, click the benny token above your name at the bottom of the screen (in a semi-transparent box). 
+<!-- If you have multiple decks in your hand (e.g., bennies *and* adventure cards), click the By Deck filter button at the top right hand corner to sort decks. -->
+To spend a benny, click the token and drag it to the tabletop. If you spend a benny by mistake, right-click it and select **Take Card** to put it back in your hand.
+To close the view of your bennies, click the benny token above your name at the bottom of the screen.
 
 ## Initiative
 We deal cards for the turn order. If you have an edge of other modifier that effects cards, make sure it is known to the GM. If the GM forgets, remind him.
@@ -23,7 +30,7 @@ We deal cards for the turn order. If you have an edge of other modifier that eff
 ## Status conditions
 The following token overlays are used to indicate status/conditions in combat. Of course, other tokens may also be used as needed.
 
-| Condition | Token overlay | Notes |
+| Condition | Stats indicator overlay | Notes |
 | - | - | - |
 | Aiming | ![Aim](/images/roll20/target.PNG "Aiming") |   |
 | Cover | ![Cover](/images/roll20/tower.PNG "Cover") |  *light cover* = set overlay number to 1 or leave unset; *medium cover* = set overlay to 2; *heavy cover* = set overlay to 4 |
@@ -35,11 +42,6 @@ The following token overlays are used to indicate status/conditions in combat. O
 | Shaken | ![Shaken](/images/roll20/melty_face.PNG "Shaken") | For *Unconscious* or *Incapacitated*, set overlay number to 2 or remove the token from play | 
 | Stealth | ![Stealth](/images/roll20/ninja.PNG "Stealth") | Indicate a character is *successfully* using Stealth to avoid detection | 
 | Vulnerable | ![Vulnerable](/images/roll20/arrows_in_back.PNG "Vulnerable") |   |
-
-## Macros
-
-Click **Collection** (![Collection](/images/roll20/collection.PNG "Collection")) in the top right corner of the Roll20 interface. 
-Next to all the visible macros, check **In Bar** and then check **Show macro quick bar**.
 
 ## Changes to settings
 
@@ -56,3 +58,8 @@ Next to all the visible macros, check **In Bar** and then check **Show macro qui
 -->
 4. Set **Player video/avatar size:** to `Names Only`.
 5. Set **Chat Tech** to `None (no video/audio)`.
+
+## Macros
+
+Click **Collection** (![Collection](/images/roll20/collection.PNG "Collection")) in the top right corner of the Roll20 interface. 
+Next to all the visible macros, check **In Bar** and then check **Show macro quick bar**.

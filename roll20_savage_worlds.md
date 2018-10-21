@@ -7,7 +7,7 @@ permalink: /roll20_savage_worlds/
 # Using Roll20 for Savage Worlds games
 
 ## Character sheet and tokens
-We use the tabbed character sheets.
+We use the tabbed character sheets for Savaged Worlds.
 
 For the character tokens, we link the red, green, and blue circles and link these to character sheet attributes.
 * Wounds: We link the red circle overlay for the token with the Wounds attribute on the character sheet
@@ -15,7 +15,7 @@ For the character tokens, we link the red, green, and blue circles and link thes
 * Power points: We link the blue circle overlay for the token with the Power Points attribute on the character sheet
 
 ## Bennies
-We use a special deck of Tokens for these
+We use a special deck of Tokens for these. This deck will vary depending on the theme of the game.
 
 ## Initiative
 We deal cards for the turn order. If you have an edge of other modifier that effects cards, make sure it is known to the GM. If the GM forgets, remind him.

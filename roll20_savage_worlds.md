@@ -45,3 +45,14 @@ Next to all the visible macros, check **In Bar** and then check **Show macro qui
 
 1. Click **My Settings** (![My Settings](/images/roll20/gear.PNG "My Settings")) in the top right corner of the Roll20 interface.
 2. Change the **Display Name** to your character's main name. Click **Save Name**.
+3. Ensure the following boxes are checked: 
+	* **Use advanced keyboard shortcuts**
+	* **Enabled background chat beep**
+	* **Enable advanced dice (dice icons, drag and drop, etc.)**
+	* **Enable chat avatars**
+<!--
+**Use window popouts for characters**
+**Enable chat timestamps** 
+-->
+4. Set **Player video/avatar size:** to `Names Only`.
+5. Set **Chat Tech** to `None (no video/audio)`.

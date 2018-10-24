@@ -24,11 +24,11 @@ permalink: /expectations/
 
 # Savage Worlds rules
 
-We'll be using Savage Worlds Deluxe Explorer's Edition (SWDEE)
+We'll be using Savage Worlds Deluxe Explorer's Edition (SWDEE) at least until Savage Worlds Adventure Edition (SWADE) is availablle.
 
 * Where possible, we want to follow the "Fast, Furious, and Fun" model
-* Before we begin a campaign, we will determine the setting rules. We want to keep houseruling to a minimum
-* At first, I do not expect new players to know the Savage Worlds rules
+* Before we begin a campaign, we determine the setting rules. Let's keep houseruling to a bare minimum
+* At first, I do not expect new players to know the Savage Worlds rules but you should at least get a hold of the most recent Savage Worlds Test Drive
 * Characters will be awarded an average of 1 advance every 2 sessions
 * If you miss a session, you get no credit for an advance and your character will operate as an allied extra
 <!-- * After a few sessions, I expect players to have a licensed copy of the SWDEE (an affordable $10 USD) -->

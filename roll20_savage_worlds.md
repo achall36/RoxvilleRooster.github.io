@@ -67,6 +67,6 @@ Next to all the visible macros, check **In Bar** and then check **Show macro qui
 
 ## References
 
-* Jerrod Gunning's *Savage Daddy's Roll20 Player’s Guide*
+* Jerrod Gunning's *Savage Daddy's Roll20 Player's Guide*
 * [Savage Worlds](https://wiki.roll20.net/Savage_Worlds)
 * [Savage Worlds Tabbed](https://wiki.roll20.net/Savage_Worlds_Tabbed)

@@ -4,10 +4,7 @@ layout: page
 permalink: /roll20_savage_worlds/
 ---
 
-# Using Roll20 for Savage Worlds games
-
-
-## Character sheet and tokens
+# Character sheets and tokens
 We use the tabbed character sheets for Savaged Worlds.
 
 For the character tokens, we link the red, green, and blue bubbles and link these to character sheet attributes to track and display these values.
@@ -17,7 +14,7 @@ For the character tokens, we link the red, green, and blue bubbles and link thes
 
 **Shortcut:** Press SHIFT and double-click the character token to display the character sheet. 
 
-## Bennies
+# Bennies
 We use a special deck of Tokens for these. This deck will vary depending on the theme of the game.
 
 To access your stack of bennies, click the benny token above your name at the bottom of the screen (in a semi-transparent box). 
@@ -25,10 +22,10 @@ To access your stack of bennies, click the benny token above your name at the bo
 To spend a benny, click the token and drag it to the tabletop. If you spend a benny by mistake, right-click it and select **Take Card** to put it back in your hand.
 To close the view of your bennies, click the benny token above your name at the bottom of the screen.
 
-## Initiative
+# Initiative
 We deal cards for the turn order. If you have an edge of other modifier that effects cards, make sure it is known to the GM. If the GM forgets, remind him.
 
-## Status conditions
+# Status conditions
 The following token overlays are used to indicate status/conditions in combat. Of course, other tokens may also be used as needed.
 
 | Condition | Stats indicator overlay | Notes |
@@ -60,12 +57,12 @@ The following token overlays are used to indicate status/conditions in combat. O
 4. Set **Player video/avatar size:** to `Names Only`.
 5. Set **Chat Tech** to `None (no video/audio)`.
 
-## Macros
+# Macros
 
 Click **Collection** (![Collection](/images/roll20/collection.PNG "Collection")) in the top right corner of the Roll20 interface. 
 Next to all the visible macros, check **In Bar** and then check **Show macro quick bar**.
 
-## References
+# References
 
 * Jerrod Gunning's *Savage Daddy's Roll20 Player's Guide*
 * [Savage Worlds](https://wiki.roll20.net/Savage_Worlds)

@@ -24,3 +24,15 @@ Traumatized: Add Distracted
 Breakdown: Add Distracted and Vulnerable
 Snapped: Add Distracted and Vulnerable
 
+## Applicable knowledge skills
+ * Rippertech
+ * Occult
+ * Psychology
+ * Chemistry
+ * Battle
+ 
+### Applicable smarts skills for powers
+* Psionics
+* Spellcasting
+* Weird science
+ 

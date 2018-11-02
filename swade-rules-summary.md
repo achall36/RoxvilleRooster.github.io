@@ -32,6 +32,14 @@ See [Savage Worlds Kickstarter: Two Final Rules Previews!](https://www.peginc.co
 
 ## Tests
 
+To perform a Test, you describe the action and work with the GM to determine the appropriate skill. 
+You then make the skill roll and the defender makes an opposed roll to resist using the attribute that the skill is linked to.
+Examples:
+* Tripping someone  is an Athletics roll and the defender resists with Agility.
+* Verbally humiliating a foe is a Taunt roll and the defender resists with Smarts.
+
+If the attacker wins the opposed roll, she can choose to make the foe Distracted or Vulnerable. If she wins with a raise, the target is also Shaken.
+
 See [Savage Worlds Kickstarter: “Test” Rules Preview!](https://www.peginc.com/savage-worlds-kickstarter-test-rules-preview/)
 
 ## Chase rules

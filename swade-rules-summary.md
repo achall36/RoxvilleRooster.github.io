@@ -1,10 +1,10 @@
 ---
-title: SW Rules Updates 
+title: Updates to Savage Worlds rules 
 layout: page
 permalink: /swade_rules/
 ---
 
-## Updates to Savage Worlds rules
+## Updates to Savage Worlds rules for SWADE
 
 ### Core skills
 

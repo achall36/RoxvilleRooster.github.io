@@ -4,7 +4,7 @@ layout: page
 permalink: /swade_rules/
 ---
 
-## Changes previewed for SWADE
+## Updates to Savage Worlds rules
 
 ### Core skills
 

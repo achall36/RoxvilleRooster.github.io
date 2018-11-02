@@ -1,10 +1,10 @@
 ---
-title: SWADE Rules Summary
+title: SW Rules Updates 
 layout: page
 permalink: /swade_rules/
 ---
 
-## Character changes previewed for SWADE
+## Changes previewed for SWADE
 
 ### Core skills
 
@@ -17,20 +17,20 @@ Every _reasonable_ character gets the following core skills at a d4 for no cost:
 
 See [Savage Worlds Kickstarter: “Core Skills” Rules Preview!](https://www.peginc.com/savage-worlds-kickstarter-core-skills-rules-preview/)
 
-## Charisma
+### Charisma
 
 See [Savage Worlds Kickstarter: Two Final Rules Previews!](https://www.peginc.com/savage-worlds-kickstarter-two-final-rules-previews/)
 
-## Support rules
+### Support rules
 
 See [Savage Worlds Kickstarter: “Support” Rules Preview!](https://www.peginc.com/savage-worlds-kickstarter-support-rules-preview/)
 
 
-## Multiple actions
+### Multiple actions
 
 See [Savage Worlds Kickstarter: Two Final Rules Previews!](https://www.peginc.com/savage-worlds-kickstarter-two-final-rules-previews/)
 
-## Tests
+### Tests
 
 To perform a Test, you describe the action and work with the GM to determine the appropriate skill. 
 You then make the skill roll and the defender makes an opposed roll to resist using the attribute that the skill is linked to.
@@ -42,28 +42,29 @@ If the attacker wins the opposed roll, she can choose to make the foe Distracted
 
 See [Savage Worlds Kickstarter: “Test” Rules Preview!](https://www.peginc.com/savage-worlds-kickstarter-test-rules-preview/)
 
-## Chase rules
+### Chase rules
 
 _No longer available on Drive Thru RPG_
 
 
 ## Changes to core rules from Flash Gordon
 
-## New states
+### New states
 
 * Distracted: The character suffers −2 to all Trait rolls.
 * Vulnerable: Actions and attacks against the target are made at +2. Does not stack with the Drop (use only the highest).
 * Entangled: The character can’t move and is Distracted.
 * Bound: The character cannot move, is Distracted and Vulnerable, and cannot make physical actions other than attempting to break free.
 
+### Changes to skills
 
-### Athletics (Agility)
+#### Athletics (Agility)
 
 Athletics includes such physical skills as climbing, jumping, balancing, skiing, swimming, throwing, and catching. 
 It also covers skills of hand-eye coordination and the use of core strength to perform bodily maneuvers.
 Athletics is also used in grappling.
 
-### Knowledge (Smarts)
+#### Knowledge (Smarts)
 
 Common knowledge skills are
 * Academia: catch-all knowledge skill that applies to liberal arts, psycho-social sciences, history, archeology, linguistics, anthropology, and related fields.
@@ -72,21 +73,21 @@ Common knowledge skills are
 * Occult: understanding of supernatural lore, creatures of myth and legend, religious practices and mysteries, and magical practices.
 * Science: familiarity with major fields of science for his day and age (e.g., chemistry, biology, physics, engineering, mathematics, botany, astronomy)
  
-### Performance (Spirit)
+#### Performance (Spirit)
 Characters can use performance skill to sing, dance, play instruments, or otherwise
 entertain crowds. 
 
-### Thievery (Agility)
+#### Thievery (Agility)
 The thievery skill is used to perform actions involving lockpicking and safecracking, picking pockets and sleight of hand, setting and
 disabling traps, and similar acts of misdirection, sabotage, subterfuge, and manipulation. 
 
-## Combat options
+### Changes to combat
 
-### Extreme range
+#### Extreme range
 A character who takes the Aim maneuver may disregard the +2 bonus to instead fire at Extreme Range (up to 4× a weapon’s Long
 Range), at a −8 penalty (or −6 with a scope). This applies to personal and vehicle-based weapons.
 
-### Grappling
+#### Grappling
 
 Grappling is an opposed Athletics roll and causes no damage. If the attacker
 wins, the defender is Entangled. If the attacker

@@ -44,7 +44,10 @@ See [Savage Worlds Kickstarter: “Test” Rules Preview!](https://www.peginc.co
 
 ### Chase rules
 
-_No longer available on Drive Thru RPG_
+[Return to Sleepy Hollow: A Savage Worlds Adventure Edition Chase Rules Preview](https://www.peginc.com/store/return-to-sleepy-hollow-a-savage-worlds-adventure-edition-chase-rules-preview/)
+
+### Quick encounters
+[Adventure Edition Preview: Quick Encounters](https://www.peginc.com/store/adventure-edition-preview-quick-encounters/)
 
 
 ## Changes to core rules from Flash Gordon

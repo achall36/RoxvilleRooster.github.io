@@ -67,6 +67,8 @@ Notable characteristics:
 
 Lord Henry Abbott 
 
+Hindrances: Obese
+
 Notable characteristics:
 * Thinning hair
 * Heavy set
@@ -79,6 +81,8 @@ Notable characteristics:
 
 Master Fulton Abbott 
 
+Hindrances: 
+
 Notable characteristics:
 * Inconsolable after the recent death of his mother, Abigail Abbott
 * Has the "lion hound" ( _Crocotta_ ) statue
@@ -86,6 +90,8 @@ Notable characteristics:
 #### Butler of 'ailing aristocrat'
 
 Reynolds (really Reynaud)
+
+Hindrances: 
 
 Notable characteristics:
 * The very model of an English butler
@@ -95,6 +101,8 @@ Notable characteristics:
 #### Friendly constable
 
 Robert Bobbins, Scotland Yard
+
+Hindrances: 
 
 Notable characteristics:
 * Young constable but knows one of the PCs from the past
@@ -107,6 +115,8 @@ Notable characteristics:
 #### Kooky academic
 
 _Unnamed_
+
+Hindrances: 
 
 Notable characteristics:
 * Overly coiffed hair and whiskers
@@ -121,11 +131,20 @@ _Unnamed_
 
 A Cabalist (or Cultist) who is in the area and may begin watching the PCs
 
+Hindrances: 
+
+Notable characteristics:
+
 #### Mysterious figure
 
 _Unnamed_
 
 A Ripper (or Ripper-ally) who is watching the PCs
+
+Hindrances: 
+
+Notable characteristics:
+
 
 #### Unrecognized individual
 
@@ -133,13 +152,11 @@ _Unknown_ but really Joaquin Verdugo (Reverend Deacon)
 
 A Cabalist (or Cultist) who is in the area for Cabal-related reasons
 
-
-Hindrances: Curious
+Hindrances: 
 
 Notable characteristics:
 * Chinese-Filipino ethnicity
 * May be posing as a Catholic priest
 * Known adversary of Lingke
-* Can call upon 
-
+* Can call upon minions
 

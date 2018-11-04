@@ -31,7 +31,7 @@ Notable characteristics:
 * Educator and mentor to many high status individuals
 * Answers to the Queen
 
-#### Corrupt assistant to 'Important man of the cloth' WC
+#### Corrupt assistant to 'Important man of the cloth'
 
 Unnamed (idea: Henry Perkins)
 
@@ -126,5 +126,20 @@ A Cabalist (or Cultist) who is in the area and may begin watching the PCs
 _Unnamed_
 
 A Ripper (or Ripper-ally) who is watching the PCs
+
+#### Unrecognized individual
+
+_Unknown_ but really Joaquin Verdugo (Reverend Deacon)
+
+A Cabalist (or Cultist) who is in the area for Cabal-related reasons
+
+
+Hindrances: Curious
+
+Notable characteristics:
+* Chinese-Filipino ethnicity
+* May be posing as a Catholic priest
+* Known adversary of Lingke
+* Can call upon 
 
 

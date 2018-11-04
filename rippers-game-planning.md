@@ -92,6 +92,18 @@ Notable characteristics:
 * Genuinely fond and feels sorry for young master Fulton
 
 
+#### Friendly constable
+
+Robert Bobbins, Scotland Yard
+
+Notable characteristics:
+* Young constable but knows one of the PCs from the past
+* Large eyes
+* Weak jaw
+* Jovial
+* Can turn mean and violent 
+
+
 #### Kooky academic
 
 _Unnamed_
@@ -115,15 +127,4 @@ _Unnamed_
 
 A Ripper (or Ripper-ally) who is watching the PCs
 
-
-#### Friendly constable
-
-Robert Bobbins, Scotland Yard
-
-Notable characteristics:
-* Young constable but knows one of the PCs from the past
-* Large eyes
-* Weak jaw
-* Jovial
-* Can turn mean and violent 
 

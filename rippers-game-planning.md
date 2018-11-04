@@ -155,8 +155,30 @@ A Cabalist (or Cultist) who is in the area for Cabal-related reasons
 Hindrances: 
 
 Notable characteristics:
-* Chinese-Filipino ethnicity
+* Chinese Filipino
+* Round face, clean shaven, clear and tanned complexion
+* Appears to in his late 40s or early 50s, with graying hair
+* Can appear affable and charmimg with warm eyes and a kind smile
+* Can also display the gravitas of a man of the cloth
 * May be posing as a Catholic priest
-* Known adversary of Lingke
-* Can call upon minions
+* Under the veneer of charm and gravitas is lurking a twisted pscho who serves the Cabal
+* He's a known adversary of Lingke
+* He can call upon minions
 
+#### Shadowy woman
+
+_Unknown_ but really Olga Fedotenko (a/k/a "Siter Yaga")
+
+An allied Ripper who is watching the PCs from the sidelines.
+
+Hindrances: Small
+
+Notable characteristics:
+* Appears matronly as the wise but stern mother
+* Age 50+, dresses as a middle class widow
+* Presents herself as a slightly frail, middle class widow who is somewhat put upon and unkempt
+* In reality, she's athletic and physically capable
+* Given to using unseemly vulgarity
+* Ruthless, not cruel
+* Experienced fighting the Cabal
+* Mentor to Lingke

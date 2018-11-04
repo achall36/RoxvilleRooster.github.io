@@ -112,6 +112,24 @@ Notable characteristics:
 * Can turn mean and violent 
 
 
+#### Collegial antiquarian and scholar
+
+Arthur Neville Harmsworth
+
+Hindrances: Habit - minor (alcoholic)
+
+Notable characteristics:
+* Large chin and forehead
+* Cropped and bristly salt-and pepper hair
+* Clean shaven
+* Lean and athletic, an avid cricketer
+* Oxford-educated scholar of ancient civilizations
+* Consultant to the British Museum
+* Speaks many language fluently
+* Alcoholic 
+
+
+
 #### Kooky academic
 
 _Unnamed_

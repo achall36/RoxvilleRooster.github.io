@@ -60,35 +60,40 @@ Examples of quick encounters include:
 | Mission | Battle, Boating, Fighting, Persuasion, Piloting, Shooting |
 | Trek | Common Knowledge, Notice, Survival |
 
-GM considers and then imposes situatioanl modifiers (from -4 penalty to a +4 bonus).
-Players go in whatever order they want but resolve them in the order that makese sense. 
-If a critical task is failed, the GM decides whether it ends the encounter or just complicates other tasks. For example, a standard combat may result.
+GM considers and then imposes situational modifiers (from -4 penalty to a +4 bonus).
+Players go in whatever order they want but they shoould resolve skill checks in the order that makese sense. 
+If a critical task is failed, the GM decides whether it ends the encounter or just complicates other (downstream) tasks. For example, a standard combat or a quick combat may result because of a failure.
 Some encounters may need additional rounds (a/k/a staged encounters). 
 
-Once each player determines the skill and the GM decides on modifiers, the player rolls and then works with the GM to narrate the result.
+Once each player determines the skill and the GM decides on modifiers, the player make the skill check and then works with the GM to narrate the result.
 
 #### Dangerous encounters
 
 | Skill roll result | Effect |
-| Critical failure | 1d4 wounds on PC; if PC is a driver of a vehicle, the vehicle takes 1d4 wounds |
-| Failure | 1 wound on PC; if PC is a driver of a vehicle, the vehicle takes 1 wound |
-| Success | Bumps and bruises (a/k/a 1 Fatigue) |
+| - | - |
+| Critical failure | 1d4 wounds to the PC; if the PC is a driver of a vehicle, the vehicle takes 1d4 wounds |
+| Failure | 1 wound to the PC; if the PC is a driver of a vehicle, the vehicle takes 1 wound |
+| Success | PC suffers **bumps and bruises** (a/k/a 1 Fatigue) |
 | Success with a raise | No negative effects and the PC is "covered in glory" |
 
 
 #### Nonlethal encounters
 
 | Skill roll result | Effect |
-| Critical failure | PC does not contribute to success and _something_bad happens_ that has a lasting effect/fallout |
-| Failure | PC does not contribute to success |
-| Success | PC contributes to the success |
-| Success with a raise | PC is "covered in glory" |
+| - | - |
+| Critical failure | The PC does not contribute to success and _something bad happens_ that has a lasting effect |
+| Failure | The PC does not contribute to success |
+| Success | The PC contributes to the success |
+| Success with a raise | The PC is "covered in glory" |
 
 #### Success and failure
 
 In general, narration and individual actions determine success and failure.
-In a fluid situation (e.g., combat), the group _wins_ if the they have as many successes (one for each success and raise) as there are PCs.
-If there are fewer successes than PCs, the group _fails_ and the specifics are up to the GM. 
+In a fluid situation (e.g., combat), the group _wins_ if the they have as many successes as there are PCs in the group.
+
+You count 1 sucess point for a standard success and an additional success point for a succes with a raise. 
+ 
+If there are fewer successes than PCs in the group, the group _fails_ and the specifics are up to the GM. 
 
 
 ## Changes to core rules from Flash Gordon

@@ -75,6 +75,7 @@ Notable characteristics:
 * Well dressed with a top hat
 * In poor health since his return from Rome
 * Purchased the _Crocotta_ statue and gave it to his son Fulton
+* A bit sweaty
 
 
 #### Young son of 'ailing aristocrat'
@@ -95,14 +96,16 @@ Hindrances:
 
 Notable characteristics:
 * The very model of an English butler
+* Lanky and slightly below average height
+* Greying at the temples
+* Narrow chin
+* Pinched nose
 * Genuinely fond and feels sorry for young master Fulton
 
 
 #### Friendly constable
 
 Robert Bobbins, Scotland Yard
-
-
 
 Hindrances: 
 

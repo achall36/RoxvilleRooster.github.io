@@ -49,6 +49,47 @@ See [Savage Worlds Kickstarter: “Test” Rules Preview!](https://www.peginc.co
 ### Quick encounters
 [Adventure Edition Preview: Quick Encounters](https://www.peginc.com/store/adventure-edition-preview-quick-encounters/)
 
+Examples of quick encounters include:
+
+| Quick encounter type | Applicable skills |
+| -------------------- | ----------------- |
+| Chase |  Driving, Repair, Shooting, Common Knowledge (e.g., for navigation) |
+| Combat | Fighting, Shooting, Spellcasting  |
+| Crisis | Athletics, Persuasion (e.g., to calm bystanders), Repair |
+| Heist | Notice, Hacking, Stealth, Thievery |
+| Mission | Battle, Boating, Fighting, Persuasion, Piloting, Shooting |
+| Trek | Common Knowledge, Notice, Survival |
+
+GM considers and then imposes situatioanl modifiers (from -4 penalty to a +4 bonus).
+Players go in whatever order they want but resolve them in the order that makese sense. 
+If a critical task is failed, the GM decides whether it ends the encounter or just complicates other tasks. For example, a standard combat may result.
+Some encounters may need additional rounds (a/k/a staged encounters). 
+
+Once each player determines the skill and the GM decides on modifiers, the player rolls and then works with the GM to narrate the result.
+
+#### Dangerous encounters
+
+| Skill roll result | Effect |
+| Critical failure | 1d4 wounds on PC; if PC is a driver of a vehicle, the vehicle takes 1d4 wounds |
+| Failure | 1 wound on PC; if PC is a driver of a vehicle, the vehicle takes 1 wound |
+| Success | Bumps and bruises (a/k/a 1 Fatigue) |
+| Success with a raise | No negative effects and the PC is "covered in glory" |
+
+
+#### Nonlethal encounters
+
+| Skill roll result | Effect |
+| Critical failure | PC does not contribute to success and _something_bad happens_ that has a lasting effect/fallout |
+| Failure | PC does not contribute to success |
+| Success | PC contributes to the success |
+| Success with a raise | PC is "covered in glory" |
+
+#### Success and failure
+
+In general, narration and individual actions determine success and failure.
+In a fluid situation (e.g., combat), the group _wins_ if the they have as many successes (one for each success and raise) as there are PCs.
+If there are fewer successes than PCs, the group _fails_ and the specifics are up to the GM. 
+
 
 ## Changes to core rules from Flash Gordon
 

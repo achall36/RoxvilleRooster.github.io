@@ -22,6 +22,9 @@ Hindrances:
 
 George Granville Bradley, Dean of Westminster (b 1812)
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/George_Granville_Bradley_by_SA_Walker.jpg/220px-George_Granville_Bradley_by_SA_Walker.jpg" width="100">
+
+
 Hindrances: Elderly
 
 Edges: Contacts
@@ -107,11 +110,13 @@ Notable characteristics:
 
 Robert Bobbins, Scotland Yard
 
+<img src="https://afro.com/wp-content/uploads/2014/05/220px-Delany.jpg" width="100">
+
 Hindrances: 
 
 Notable characteristics:
 * He's black
-* Young constable but knows one of the PCs from the past
+* Middle age constable but knows one of the PCs from the past
 * Large eyes
 * Honest and dutiful, not a rule bender
 * Made of stern stuff 
@@ -120,6 +125,8 @@ Notable characteristics:
 #### Collegial antiquarian and scholar
 
 Arthur Neville Harmsworth
+
+<img src="https://1.bp.blogspot.com/-_LL2TeLNLcE/WuMMiLMhEFI/AAAAAAABYVQ/NH1-72HSjGkWOAumgEoXx8VlLXs7HAeEgCLcBGAs/s1600/Men%2527s%2BBeard%2BStyles%2Bin%2Bthe%2B19th%2BCentury%2B%25282%2529.jpg" width="100">
 
 Hindrances: Habit - minor (alcoholic)
 
@@ -133,6 +140,15 @@ Notable characteristics:
 * Speaks many language fluently
 * Alcoholic 
 
+#### Dour aristrocrat
+
+_Unnamed_
+
+Notable characteristics:
+* Large chin and forehead
+* Cropped and bristly salt-and pepper hair
+* Clean shaven
+* Lean and athletic, an avid cricketer
 
 
 #### Kooky academic
@@ -213,7 +229,7 @@ Notable characteristics:
 
 * <img src="https://i0.wp.com/78.media.tumblr.com/ca35b5292766d42d87a735c1492ef0c2/tumblr_p7vf0a970r1s7n9hno5_1280.jpg?w=605&ssl=1" width="100">
 <!-- 
-* <img src="" width="100">
+* <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/George_Granville_Bradley_by_SA_Walker.jpg/220px-George_Granville_Bradley_by_SA_Walker.jpg" width="100">
 * <img src="" width="100">
 -->
 * <img src="https://i.pinimg.com/originals/28/84/1b/28841b50d0b81d312c467d0cdb8a4ac1.jpg" width="100">
@@ -229,10 +245,9 @@ Notable characteristics:
 * <img src="https://upload.wikimedia.org/wikipedia/en/2/2a/Andrew_Cap_Tilles%2C_Young_Man%2C_Late_19th_Century.jpg" width="100">
 * <img src="http://www.deadlinenews.co.uk/wp-content/uploads/2017/10/ROGUES_GALLERY_DN07.jpg" width="100">
 * <img src="http://1.bp.blogspot.com/-Rd-CmlR0kVk/Te7xIWRDgFI/AAAAAAAAACM/ifZYBN7r3HM/s1600/Dom+Pedro+II%252C+1876%252C+245.jpg" width="100">
-* <img src="https://1.bp.blogspot.com/-_LL2TeLNLcE/WuMMiLMhEFI/AAAAAAABYVQ/NH1-72HSjGkWOAumgEoXx8VlLXs7HAeEgCLcBGAs/s1600/Men%2527s%2BBeard%2BStyles%2Bin%2Bthe%2B19th%2BCentury%2B%25282%2529.jpg" width="100">
 * <img src="https://i0.wp.com/78.media.tumblr.com/cdac2f21bf1c95e6435e6d335082ae39/tumblr_p7vf0a970r1s7n9hno6_1280.jpg?w=605&ssl=1" width="100">
 * <img src="https://i0.wp.com/78.media.tumblr.com/ca35b5292766d42d87a735c1492ef0c2/tumblr_p7vf0a970r1s7n9hno5_1280.jpg?w=605&ssl=1" width="100">
 * <img src="https://i.pinimg.com/originals/cc/da/75/ccda755020f3bd2514a32466d4f174c9.jpg" width="100">
-* <img src="https://afro.com/wp-content/uploads/2014/05/220px-Delany.jpg" width="100">
+
 
 

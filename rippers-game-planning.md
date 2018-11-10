@@ -207,24 +207,29 @@ Notable characteristics:
 
 ## Images
 
-* ![Handsome dude](https://i.pinimg.com/originals/28/84/1b/28841b50d0b81d312c467d0cdb8a4ac1.jpg)
-* ![Handsome dude 2](https://vignette.wikia.nocookie.net/nation/images/0/0e/Iojiouo.jpg/revision/latest?cb=20150320002333)
-* ![](https://lankvilledailynews.files.wordpress.com/2015/10/002-web.jpg)
-* ![](https://i.pinimg.com/originals/f6/6a/70/f66a70de5b0469a25ece1f542ef8e412.jpg)
-* ![](https://f.ptcdn.info/525/056/000/p5br6im35IVuhO060s5-o.jpg)
-* ![](https://i.pinimg.com/236x/0d/15/64/0d15642c833e2dcf38aff2787bc372bf--victorian-gentleman-beards.jpg)
-* ![](https://2.bp.blogspot.com/--RH3s30KDkE/WuMMvL4d-kI/AAAAAAABYXI/tqEG4uC19GcfvD3PoCpxqI2MYGI7yUWmwCLcBGAs/s1600/Men%2527s%2BBeard%2BStyles%2Bin%2Bthe%2B19th%2BCentury%2B%252847%2529.jpg)
-* ![Young dude](https://i.pinimg.com/originals/cc/34/85/cc3485988da8490bf34e1b818efb8a5a.jpg)
-* ![Mughsot man](https://1.bp.blogspot.com/-r-Dmvx_LjRg/Wm_Y8irPTxI/AAAAAAABPSY/vQYmmnPHsJQ3lysaWI3TW9CMWiL3q65NQCLcBGAs/s1600/Manchester%2BCriminal%2BFaces%2Bin%2Bthe%2B19th%2BCentury%2B%25284%2529.jpg)
-* ![Ruffian](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnaIi4PRVbSaXtAKuiQGbQPXajJ-emixcqT-905Sr-v98sFtJd)
-* ![Toff](http://www.thegentlemansjournal.com/wp-content/uploads/2015/01/TGJ-%E2%80%93-107-2a.jpg)
-* ![Toff 2](https://upload.wikimedia.org/wikipedia/en/2/2a/Andrew_Cap_Tilles%2C_Young_Man%2C_Late_19th_Century.jpg)
-* ![Toff 3](http://www.deadlinenews.co.uk/wp-content/uploads/2017/10/ROGUES_GALLERY_DN07.jpg)
-* ![beard](http://1.bp.blogspot.com/-Rd-CmlR0kVk/Te7xIWRDgFI/AAAAAAAAACM/ifZYBN7r3HM/s1600/Dom+Pedro+II%252C+1876%252C+245.jpg)
-* ![beard 2](https://1.bp.blogspot.com/-_LL2TeLNLcE/WuMMiLMhEFI/AAAAAAABYVQ/NH1-72HSjGkWOAumgEoXx8VlLXs7HAeEgCLcBGAs/s1600/Men%2527s%2BBeard%2BStyles%2Bin%2Bthe%2B19th%2BCentury%2B%25282%2529.jpg)
-* ![beard 3](https://i0.wp.com/78.media.tumblr.com/cdac2f21bf1c95e6435e6d335082ae39/tumblr_p7vf0a970r1s7n9hno6_1280.jpg?w=605&ssl=1)
-* ![stache](https://i0.wp.com/78.media.tumblr.com/ca35b5292766d42d87a735c1492ef0c2/tumblr_p7vf0a970r1s7n9hno5_1280.jpg?w=605&ssl=1)
-* <img src="https://i0.wp.com/78.media.tumblr.com/ca35b5292766d42d87a735c1492ef0c2/tumblr_p7vf0a970r1s7n9hno5_1280.jpg?w=605&ssl=1" width="50">
-* ![stache 2](https://i.pinimg.com/originals/cc/da/75/ccda755020f3bd2514a32466d4f174c9.jpg)
-* ![black man](https://afro.com/wp-content/uploads/2014/05/220px-Delany.jpg)
+
+* <img src="https://i0.wp.com/78.media.tumblr.com/ca35b5292766d42d87a735c1492ef0c2/tumblr_p7vf0a970r1s7n9hno5_1280.jpg?w=605&ssl=1" width="100">
+<!-- 
+* <img src="" width="100">
+* <img src="" width="100">
+-->
+* <img src="https://i.pinimg.com/originals/28/84/1b/28841b50d0b81d312c467d0cdb8a4ac1.jpg" width="100">
+* <img src="https://vignette.wikia.nocookie.net/nation/images/0/0e/Iojiouo.jpg/revision/latest?cb=20150320002333" width="100">
+* <img src="https://lankvilledailynews.files.wordpress.com/2015/10/002-web.jpg" width="100">
+* <img src="https://i.pinimg.com/originals/f6/6a/70/f66a70de5b0469a25ece1f542ef8e412.jpg" width="100">
+* <img src="https://f.ptcdn.info/525/056/000/p5br6im35IVuhO060s5-o.jpg" width="100">
+* <img src="https://i.pinimg.com/236x/0d/15/64/0d15642c833e2dcf38aff2787bc372bf--victorian-gentleman-beards.jpg" width="100">
+* <img src="https://2.bp.blogspot.com/--RH3s30KDkE/WuMMvL4d-kI/AAAAAAABYXI/tqEG4uC19GcfvD3PoCpxqI2MYGI7yUWmwCLcBGAs/s1600/Men%2527s%2BBeard%2BStyles%2Bin%2Bthe%2B19th%2BCentury%2B%252847%2529.jpg" width="100">
+* <img src="https://i.pinimg.com/originals/cc/34/85/cc3485988da8490bf34e1b818efb8a5a.jpg" width="100">
+* <img src="https://1.bp.blogspot.com/-r-Dmvx_LjRg/Wm_Y8irPTxI/AAAAAAABPSY/vQYmmnPHsJQ3lysaWI3TW9CMWiL3q65NQCLcBGAs/s1600/Manchester%2BCriminal%2BFaces%2Bin%2Bthe%2B19th%2BCentury%2B%25284%2529.jpg" width="100">
+* <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnaIi4PRVbSaXtAKuiQGbQPXajJ-emixcqT-905Sr-v98sFtJd" width="100">
+* <img src="https://upload.wikimedia.org/wikipedia/en/2/2a/Andrew_Cap_Tilles%2C_Young_Man%2C_Late_19th_Century.jpg" width="100">
+* <img src="http://www.deadlinenews.co.uk/wp-content/uploads/2017/10/ROGUES_GALLERY_DN07.jpg" width="100">
+* <img src="http://1.bp.blogspot.com/-Rd-CmlR0kVk/Te7xIWRDgFI/AAAAAAAAACM/ifZYBN7r3HM/s1600/Dom+Pedro+II%252C+1876%252C+245.jpg" width="100">
+* <img src="https://1.bp.blogspot.com/-_LL2TeLNLcE/WuMMiLMhEFI/AAAAAAABYVQ/NH1-72HSjGkWOAumgEoXx8VlLXs7HAeEgCLcBGAs/s1600/Men%2527s%2BBeard%2BStyles%2Bin%2Bthe%2B19th%2BCentury%2B%25282%2529.jpg" width="100">
+* <img src="https://i0.wp.com/78.media.tumblr.com/cdac2f21bf1c95e6435e6d335082ae39/tumblr_p7vf0a970r1s7n9hno6_1280.jpg?w=605&ssl=1" width="100">
+* <img src="https://i0.wp.com/78.media.tumblr.com/ca35b5292766d42d87a735c1492ef0c2/tumblr_p7vf0a970r1s7n9hno5_1280.jpg?w=605&ssl=1" width="100">
+* <img src="https://i.pinimg.com/originals/cc/da/75/ccda755020f3bd2514a32466d4f174c9.jpg" width="100">
+* <img src="https://afro.com/wp-content/uploads/2014/05/220px-Delany.jpg" width="100">
+
 

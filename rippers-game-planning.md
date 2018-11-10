@@ -222,8 +222,9 @@ Notable characteristics:
 * ![Toff 3](http://www.deadlinenews.co.uk/wp-content/uploads/2017/10/ROGUES_GALLERY_DN07.jpg)
 * ![beard](http://1.bp.blogspot.com/-Rd-CmlR0kVk/Te7xIWRDgFI/AAAAAAAAACM/ifZYBN7r3HM/s1600/Dom+Pedro+II%252C+1876%252C+245.jpg)
 * ![beard 2](https://1.bp.blogspot.com/-_LL2TeLNLcE/WuMMiLMhEFI/AAAAAAABYVQ/NH1-72HSjGkWOAumgEoXx8VlLXs7HAeEgCLcBGAs/s1600/Men%2527s%2BBeard%2BStyles%2Bin%2Bthe%2B19th%2BCentury%2B%25282%2529.jpg)
-* ![beard 3](https://i0.wp.com/78.media.tumblr.com/cdac2f21bf1c95e6435e6d335082ae39/tumblr_p7vf0a970r1s7n9hno6_1280.jpg?w=605&ssl=1 | width=50)
+* ![beard 3](https://i0.wp.com/78.media.tumblr.com/cdac2f21bf1c95e6435e6d335082ae39/tumblr_p7vf0a970r1s7n9hno6_1280.jpg?w=605&ssl=1)
 * ![stache](https://i0.wp.com/78.media.tumblr.com/ca35b5292766d42d87a735c1492ef0c2/tumblr_p7vf0a970r1s7n9hno5_1280.jpg?w=605&ssl=1)
+* <img src="https://i0.wp.com/78.media.tumblr.com/ca35b5292766d42d87a735c1492ef0c2/tumblr_p7vf0a970r1s7n9hno5_1280.jpg?w=605&ssl=1" width="50">
 * ![stache 2](https://i.pinimg.com/originals/cc/da/75/ccda755020f3bd2514a32466d4f174c9.jpg)
 * ![black man](https://afro.com/wp-content/uploads/2014/05/220px-Delany.jpg)
 

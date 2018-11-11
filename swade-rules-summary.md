@@ -51,6 +51,8 @@ See [Savage Worlds Kickstarter: “Test” Rules Preview!](https://www.peginc.co
 
 Get an extra deck of playing cards to use for the chase course (a/k/a tyhe chase deck). Shuffle that chase deck.
 
+#### Sequence of play for a chase
+
 1. Determine maneuvering skill for the type of chase:
 	* Foot (Athletics)
 	* Mounted (Riding)
@@ -95,6 +97,7 @@ The range between participants is the number of chase cards (not counting the ch
 #### Critical failures
 
 | Chase type | Result |
+| - | - |
 | Foot | Roll a die. Even = PC loses the rest of his turn (e.g., he stumbles, negotiates an obstacle, or takes a wrong turn); Odd = PC suffers 1 Fatigue |
 | Vehicle | Operator rolls on the **Out of Control** table |
 | Mounted | Roll a d6. 1–2: rider loses his turn; 3–4: his mount suffers Fatigue that applies to all its Riding rolls for the next hour; 5–6: the rider suffers Fatigue (e.g., from a bad bounce, low-hanging obstacle, or overexertion) when trying to control his mount |
@@ -158,7 +161,7 @@ Groups always stay together when a bump occurs.
 Examples of quick encounters include:
 
 | Quick encounter type | Applicable skills |
-| -------------------- | ----------------- |
+| - | - |
 | Chase |  Driving, Repair, Shooting, Common Knowledge (e.g., for navigation) |
 | Combat | Fighting, Shooting, Spellcasting  |
 | Crisis | Athletics, Persuasion (e.g., to calm bystanders), Repair |

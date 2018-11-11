@@ -46,6 +46,112 @@ See [Savage Worlds Kickstarter: “Test” Rules Preview!](https://www.peginc.co
 
 [Return to Sleepy Hollow: A Savage Worlds Adventure Edition Chase Rules Preview](https://www.peginc.com/store/return-to-sleepy-hollow-a-savage-worlds-adventure-edition-chase-rules-preview/)
 
+
+#### Before you begin
+
+Get an extra deck of playing cards to use for the chase course (a/k/a tyhe chase deck). Shuffle that chase deck.
+
+1. Determine maneuvering skill for the type of chase:
+	* Foot (Athletics)
+	* Mounted (Riding)
+	* Vehicular (Driving, Piloting, Boating)
+2. Deal a number of _chase cards_ from the chase deck in a row on the table top, from left to right. For most chases, 9 chase cards is enough. Chase card 1 is on the left and chase card 9 (or N) is on the far right.
+3. Determine participants in the chase and how they are grouped into units that will take part in the chase independently.  
+4. Determine the position of the participants at the start of the chase. Place the participants on the chase cards.
+5. At the start of the round, deal _action_ cards to each participant to determine the order in which the participants can act.
+The characters on each _chase card_ can act in whatever order as their action card comes up (e.g., when multiple character comprrse 1 chase participant).
+Note: Characters perforing a boarding action that are in or on an enemy vehicle get their own _action card_ (as a group).
+6. Character states his actions(s).
+
+
+
+#### Determining chase partipants
+
+Everyone in/on the same vehicle (or large mount), for example, is part of a group that comprise a single chase participant.
+In a foot chase, each PC typically acts independently (i.e., each PC is a particpiant) because they move independently.
+A group of Extras (e.g., a pack of goblins) can be broken up into one or more groups (each grouop being a participant) as the GM decides. 
+
+The GM decides who’s allowed to participate in a chase. 
+For example, a kid on a bike might be able to chase bandits in a car if the streets are very congested, 
+but the kid is left behind after a round on the open road.
+
+#### Determining the initial position of the participants
+
+The rear-most participant is at the back of the chase, on the far left card (i.e., chase card 1).
+All other participants are placed to the right of the rear-most participant as fits the circumstances. 
+The GM determines the position of the participants.
+The GM adds more chase cards to the left or the right of a participant. <!-- How does this work in practice? -->
+
+##### Range between participants
+
+The range between participants is the number of chase cards (not counting the chase card on which the attacker sits) multiplied by the range increment.
+
+| Chase type |  Suggested range increment |
+| - | - |
+| Foot, Mounted, or Vehicular | 5 |
+| Airplane or  Marine Vessel | 25 |
+| Jets or Starships | 50 |
+	
+#### Critical failures
+
+| Chase type | Result |
+| Foot | Roll a die. Even = PC loses the rest of his turn (e.g., he stumbles, negotiates an obstacle, or takes a wrong turn); Odd = PC suffers 1 Fatigue |
+| Vehicle | Operator rolls on the **Out of Control** table |
+| Mounted | Roll a d6. 1–2: rider loses his turn; 3–4: his mount suffers Fatigue that applies to all its Riding rolls for the next hour; 5–6: the rider suffers Fatigue (e.g., from a bad bounce, low-hanging obstacle, or overexertion) when trying to control his mount |
+
+
+#### Ending the chase
+
+A chase ends when the following conditions are true:
+* one side gets away (e.g., siables all pursuers, successfully performs the _Flee_ maneuver)
+* one side stops by choice or by force
+<!-- How do the chase cards come in here? Don't they matter? -->
+
+##### Actions
+
+* Test
+* Support
+* Attack
+* Use powers
+* Hold action (opposed roll to successfully interrupt)
+* Perform a _chase maneuver_
+
+**Note**: NPC vehicle crews cannot perform Test or Support rolls.
+
+#### Chase maneuvers
+
+| Maneuver | Type | 
+| - | - |
+| Boarding | Action |
+| Change position | Action _or_ Free Action |
+| Evade | Free Action |
+| Flee | Action |
+| Force | Action |
+| Hold Steady | Free Action |
+| Ram | Action |
+
+
+#### Complications
+
+If a character or group’s _action Card_ is a Club, something goes wrong. 
+The suit on the character or vehicle’s current _chase card_ determines any modifier to the maneuvering roll and the results of failure.
+
+| Suit | Modifier | Failure result |
+| - | - | - |
+| Joker | +2 | The character or vehicle is Bumped up to two Chase Cards |
+| Spades | –2 | The character or vehicle gets Bumped |
+| Hearts | -- | Vehicles roll on the **Out of Control** table; runners or mounted riders suffer Fatigue |
+| Diamonds | -- | The character or vehicle gets Bumped |
+| Clubs | –4 | Vehicles roll on the**Out of Control** table; runners or mounted riders suffer Fatigue |
+ 
+GMS can trigger special conditions related to complications as they fit the scene and gameplay.
+
+##### Bumping
+
+If a character, vehicle, or group is bumped during a chase, the player inflicting the bump chooses to move the defender one _chase card_ in the direction on t the chase card course that he chooses.
+Groups always stay together when a bump occurs.
+ 
+
 ### Quick encounters
 [Adventure Edition Preview: Quick Encounters](https://www.peginc.com/store/adventure-edition-preview-quick-encounters/)
 

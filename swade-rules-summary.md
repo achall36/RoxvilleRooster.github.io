@@ -17,20 +17,20 @@ Every _reasonable_ character gets the following core skills at a d4 for no cost:
 * Persuasion (Spirit)
 * Stealth (Agility)
 
-See [Savage Worlds Kickstarter: “Core Skills” Rules Preview!](https://www.peginc.com/savage-worlds-kickstarter-core-skills-rules-preview/)
+See [Savage Worlds Kickstarter: “Core Skills” Rules Preview!](https://www.peginc.com/savage-worlds-kickstarter-core-skills-rules-preview/){:target="_blank"}.
 
 ### Charisma
 
-See [Savage Worlds Kickstarter: Two Final Rules Previews!](https://www.peginc.com/savage-worlds-kickstarter-two-final-rules-previews/)
+See [Savage Worlds Kickstarter: Two Final Rules Previews!](https://www.peginc.com/savage-worlds-kickstarter-two-final-rules-previews/){:target="_blank"}.
 
 ### Support rules
 
-See [Savage Worlds Kickstarter: “Support” Rules Preview!](https://www.peginc.com/savage-worlds-kickstarter-support-rules-preview/)
+See [Savage Worlds Kickstarter: “Support” Rules Preview!](https://www.peginc.com/savage-worlds-kickstarter-support-rules-preview/){:target="_blank"}.
 
 
 ### Multiple actions
 
-See [Savage Worlds Kickstarter: Two Final Rules Previews!](https://www.peginc.com/savage-worlds-kickstarter-two-final-rules-previews/)
+See [Savage Worlds Kickstarter: Two Final Rules Previews!](https://www.peginc.com/savage-worlds-kickstarter-two-final-rules-previews/){:target="_blank"}.
 
 ### Tests
 
@@ -42,11 +42,11 @@ Examples:
 
 If the attacker wins the opposed roll, she can choose to make the foe Distracted or Vulnerable. If she wins with a raise, the target is also Shaken.
 
-See [Savage Worlds Kickstarter: “Test” Rules Preview!](https://www.peginc.com/savage-worlds-kickstarter-test-rules-preview/)
+See [Savage Worlds Kickstarter: “Test” Rules Preview!](https://www.peginc.com/savage-worlds-kickstarter-test-rules-preview/){:target="_blank"}.
 
 ### Chase rules
 
-[Return to Sleepy Hollow: A Savage Worlds Adventure Edition Chase Rules Preview](https://www.peginc.com/store/return-to-sleepy-hollow-a-savage-worlds-adventure-edition-chase-rules-preview/)
+[Return to Sleepy Hollow: A Savage Worlds Adventure Edition Chase Rules Preview](https://www.peginc.com/store/return-to-sleepy-hollow-a-savage-worlds-adventure-edition-chase-rules-preview/){:target="_blank"}.
 
 
 #### Before you begin
@@ -195,7 +195,7 @@ See the modifiers for Size and Cover for details. <!-- there is an xref here -->
 If the attack is successful and causes a wound, it also causes the effects for that area (see the Vehicle Critical Hit table).
 
 ### Quick encounters
-[Adventure Edition Preview: Quick Encounters](https://www.peginc.com/store/adventure-edition-preview-quick-encounters/)
+See [Adventure Edition Preview: Quick Encounters](https://www.peginc.com/store/adventure-edition-preview-quick-encounters/){:target="_blank"}.
 
 Examples of quick encounters include:
 

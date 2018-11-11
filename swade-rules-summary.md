@@ -134,7 +134,7 @@ A chase ends when the following conditions are true:
 | Ram | Action |
 
 
-#### Complications
+#### Complications during a chase
 
 If a character or group’s _action Card_ is a Club, something goes wrong. 
 The suit on the character or vehicle’s current _chase card_ determines any modifier to the maneuvering roll and the results of failure.
@@ -145,7 +145,7 @@ The suit on the character or vehicle’s current _chase card_ determines any mod
 | Spades | –2 | The character or vehicle gets Bumped |
 | Hearts | -- | Vehicles roll on the **Out of Control** table; runners or mounted riders suffer Fatigue |
 | Diamonds | -- | The character or vehicle gets Bumped |
-| Clubs | –4 | Vehicles roll on the**Out of Control** table; runners or mounted riders suffer Fatigue |
+| Clubs | –4 | Vehicles roll on the **Out of Control** table; runners or mounted riders suffer Fatigue |
  
 GMS can trigger special conditions related to complications as they fit the scene and gameplay.
 
@@ -154,6 +154,18 @@ GMS can trigger special conditions related to complications as they fit the scen
 If a character, vehicle, or group is bumped during a chase, the player inflicting the bump chooses to move the defender one _chase card_ in the direction on t the chase card course that he chooses.
 Groups always stay together when a bump occurs.
  
+#### Attacks during a chase 
+
+Characters can make attacks provided that the GM agrees that they make sense in the context of the chase.
+
+##### Melee attacks
+
+TBD
+
+##### Ranged attacks
+
+TBD
+
 
 ### Quick encounters
 [Adventure Edition Preview: Quick Encounters](https://www.peginc.com/store/adventure-edition-preview-quick-encounters/)

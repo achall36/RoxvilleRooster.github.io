@@ -6,6 +6,8 @@ permalink: /swade_rules/
 
 ## Updates to Savage Worlds rules for SWADE
 
+A more official summary is also posted in the [Pinnacle formums](https://www.pegforum.com/forum/savage-worlds/savage-worlds-general-chat/12025-savage-worlds-adventure-edition%E2%80%94general-feedback?fbclid=IwAR1NyaJsaxRYiQYujPiv5OFpC9DBC9XXTNGK8nLtiS6qJeICUVziEdElUXw).
+
 ### Core skills
 
 Every _reasonable_ character gets the following core skills at a d4 for no cost: 

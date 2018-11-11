@@ -63,7 +63,7 @@ Get an extra deck of playing cards (a/k/a the chase deck) to use for the chase c
 5. At the start of the round, deal _action_ cards to each participant to determine the order in which the participants can act.
 The characters on each _chase card_ can act in whatever order as their action card comes up (e.g., when multiple character comprrse 1 chase participant).
 Note: Characters perforing a boarding action that are in or on an enemy vehicle get their own _action card_ (as a group).
-6. Character states his actions(s).
+6. State character actions(s) and then resolve the action(s).
 
 
 

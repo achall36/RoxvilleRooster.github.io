@@ -49,7 +49,7 @@ See [Savage Worlds Kickstarter: “Test” Rules Preview!](https://www.peginc.co
 
 #### Before you begin
 
-Get an extra deck of playing cards to use for the chase course (a/k/a tyhe chase deck). Shuffle that chase deck.
+Get an extra deck of playing cards (a/k/a the chase deck) to use for the chase course. Shuffle the chase deck.
 
 #### Sequence of play for a chase
 
@@ -160,12 +160,37 @@ Characters can make attacks provided that the GM agrees that they make sense in 
 
 ##### Melee attacks
 
-TBD
+In foot, mounted, or vehicular chases (where plausible), characters can make melee attacks only when they’re on the same
+_chase card_ as their foe. Standard combat modifiers, such as the _gang-up_ bonus, _withdrawing from
+melee_, etc., apply as the GM sees fit. 
+If a character attack a moving vehicle in melee, the vehicle's parry is 2 + half the driver’s
+maneuvering skill (e.g., if d8 then 4), plus the vehicle's _handling_ rating. 
+Melee attacks aren’t usually possible between very fast vehicles, airplanes, starships, etc.
 
 ##### Ranged attacks
 
-TBD
+Drivers and characters can fire ranged weapons. 
+The range between participants is the number of chase cards (not counting the chase card on which the attacker sits) multiplied by the range increment.
+<!-- What about unstable platform enalty and the steady hands edge? -->
 
+##### Damage to characters or mounts
+
+Resolve damage normally but if the character (or his mount) is shaken, _Stunned_, or wounded in a chase, he’s also Bumped.
+<!-- Stunned is a state? -->
+
+##### Damage to vehicles
+
+Vehicles cannot be shaken but if damage exceeds a vehicle's toughness (whether it takes a wound or not), the
+operator must make a maneuvering roll or go Out of Control (and then roll on the Out of Control table). 
+During a chase, the vehicle is also Bumped.
+Each raise on a vehicular damage roll causes one wound and then you roll on the Vehicle Critical Hits table. 
+Most vehicles can take three wounds before they’re wrecked. Each wound reduces a vehicle’s Handling by one (to a maximum of −4).
+
+##### Called shots on vehicles
+
+To target a particular location on a vehicle, the GM assigns a modifier based on the size of the target. 
+See the modifiers for Size and Cover for details. <!-- there is an xref here -->
+If the attack is successful and causes a wound, it also causes the effects for that area (see the Vehicle Critical Hit table).
 
 ### Quick encounters
 [Adventure Edition Preview: Quick Encounters](https://www.peginc.com/store/adventure-edition-preview-quick-encounters/)

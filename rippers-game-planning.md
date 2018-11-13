@@ -122,6 +122,52 @@ Notable characteristics:
 * Made of stern stuff 
 
 
+#### Allied alienist
+
+Dr. Horace Crabbe
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d2/August_Tholuck.jpg" width="100">
+
+Hindrances: Elderly, Loyal
+
+Notable characteristics:
+* Where's a smoking hat
+* Small man around 65 years
+* Smokes a pipe
+* Soft spoken, gentle, and mild to his patients
+
+
+#### Asian crime boss
+
+Mr. Cho
+
+<img src="https://s-media-cache-ak0.pinimg.com/originals/36/c4/0a/36c40afed1fea913be0a7e9f1fcc7fd9.jpg" width="100">
+
+Hindrances: Code of Honor
+
+Notable characteristics:
+* Shrewd
+* Ruthless
+* Always hustling
+* Well connected
+* Well mannered
+* Speaks English fluently with a slight accent
+
+#### Gregarious cavalry officer
+
+Major Bertram "Bertie" Nesbitt
+
+<img src="http://seabooks.net/pics/0110-DickGregory.med.jpg" width="100">
+
+Hindrances: Loyal, Overconfident, Habtit (opium)
+
+Notable characteristics:
+* Well-known party-goer
+* Superior polo player
+* Fine horseman
+* Gallant solider
+ 
+
 #### Collegial antiquarian and scholar
 
 Arthur Neville Harmsworth
@@ -227,7 +273,6 @@ Notable characteristics:
 ## Images
 
 
-* <img src="https://i0.wp.com/78.media.tumblr.com/ca35b5292766d42d87a735c1492ef0c2/tumblr_p7vf0a970r1s7n9hno5_1280.jpg?w=605&ssl=1" width="100">
 <!-- 
 * <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/George_Granville_Bradley_by_SA_Walker.jpg/220px-George_Granville_Bradley_by_SA_Walker.jpg" width="100">
 * <img src="" width="100">

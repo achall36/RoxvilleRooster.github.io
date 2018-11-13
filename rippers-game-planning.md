@@ -137,7 +137,7 @@ Notable characteristics:
 * Soft spoken, gentle, and mild to his patients
 
 
-#### Asian crime boss
+#### Asian businessman
 
 Mr. Cho
 

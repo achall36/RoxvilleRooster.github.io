@@ -6,14 +6,6 @@ permalink: /rippers_planning/
 
 ## Characters
 
-### PCs
-
-#### Lingke
-
-Well-heeled Asian occultist
-
-Hindrances: 
-
 
 ### NPCs
 
@@ -33,6 +25,7 @@ Notable characteristics:
 * Latin scholar
 * Educator and mentor to many high status individuals
 * Answers to the Queen
+* Under magical detection, her radiates a bright aura of the blessed
 
 #### Corrupt assistant to 'Important man of the cloth'
 
@@ -52,7 +45,7 @@ Hindrances: All Thumbs
 
 Notable characteristics:
 * Historian and scholar of Great Britain and North America
-* Aloof soon and brother
+* Aloof son and brother
 
 
 #### Daughter of 'Important man of the cloth'
@@ -64,6 +57,20 @@ Hindrances: Curious
 Notable characteristics:
 * Journalist and writer
 * Loving daughter
+
+#### Ambitious reporter
+
+Roderick Goode
+
+Hindrance: Overconfident
+
+Notable characteristics:
+* Will call out his betters in public and won't give a fig
+* Has great contacts throughout west London
+* A bit of a dandy and like to stay clean
+* Medium height but thin with delicate facial features
+* Well-groomed with a waxed mustache
+* Usually wears checkered pants and a top hat
 
 
 #### Ailing aristocrat
@@ -137,6 +144,33 @@ Notable characteristics:
 * Soft spoken, gentle, and mild to his patients
 
 
+#### Fiesty parlor girl
+
+Elizabeth "Liza" Grubb
+
+Hindrances: Delusion (minor), Greedy (minor)
+
+Notable characteristics:
+* Air of confident and self-reliance
+* Irish 
+* She conceals a knife and knows how to use it
+* Gets a thrill out of cutting down a toff with a taunt
+
+#### Compassionate manager of the orphanage
+
+Ruth Goldsmith
+
+Hindrances: Heroic (major), Pacifist (minor), Poverty (minor)
+
+Notable characteristics:
+* Of Jewish heritage
+* Compassion for orphans
+* Stout frame
+* Plain clothes
+* Dark hair now starting to grey
+* Won't take any nonsense from men and authorities 
+
+
 #### Asian businessman
 
 Mr. Cho
@@ -159,14 +193,17 @@ Major Bertram "Bertie" Nesbitt
 
 <img src="http://seabooks.net/pics/0110-DickGregory.med.jpg" width="100">
 
-Hindrances: Loyal, Overconfident, Habtit (opium)
+Hindrances: Overconfident, Habtit (opium), bad luck
 
 Notable characteristics:
 * Well-known party-goer
 * Superior polo player
 * Fine horseman
 * Gallant solider
- 
+* Visited recently by tragedy (dead wife, forced to retire for some mysterious reason)
+* Now down on his luck and "couch surfing" with aristocrats and public school chums
+* Has a "dark aura" over him; he was cursed in Afghanistan or the Punjab; Davis is curious about the curse (possible djinn?) 
+
 
 #### Collegial antiquarian and scholar
 
@@ -185,6 +222,7 @@ Notable characteristics:
 * Consultant to the British Museum
 * Speaks many language fluently
 * Alcoholic 
+
 
 #### Dour aristrocrat
 
@@ -219,6 +257,7 @@ A Cabalist (or Cultist) who is in the area and may begin watching the PCs
 Hindrances: 
 
 Notable characteristics:
+
 
 #### Mysterious figure
 

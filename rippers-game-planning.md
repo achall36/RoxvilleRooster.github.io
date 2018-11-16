@@ -269,6 +269,21 @@ Notable characteristics:
 * Mentor to Lingke
 
 
+###  Disgrunted retired officer
+
+Colonel Vincent Gerrard
+
+Gerrard is full of anger after being forced into retirement, he's compelled (by dark forces) to take vengeance on Queen and countrty that have discarded the accomplishments of the military.   Has no respect for civilian government and those that he sees who have benefited from the sacrifices of soldiers across the empire. 
+
+Hindrances: Vengeful (major), Delusional - flashbacks (minor)
+
+Notable characteristics:
+* Confidence and the bearing of an officer
+* Natural leader of men
+* Blond hair and short, overgrown beard
+* Rich voice
+* Will jibe and then taunt civilians - a man who has no served in the military gets little respect from him 
+
 
 ## Images
 

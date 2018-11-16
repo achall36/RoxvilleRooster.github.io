@@ -193,7 +193,7 @@ Major Bertram "Bertie" Nesbitt
 
 <img src="http://seabooks.net/pics/0110-DickGregory.med.jpg" width="100">
 
-Hindrances: Overconfident, Habtit (opium), bad luck
+Hindrances: Overconfident, Habit (opium), bad luck
 
 Notable characteristics:
 * Well-known party-goer

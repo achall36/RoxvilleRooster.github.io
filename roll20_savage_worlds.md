@@ -37,7 +37,7 @@ The following token overlays are used to indicate status/conditions in combat. O
 | Defend | ![Defending](/images/roll20/shield.PNG "Defending") | For *Full Defense*, set overlay number to 2 |
 | Entangled | ![Entangled](/images/roll20/net.PNG "Entangled") | For *Bound*, set overlay number to 2 |
 | Hold | ![Hold](/images/roll20/time.PNG "Hold") | Character is holding his action |
-| Shaken | ![Shaken](/images/roll20/melty_face.PNG "Shaken") | For *Unconscious* or *Incapacitated*, set overlay number to 2 or remove the token from play | 
+| Shaken | ![Shaken](/images/roll20/smoke.PNG "Shaken") | For *Unconscious* or *Incapacitated*, set overlay number to 2 or remove the token from play | 
 | Stealth | ![Stealth](/images/roll20/ninja.PNG "Stealth") | Indicate a character is *successfully* using Stealth to avoid detection | 
 | Vulnerable | ![Vulnerable](/images/roll20/arrows_in_back.PNG "Vulnerable") |   |
 

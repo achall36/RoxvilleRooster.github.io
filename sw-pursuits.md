@@ -10,7 +10,7 @@ See [Pursuits](http://savage-stuff.blogspot.com/2017/08/situational-rule-pursuit
 Each pursuit is divided into six range steps.
 These steps are marked on a Pursuit Chart.
 
-| Step | Permitted Attacks | Pursuit Maneuvers | Pursued Maneuvers |
+| Range Step | Permitted Attacks | Pursuit Maneuvers | Pursued Maneuvers |
 | - | - | - | - |
 | Close | Melee, Ranged | Pursue, Drive, Lookout | Backtrack, Flee  |
 | Short | Ranged | Pursue, Drive, Lookout  | Backtrack, Flee |
@@ -24,7 +24,7 @@ These steps are marked on a Pursuit Chart.
 ### Initiating a pursuit
 
 To run, start by announcing your intention to escape.
-The "escape" combat maneuver requires a successful Athletics roll (or applicable maneuvering skill) as a full-round action.
+The _escape_ combat maneuver requires a successful Athletics roll (or applicable maneuvering skill) as a full-round action.
 On a success, you attract free attacks for disengaging from combat.
 
 To pursue, announce your intent to pursue.

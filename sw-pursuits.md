@@ -5,7 +5,7 @@ permalink: /pursuit_rules/
 ---
 
 ## Pursuits
-See [Pursuits](http://savage-stuff.blogspot.com/2017/08/situational-rule-pursuits.html).
+See [Pursuits](http://savage-stuff.blogspot.com/2017/08/situational-rule-pursuits.html) by Richard Woolcock.
 
 Each pursuit is divided into six range steps.
 These steps are marked on a Pursuit Chart.

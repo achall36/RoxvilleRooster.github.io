@@ -67,6 +67,7 @@ You may perform only one pursuit maneuver on your turn but you may perform other
 ##### Pursue
 
 * Make a maneuvering roll to move one step closer on the Pursuit Chart. 
+
 If you end up at the _close_ step, you may also chose to move into close combat.
 Your opponent provokes a free attack if they continue running as if they are disengaging from melee. 
 
@@ -80,6 +81,7 @@ Your opponent provokes a free attack if they continue running as if they are dis
 ##### Drive (or force)
 
 * Make an opposed maneuvering roll against your target to drive (force) them in a particular direction. 
+
 You can only use this maneuver when you are in the _close_ or _short_ steps.
 On a success, other pursuers at long, extreme, or trailing range can immediately use the pursue maneuver as a free action.
 Apply the pursue maneuver modifiers.
@@ -90,6 +92,7 @@ Apply the pursue maneuver modifiers.
 ##### Lookout
 
 * Make an Athletics roll to clamber up a tree, onto a rooftop, etc. 
+
 You move one step further away on the Pursuit Chart but you can make a support roll (e.g., to shout directions to your allies)
 and giving them an additional +1 to their pursue maneuvers as long as you maintain your vantage point.
 This doesn’t stack with the bonus from other lookouts. 
@@ -106,6 +109,7 @@ You can jump down as a free action.
 
 * Make a maneuvering roll to move everyone on your Pursuit Chart 1 step further away (success) 
 or 2 steps if they have half your Pace or lower. 
+
 Pursuers with twice your Pace or greater are not affected by this maneuver unless you get a raise 
 (for example, you find a route that your pursuer cannot directly follow). 
 If you choose to _take a difficult path_, you suffer a -2 penalty to your maneuvering roll but 
@@ -116,6 +120,7 @@ _unless_ your pursuers are using the lookout maneuver.
 
 You attempt to lose your pursuers by ducking into an alleyway or finding some other hiding spot. 
 * Make an opposed Stealth roll against your pursuers' Notice. 
+
 If you are pursued and your pursuers are at the _long_ step, the pursuers get a +2 bonus to their Notice rolls.
 If you are pursued and your pursuers are at the _medium_ step,the pursuers get a +4 bonus to their Notice rolls. 
 You cannot use this maneuver if you have pursuers at the _close_ or _short_ step. 
@@ -128,6 +133,7 @@ and these pursuers are then moved to the _medium_ step.
 
 You wait until your pursuers get close and then rush past them in the opposite direction. 
 * Make a maneuvering roll and each pursuer makes an opposed roll against it.
+
 Pursuers who succeed receive a free attack at the _close_ step. 
 If you manage to get away, all pursuers who succeeded the opposed roll are moved to the _medium_ step. 
 All pursuers who failed are moved to the _long_ step. 

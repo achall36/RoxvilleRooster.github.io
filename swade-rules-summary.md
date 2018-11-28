@@ -209,7 +209,7 @@ Examples of quick encounters include:
 | Trek | Common Knowledge, Notice, Survival |
 
 GM considers and then imposes situational modifiers (from -4 penalty to a +4 bonus).
-Players go in whatever order they want but they shoould resolve skill checks in the order that makese sense. 
+Players go in whatever order they want but they shoould resolve skill checks in the order that makes sense. 
 If a critical task is failed, the GM decides whether it ends the encounter or just complicates other (downstream) tasks. For example, a standard combat or a quick combat may result because of a failure.
 Some encounters may need additional rounds (a/k/a staged encounters). 
 

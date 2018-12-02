@@ -258,6 +258,21 @@ Hindrances:
 
 Notable characteristics:
 
+#### Young gangster
+
+Davey Fulks
+
+Hindrances: 
+* Greedy (minor)
+* Quirk (hopeless romantic)
+
+Notable characteristics:
+* Short curly black hair beaneath a beaten bowler hat
+* Left eye wanders
+* Cleft chin
+* Wiry build
+
+
 
 #### Mysterious figure
 

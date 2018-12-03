@@ -308,7 +308,9 @@ Notable characteristics:
 
 _Unknown_ but really Olga Fedotenko (a/k/a "Siter Yaga")
 
-An allied Ripper who is watching the PCs from the sidelines.
+<img src="https://media.discordapp.net/attachments/512814120123498497/519232355177725984/ee4a94452dcb8a6c3488cb9f151ac85e.jpg" width="100"> 
+
+An allied Ripper who is watching the Lingke and the other PCs from the sidelines.
 
 Hindrances: Small
 

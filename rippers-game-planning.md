@@ -258,9 +258,13 @@ Hindrances:
 
 Notable characteristics:
 
-#### Young gangster
+#### Young gangster trying to stay alive
 
 Davey Fulks
+
+Lingke has recruited Fulks to look for a "Solomon". 
+Freddie Marchant mentioned a "Solomon" when Lingke read his mind and asked "Who hired you?" 
+
 
 Hindrances: 
 * Greedy (minor)

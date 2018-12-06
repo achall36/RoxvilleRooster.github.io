@@ -264,13 +264,56 @@ Davey Fulks
 
 Hindrances: 
 * Greedy (minor)
-* Quirk (hopeless romantic)
+* Dependents (wife and daughter)
+* Wanted (hunted by his former gang, the Mutton Boys)
 
 Notable characteristics:
-* Short curly black hair beaneath a beaten bowler hat
+* Short curly black hair beneath a beaten bowler hat
 * Left eye wanders
 * Cleft chin
 * Wiry build
+
+
+#### No-nonsense woman in a man's role
+
+Angela Miller
+
+Custodian of the Cornwall Lodge
+
+#### Earnest East Indian gentleman
+
+Darjan "Edward" Patel
+
+Cook for the Cornwall Lodge
+
+#### Young man in the employ of the Cornwall Lodge
+
+Oliver McCloud
+
+Runner for the Lodge
+
+#### Purveyor of mussels on the streets of West London
+
+Mary MacGregor
+
+Was nearby when Charles Le Pont was killed
+
+#### Tough cop in Paddington
+
+Sergeant Peter Rodgers
+
+
+#### Lad on the streets of west London
+
+Tom "Sweets" Devlin
+
+Young lad fending for himself on the streets
+
+Hindrances: 
+* Quirk (sweet tooth)
+
+
+
 
 
 

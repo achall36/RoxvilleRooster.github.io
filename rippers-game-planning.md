@@ -12,6 +12,7 @@ permalink: /rippers_planning/
 #### Enigmatic masked crusader heroine
 
 Amelie Matteau (a/k/a _Oubliette_)
+Masked crusader and skilled vampire hunter
 
 Hindrances: Small
 

@@ -9,6 +9,19 @@ permalink: /rippers_planning/
 
 ### NPCs
 
+#### Enigmatic masked crusader heroine
+
+Amelie Matteau (a/k/a _Oubliette_)
+
+Hindrances: Small
+
+Edges: Very Attractive, Aristocrat, Thief, Assasin, Acrobat, Improved Extraction
+
+Notable characteristics:
+* Thin and diminutive, appears like a harmless young woman/student
+* Striking green eyes
+* Plays deferrential and demure
+* Attempts to blend into the background
 
 #### Important man of the cloth
 

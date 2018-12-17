@@ -258,68 +258,6 @@ Hindrances:
 
 Notable characteristics:
 
-#### Young gangster trying to stay alive
-
-Davey Fulks
-
-Lingke has recruited Fulks to look for a "Solomon". 
-Freddie Marchant mentioned a "Solomon" when Lingke read his mind and asked "Who hired you?" 
-
-
-Hindrances: 
-* Greedy (minor)
-* Dependents (wife and daughter)
-* Wanted (hunted by his former gang, the Mutton Boys)
-
-Notable characteristics:
-* Short curly black hair beneath a beaten bowler hat
-* Left eye wanders
-* Cleft chin
-* Wiry build
-
-
-#### No-nonsense woman in a man's role
-
-Angela Miller
-
-Custodian of the Cornwall Lodge
-
-#### Earnest East Indian gentleman
-
-Darjan "Edward" Patel
-
-Cook for the Cornwall Lodge
-
-#### Young man in the employ of the Cornwall Lodge
-
-Oliver McCloud
-
-Runner for the Lodge
-
-#### Purveyor of mussels on the streets of West London
-
-Mary MacGregor
-
-Was nearby when Charles Le Pont was killed
-
-#### Tough cop in Paddington
-
-Sergeant Peter Rodgers
-
-
-#### Lad on the streets of west London
-
-Tom "Sweets" Devlin
-
-Young lad fending for himself on the streets
-
-Hindrances: 
-* Quirk (sweet tooth)
-
-
-
-
-
 
 #### Mysterious figure
 
@@ -355,9 +293,7 @@ Notable characteristics:
 
 _Unknown_ but really Olga Fedotenko (a/k/a "Siter Yaga")
 
-<img src="https://media.discordapp.net/attachments/512814120123498497/519232355177725984/ee4a94452dcb8a6c3488cb9f151ac85e.jpg" width="100"> 
-
-An allied Ripper who is watching the Lingke and the other PCs from the sidelines.
+An allied Ripper who is watching the PCs from the sidelines.
 
 Hindrances: Small
 

@@ -6,7 +6,6 @@ permalink: /rippers_planning/
 
 ## Characters
 
-
 ### NPCs
 
 #### Enigmatic masked crusader heroine
@@ -23,43 +22,6 @@ Notable characteristics:
 * Striking green eyes
 * Plays deferrential and demure
 * Attempts to blend into the background
-
-#### Important man of the cloth
-
-George Granville Bradley, Dean of Westminster (b 1812)
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/George_Granville_Bradley_by_SA_Walker.jpg/220px-George_Granville_Bradley_by_SA_Walker.jpg" width="100">
-
-
-Hindrances: Elderly
-
-Edges: Contacts
-
-Notable characteristics: 
-* Latin scholar
-* Educator and mentor to many high status individuals
-* Answers to the Queen
-* Under magical detection, her radiates a bright aura of the blessed
-
-#### Corrupt assistant to 'Important man of the cloth'
-
-Unnamed (idea: Henry Perkins)
-
-Hindrances: 
-
-Notable characteristics:
-* Corrupted and scheming
-
-
-#### Son of 'Important man of the cloth'
-
-Arthur Granville Bradley (b 1850)
-
-Hindrances: All Thumbs
-
-Notable characteristics:
-* Historian and scholar of Great Britain and North America
-* Aloof son and brother
 
 
 #### Daughter of 'Important man of the cloth'
@@ -336,6 +298,45 @@ Notable characteristics:
 * Blond hair and short, overgrown beard
 * Rich voice
 * Will jibe and then taunt civilians - a man who has no served in the military gets little respect from him 
+
+
+#### Important man of the cloth
+
+George Granville Bradley, Dean of Westminster (b 1812)
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/George_Granville_Bradley_by_SA_Walker.jpg/220px-George_Granville_Bradley_by_SA_Walker.jpg" width="100">
+
+
+Hindrances: Elderly
+
+Edges: Contacts
+
+Notable characteristics: 
+* Latin scholar
+* Educator and mentor to many high status individuals
+* Answers to the Queen
+* Under magical detection, her radiates a bright aura of the blessed
+
+#### Corrupt assistant to 'Important man of the cloth'
+
+Unnamed (idea: Henry Perkins)
+
+Hindrances: 
+
+Notable characteristics:
+* Corrupted and scheming
+
+
+#### Son of 'Important man of the cloth'
+
+Arthur Granville Bradley (b 1850)
+
+Hindrances: All Thumbs
+
+Notable characteristics:
+* Historian and scholar of Great Britain and North America
+* Aloof son and brother
+
 
 
 ## Images

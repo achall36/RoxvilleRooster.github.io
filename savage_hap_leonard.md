@@ -11,19 +11,19 @@ _This is a work in progress_
 _Updated July 1, 2018_
 
 The point of this page is to describe the characters from the stories for the
-Savage Worlds Roleplaying Game. 
+Savage Worlds Roleplaying Game.
 
 _There are other good RPGs out there that could facilitate a Hap and Leonard-type game.
-The Gumshoe system could handle the investigative aspects quite nicely. 
+The Gumshoe system could handle the investigative aspects quite nicely.
 Fate Accelerated (FAE) or Fate Core could be used to considerable effect.
 For me, I know Savage Worlds can support a Hap and Leonard-style story, especially when the wisecracks, fists, and bullets begin to fly._
 
 ## Stories and the TV series
 Hap Collins and Leonard Pine are the main characters in series of novels, novellas, and
-short stories by Joe R. Lansdale. In 2016, the Sundance network released [Hap and Leonard](http://www.imdb.com/title/tt3729898/?ref_=ttep_ep_tt), a  six-part TV series that covers the novel "Savage Season". 
+short stories by Joe R. Lansdale. In 2016, the Sundance network released [Hap and Leonard](http://www.imdb.com/title/tt3729898/?ref_=ttep_ep_tt), a  six-part TV series that covers the novel "Savage Season".
 In 2017, Sundance TV released season 2 (6 episodes), based on the novel "Mucho Mojo".
 In 2018, Sundance TV released season 3, which is based on one of my favorite novels, "Two Bear Mambo".
-Of course, the TV series differs from the novels and stories but they are relatively faithful. The TV series is more of a mystery drama with occasional violence, whereas violence, horror, and fisticuffs feature more prominenlty in the stories.
+Of course, the TV series differs from the novels and stories but they are relatively faithful. The TV series is more of a mystery drama with occasional violence, whereas violence, horror, and fisticuffs feature more prominently in the stories.
 
 Looking for more information on Hap and Leonard? See the [Wikipedia entry](https://en.wikipedia.org/wiki/Hap_and_Leonard).
 
@@ -37,13 +37,13 @@ When I came back to tabletop role-playing games in my early forties, I soon foun
 In 2015, Pinnacle Entertainment Group came out with the East Texas University (ETU) setting, which is a mash up where Buffy the Vampire Slayer, Miskatonic University, and Blue Mountain State meet in Lansdale country. There is even a building named after Champion Joe on the ETU campus.                                                                                                                                                      
 Unlike the supernatural horror in the ETU setting, the horror in the Hap and Leonard books is visceral, earthly horror and it is effective because it is man-made, unnerving, mundane yet inhuman.                                                                                                                                                                                                                                                
 Hap and Leonard reside in the fictional town of LaBorde, Texas and that can easily be situated close by the fictitious university town of Pinebox. You can easily find a reason for Hap and Leonard to visit Pinebox. They have served as security guards at a chicken processing plant before, so maybe they can do a stint as campus police.                                                                                                     
-As far as the time lines are concerned, do not sweat it. Hap and Leonard were very active in the late 80s. A recent novel, Rusty Puppy (2017), is set in the early 2010s. Hap and Leonard don't exactly age as quickly as the rest of us. 
+As far as the time lines are concerned, do not sweat it. Hap and Leonard were very active in the late 80s. A recent novel, Rusty Puppy (2017), is set in the early 2010s. Hap and Leonard don't exactly age as quickly as the rest of us.
 
 ![collins-pine](https://when-release.com/.u/.d/1460751590.jpg)                                                                                                                                                                                                                                                                           
 ## Hap and Leonard as a team
 Hap and Leonard are amateur investigators and typically find themselves doing legwork. Where they lack the classic sleuth skills, they get by with a little luck, intuition, and knowledge of the locals and location.
 
-They are unambitious; some see that as lazy. OK, maybe they are a bit lazy but, when these guys get going, they do not sit back. 
+They are unambitious; some see that as lazy. OK, maybe they are a bit lazy but, when these guys get going, they do not sit back.
 Hap and Leonard also exemplify a great friendship that crosses lines of race, sexual orientation, and politics. They are very different people but they are brothers and do anything for one another.
 
 ## Character spotlights                                                                                                                                                                                                                                                                                                                                                                                                                                
@@ -60,13 +60,13 @@ Hap and Leonard also exemplify a great friendship that crosses lines of race, se
 
 ### Hap Collins
 
-* Leans to the left on the political spectrum 
-* Reads Doc Savage and Michael Moorcock 
-* Dropped out of college to be drafted (Vietnam War) and then refused to serve and, as a result, went to prison as a protest. 
-* Natural marksman 
+* Leans to the left on the political spectrum
+* Reads Doc Savage and Michael Moorcock
+* Dropped out of college to be drafted (Vietnam War) and then refused to serve and, as a result, went to prison as a protest.
+* Natural marksman
 * "Brother" to Leonard
 * Cannot stand injustice
-* Drinks near beer (Sharps brand is typical) 
+* Drinks near beer (Sharps brand is typical)
 * Will not shoot an unarmed foe
 * Sucker for the ladies
 
@@ -78,12 +78,12 @@ Skills: Fighting d8, Intimidation d6+2, Investigation d6, Notice d8, Persuasion 
 
 Charisma: 0; Pace: 6; Parry: 6; Toughness: 6
 
-Hindrances: 
+Hindrances:
  * Heroic: Can't stand by and watch when something bad is going down
  * Poverty: He's generally doing unskilled labor
  * Loyal: You always have your friends' backs; will do anything for his brother Leonard
 
-Edges: 
+Edges:
  * Level Headed: Act on best of two cards in combat
  * Marksman: Aim maneuver (+2 Shooting) if hero does not move
  * Martial Artist: Never considered unarmed, +d4 to unarmed damage rolls
@@ -94,13 +94,13 @@ Edges:
 
 ### Leonard Pine                                                          
 
-* Openly gay but not flamboyant (i.e., not a "skipper") 
-* Votes Republican 
-* Likes classic country music (e.g., Pasty Cline) 
-* Vietnam war veteran (green beret) 
+* Openly gay but not flamboyant (i.e., not a "skipper")
+* Votes Republican
+* Likes classic country music (e.g., Pasty Cline)
+* Vietnam war veteran (green beret)
 * "Brother" to Hap
 * Cannot tolerate hypocrisy
-* Loves dogs and won't suffer folks who abuse them 
+* Loves dogs and won't suffer folks who abuse them
 * Loves vanilla cookies and Dr. Pepper
 * Needs a hat/likes a hat
 
@@ -112,12 +112,12 @@ Skills: Driving d4, Fighting d10, Intimidation d6, Notice d6, Riding d4, Shootin
 
 Charisma: 0; Pace: 6; Parry: 7; Toughness: 7
 
-Hindrances: 
+Hindrances:
  * Heroic: Comes off as a reluctant hero, but his impulse to do the right thing and help others wins out sooner rather than later
  * Loyal: See Hap; will do anything for his brother Hap
  * Poverty: See Hap
 
-Edges: 
+Edges:
  * Brawler: +2 to unarmed damage rolls
  * Brawny: Toughness +1; load limit is 8 x Str
  * Combat Reflexes: +2 to recover from being Shaken
@@ -132,7 +132,7 @@ Edges:
 * Ginger female, Hap's girlfriend
 * Professional nurse (later a private investigator)
 * She's an awesome, strong female character
-* Her daughter,Tilly, is a drug addict and runs with a bad crowd
+* Her daughter, Tilly, is a drug addict and runs with a bad crowd
 * Who would I cast as Brett? Marg Helgenberger from her early CSI years.
 
 ### Vanilla Ride                                                          
@@ -149,11 +149,11 @@ Edges:
 
 * Caucasian male
 * Handsome and persuasive; consider him a "player" with the ladies
-* Pulitzer prize-nominated investigative journalist who now works for the local paper (in Camp Rapture) 
-* Iraq war veteran 
+* Pulitzer prize-nominated investigative journalist who now works for the local paper (in Camp Rapture)
+* Iraq war veteran
 * Leverages connections/contacts
-* Who would I cast as Cason? Mark Ruffalo 
-   
+* Who would I cast as Cason? Mark Ruffalo
+
 ### Veil   
 * Hit man turned lawyer, defended Leonard
 * Vigilante who had hunted down rapists, killers, molesters, child pornographers

@@ -1,5 +1,5 @@
 ---
-title: Updates to Savage Worlds rules 
+title: Updates to Savage Worlds rules
 layout: page
 permalink: /swade_rules/
 ---
@@ -10,7 +10,7 @@ A more official summary is also posted in the [Pinnacle forums](https://www.pegf
 
 ### Core skills
 
-Every _reasonable_ character gets the following core skills at a d4 for no cost: 
+Every _reasonable_ character gets the following core skills at a d4 for no cost:
 * Athletics (Agility)
 * Common Knowledge (Smarts)
 * Notice (Smarts)
@@ -34,7 +34,7 @@ See [Savage Worlds Kickstarter: Two Final Rules Previews!](https://www.peginc.co
 
 ### Tests
 
-To perform a Test, you describe the action and work with the GM to determine the appropriate skill. 
+To perform a Test, you describe the action and work with the GM to determine the appropriate skill.
 You then make the skill roll and the defender makes an opposed roll to resist using the attribute that the skill is linked to.
 Examples:
 * Tripping someone  is an Athletics roll and the defender resists with Agility.
@@ -63,26 +63,26 @@ Get an extra deck of playing cards (a/k/a the chase deck) to use for the chase c
 3. Determine participants in the chase and how they are grouped into units that will take part in the chase independently.  
 4. Determine the position of the participants at the start of the chase. Place the participants on the chase cards.
 5. At the start of the round, deal _action_ cards to each participant to determine the order in which the participants can act.
-The characters on each _chase card_ can act in whatever order as their action card comes up (e.g., when multiple character comprrse 1 chase participant).
-Note: Characters perforing a boarding action that are in or on an enemy vehicle get their own _action card_ (as a group).
+The characters on each _chase card_ can act in whatever order as their action card comes up (e.g., when multiple character comprise 1 chase participant).
+Note: Characters performing a boarding action that are in or on an enemy vehicle get their own _action card_ (as a group).
 6. State character actions(s) and then resolve the action(s).
 
 
 
-#### Determining chase partipants
+#### Determining chase participants
 
 Everyone in/on the same vehicle (or large mount), for example, is part of a group that comprise a single chase participant.
-In a foot chase, each PC typically acts independently (i.e., each PC is a particpiant) because they move independently.
-A group of Extras (e.g., a pack of goblins) can be broken up into one or more groups (each grouop being a participant) as the GM decides. 
+In a foot chase, each PC typically acts independently (i.e., each PC is a participant) because they move independently.
+A group of Extras (e.g., a pack of goblins) can be broken up into one or more groups (each group being a participant) as the GM decides.
 
-The GM decides who’s allowed to participate in a chase. 
-For example, a kid on a bike might be able to chase bandits in a car if the streets are very congested, 
+The GM decides who’s allowed to participate in a chase.
+For example, a kid on a bike might be able to chase bandits in a car if the streets are very congested,
 but the kid is left behind after a round on the open road.
 
 #### Determining the initial position of the participants
 
 The rear-most participant is at the back of the chase, on the far left card (i.e., chase card 1).
-All other participants are placed to the right of the rear-most participant as fits the circumstances. 
+All other participants are placed to the right of the rear-most participant as fits the circumstances.
 The GM determines the position of the participants.
 The GM adds more chase cards to the left or the right of a participant. <!-- How does this work in practice? -->
 
@@ -95,7 +95,7 @@ The range between participants is the number of chase cards (not counting the ch
 | Foot, Mounted, or Vehicular | 5 |
 | Airplane or  Marine Vessel | 25 |
 | Jets or Starships | 50 |
-	
+
 #### Critical failures
 
 | Chase type | Result |
@@ -108,7 +108,7 @@ The range between participants is the number of chase cards (not counting the ch
 #### Ending the chase
 
 A chase ends when the following conditions are true:
-* one side gets away (e.g., siables all pursuers, successfully performs the _Flee_ maneuver)
+* one side gets away (e.g., evades all pursuers, successfully performs the _Flee_ maneuver)
 * one side stops by choice or by force
 <!-- How do the chase cards come in here? Don't they matter? -->
 
@@ -125,7 +125,7 @@ A chase ends when the following conditions are true:
 
 #### Chase maneuvers
 
-| Maneuver | Type | 
+| Maneuver | Type |
 | - | - |
 | Boarding | Action |
 | Change position | Action _or_ Free Action |
@@ -138,7 +138,7 @@ A chase ends when the following conditions are true:
 
 #### Complications during a chase
 
-If a character or group’s _action Card_ is a Club, something goes wrong. 
+If a character or group’s _action Card_ is a Club, something goes wrong.
 The suit on the character or vehicle’s current _chase card_ determines any modifier to the maneuvering roll and the results of failure.
 
 | Suit | Modifier | Failure result |
@@ -148,15 +148,15 @@ The suit on the character or vehicle’s current _chase card_ determines any mod
 | Hearts | -- | Vehicles roll on the **Out of Control** table; runners or mounted riders suffer Fatigue |
 | Diamonds | -- | The character or vehicle gets Bumped |
 | Clubs | –4 | Vehicles roll on the **Out of Control** table; runners or mounted riders suffer Fatigue |
- 
+
 GMS can trigger special conditions related to complications as they fit the scene and gameplay.
 
 ##### Bumping
 
 If a character, vehicle, or group is bumped during a chase, the player inflicting the bump chooses to move the defender one _chase card_ in the direction on t the chase card course that he chooses.
 Groups always stay together when a bump occurs.
- 
-#### Attacks during a chase 
+
+#### Attacks during a chase
 
 Characters can make attacks provided that the GM agrees that they make sense in the context of the chase.
 
@@ -164,16 +164,16 @@ Characters can make attacks provided that the GM agrees that they make sense in 
 
 In foot, mounted, or vehicular chases (where plausible), characters can make melee attacks only when they’re on the same
 _chase card_ as their foe. Standard combat modifiers, such as the _gang-up_ bonus, _withdrawing from
-melee_, etc., apply as the GM sees fit. 
+melee_, etc., apply as the GM sees fit.
 If a character attack a moving vehicle in melee, the vehicle's parry is 2 + half the driver’s
-maneuvering skill (e.g., if d8 then 4), plus the vehicle's _handling_ rating. 
+maneuvering skill (e.g., if d8 then 4), plus the vehicle's _handling_ rating.
 Melee attacks aren’t usually possible between very fast vehicles, airplanes, starships, etc.
 
 ##### Ranged attacks
 
-Drivers and characters can fire ranged weapons. 
+Drivers and characters can fire ranged weapons.
 The range between participants is the number of chase cards (not counting the chase card on which the attacker sits) multiplied by the range increment.
-<!-- What about unstable platform enalty and the steady hands edge? -->
+<!-- What about unstable platform penalty and the steady hands edge? -->
 
 ##### Damage to characters or mounts
 
@@ -183,14 +183,14 @@ Resolve damage normally but if the character (or his mount) is shaken, _Stunned_
 ##### Damage to vehicles
 
 Vehicles cannot be shaken but if damage exceeds a vehicle's toughness (whether it takes a wound or not), the
-operator must make a maneuvering roll or go Out of Control (and then roll on the Out of Control table). 
+operator must make a maneuvering roll or go Out of Control (and then roll on the Out of Control table).
 During a chase, the vehicle is also Bumped.
-Each raise on a vehicular damage roll causes one wound and then you roll on the Vehicle Critical Hits table. 
+Each raise on a vehicular damage roll causes one wound and then you roll on the Vehicle Critical Hits table.
 Most vehicles can take three wounds before they’re wrecked. Each wound reduces a vehicle’s Handling by one (to a maximum of −4).
 
 ##### Called shots on vehicles
 
-To target a particular location on a vehicle, the GM assigns a modifier based on the size of the target. 
+To target a particular location on a vehicle, the GM assigns a modifier based on the size of the target.
 See the modifiers for Size and Cover for details. <!-- there is an xref here -->
 If the attack is successful and causes a wound, it also causes the effects for that area (see the Vehicle Critical Hit table).
 
@@ -209,9 +209,9 @@ Examples of quick encounters include:
 | Trek | Common Knowledge, Notice, Survival |
 
 GM considers and then imposes situational modifiers (from -4 penalty to a +4 bonus).
-Players go in whatever order they want but they shoould resolve skill checks in the order that makes sense. 
+Players go in whatever order they want but they should resolve skill checks in the order that makes sense.
 If a critical task is failed, the GM decides whether it ends the encounter or just complicates other (downstream) tasks. For example, a standard combat or a quick combat may result because of a failure.
-Some encounters may need additional rounds (a/k/a staged encounters). 
+Some encounters may need additional rounds (a/k/a staged encounters).
 
 Once each player determines the skill and the GM decides on modifiers, the player make the skill check and then works with the GM to narrate the result.
 
@@ -239,9 +239,9 @@ Once each player determines the skill and the GM decides on modifiers, the playe
 In general, narration and individual actions determine success and failure.
 In a fluid situation (e.g., combat), the group _wins_ if the they have as many successes as there are PCs in the group.
 
-You count 1 sucess point for a standard success and an additional success point for a succes with a raise. 
- 
-If there are fewer successes than PCs in the group, the group _fails_ and the specifics are up to the GM. 
+You count 1 success point for a standard success and an additional success point for a success with a raise.
+
+If there are fewer successes than PCs in the group, the group _fails_ and the specifics are up to the GM.
 
 
 ## Changes to core rules from Flash Gordon
@@ -257,7 +257,7 @@ If there are fewer successes than PCs in the group, the group _fails_ and the sp
 
 #### Athletics (Agility)
 
-Athletics includes such physical skills as climbing, jumping, balancing, skiing, swimming, throwing, and catching. 
+Athletics includes such physical skills as climbing, jumping, balancing, skiing, swimming, throwing, and catching.
 It also covers skills of hand-eye coordination and the use of core strength to perform bodily maneuvers.
 Athletics is also used in grappling.
 
@@ -269,14 +269,14 @@ Common knowledge skills are
 * Medicine: diagnose disease, know anatomy, analyze forensic evidence, identify pharmaceutical
 * Occult: understanding of supernatural lore, creatures of myth and legend, religious practices and mysteries, and magical practices.
 * Science: familiarity with major fields of science for his day and age (e.g., chemistry, biology, physics, engineering, mathematics, botany, astronomy)
- 
+
 #### Performance (Spirit)
 Characters can use performance skill to sing, dance, play instruments, or otherwise
-entertain crowds. 
+entertain crowds.
 
 #### Thievery (Agility)
 The thievery skill is used to perform actions involving lockpicking and safecracking, picking pockets and sleight of hand, setting and
-disabling traps, and similar acts of misdirection, sabotage, subterfuge, and manipulation. 
+disabling traps, and similar acts of misdirection, sabotage, subterfuge, and manipulation.
 
 ### Changes to combat
 
@@ -288,17 +288,17 @@ Range), at a −8 penalty (or −6 with a scope). This applies to personal and v
 
 Grappling is an opposed Athletics roll and causes no damage. If the attacker
 wins, the defender is Entangled. If the attacker
-succeeds with a raise, the defender is Bound. Also, a grappling success against a defender who is already Entangled makes the defender Bound. 
+succeeds with a raise, the defender is Bound. Also, a grappling success against a defender who is already Entangled makes the defender Bound.
 
 The character must make an opposed Strength roll as an action to break free from the Entangled or Bound states.
 
-If an Entangled character is successful, he’s free and can act normally. 
+If an Entangled character is successful, he’s free and can act normally.
 If a Bound succeeds, he improves to Entangled state on. if he succeeds with a raise, he’s free and can act normally.
 
 If the attacker (aka the grappler on the offensive) is shaken (and does not drop a benny to unshake immediately, the defender immediately is released from the grapple.
 
-An attacker can apply damage to a defender who is Entangled or Bound by making an opposed strength roll as an action on her turn. 
-Success means the attack does his strength die in damage. 
+An attacker can apply damage to a defender who is Entangled or Bound by making an opposed strength roll as an action on her turn.
+Success means the attack does his strength die in damage.
 Success with a raise means the attack does strength + the standard bonus damage for a raise (typically d6).
 
 A character with the Martial Artist Edge may use Fighting instead of Athletics in grappling contests.

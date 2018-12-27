@@ -46,21 +46,20 @@ See [Savage Worlds Kickstarter: “Test” Rules Preview!](https://www.peginc.co
 
 ### Chase rules
 
-[Return to Sleepy Hollow: A Savage Worlds Adventure Edition Chase Rules Preview](https://www.peginc.com/store/return-to-sleepy-hollow-a-savage-worlds-adventure-edition-chase-rules-preview/){:target="_blank"}.
-
-
 #### Before you begin
 
-Get an extra deck of playing cards (a/k/a the chase deck) to use for the chase course. Shuffle the chase deck.
+Get an extra deck of playing cards (a/k/a the _chase deck_) to use for the chase course. Shuffle the chase deck.
 
 #### Sequence of play for a chase
 
-1. Determine maneuvering skill for the type of chase:
+1. Determine the maneuvering skill for the type of chase:
 	* Foot (Athletics)
 	* Mounted (Riding)
-	* Vehicular (Driving, Piloting, Boating)
+	* Land vehicle (Driving)
+	* Aircraft or spacecraft (Piloting)
+	* Watercraft (Boating)
 2. Deal a number of _chase cards_ from the chase deck in a row on the table top, from left to right. For most chases, 9 chase cards is enough. Chase card 1 is on the left and chase card 9 (or N) is on the far right.
-3. Determine participants in the chase and how they are grouped into units that will take part in the chase independently.  
+3. Determine participants in the chase and how they are grouped into units that will take part in the chase independently.
 4. Determine the position of the participants at the start of the chase. Place the participants on the chase cards.
 5. At the start of the round, deal _action_ cards to each participant to determine the order in which the participants can act.
 The characters on each _chase card_ can act in whatever order as their action card comes up (e.g., when multiple character comprise 1 chase participant).
@@ -100,15 +99,15 @@ The range between participants is the number of chase cards (not counting the ch
 
 | Chase type | Result |
 | - | - |
-| Foot | Roll a die. Even = PC loses the rest of his turn (e.g., he stumbles, negotiates an obstacle, or takes a wrong turn); Odd = PC suffers 1 Fatigue |
 | Vehicle | Operator rolls on the **Out of Control** table |
-| Mounted | Roll a d6. 1–2: rider loses his turn; 3–4: his mount suffers Fatigue that applies to all its Riding rolls for the next hour; 5–6: the rider suffers Fatigue (e.g., from a bad bounce, low-hanging obstacle, or overexertion) when trying to control his mount |
+| Foot | Roll a die. Even = character loses the rest of his turn (e.g., he stumbles, negotiates an obstacle, or takes a wrong turn); Odd = character suffers 1 Fatigue |
+| Mounted | Roll a d6. 1–2: rider loses his turn; 3–4: his mount suffers Fatigue that applies to the animal’s rolls and the rider’s Riding rolls; 5–6: the rider suffers Fatigue (e.g., from a bad bounce, low-hanging obstacle, or overexertion) when trying to control his mount |
 
 
 #### Ending the chase
 
 A chase ends when the following conditions are true:
-* one side gets away (e.g., evades all pursuers, successfully performs the _Flee_ maneuver)
+* one side gets away (e.g., disabling all pursuers, successfully performs the _Flee_ maneuver)
 * one side stops by choice or by force
 <!-- How do the chase cards come in here? Don't they matter? -->
 

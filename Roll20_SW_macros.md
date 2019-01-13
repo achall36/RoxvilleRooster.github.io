@@ -11,10 +11,12 @@ Smarts roll! [[{1d@{Selected|Smarts}!, 1d6!}kh1 + ?{Modifier|0} -@{Selected|Woun
 ```
 
 .at.Spirit
+```
 Spirit roll! [[{1d@{Selected|Spirit}!, 1d6!}kh1 + ?{Modifier|0} -@{Selected|Wounds}[Wounds]  -@{Selected|Fatigue}[Fatigue] ]]
+```
 
 .at.Strength
-Strength roll! [[{1d@{Selected|Strength}!, 1d6!}kh1 + ?{Modifier|0} -@{Selected|Wounds}[Wounds]  -@{Selected|Fatigue}[Fatigue] ]]   
+`Strength roll! [[{1d@{Selected|Strength}!, 1d6!}kh1 + ?{Modifier|0} -@{Selected|Wounds}[Wounds]  -@{Selected|Fatigue}[Fatigue] ]]   `
 
 .at.Vigor
 Vigor roll! [[{1d@{Selected|Vigor}!, 1d6!}kh1 + ?{Modifier|0} -@{Selected|Wounds}[Wounds]  -@{Selected|Fatigue}[Fatigue] ]]  

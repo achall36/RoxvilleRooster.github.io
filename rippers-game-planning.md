@@ -15,12 +15,12 @@ Masked crusader and skilled vampire hunter
 
 Hindrances: Small
 
-Edges: Very Attractive, Aristocrat, Thief, Assasin, Acrobat, Improved Extraction
+Edges: Very Attractive, Aristocrat, Thief, Assassin, Acrobat, Improved Extraction
 
 Notable characteristics:
 * Thin and diminutive, appears like a harmless young woman/student
 * Striking green eyes
-* Plays deferrential and demure
+* Plays deferential and demure
 * Attempts to blend into the background
 
 
@@ -51,7 +51,7 @@ Notable characteristics:
 
 #### Ailing aristocrat
 
-Lord Henry Abbott 
+Lord Henry Abbott
 
 Hindrances: Obese
 
@@ -66,9 +66,9 @@ Notable characteristics:
 
 #### Young son of 'ailing aristocrat'
 
-Master Fulton Abbott 
+Master Fulton Abbott
 
-Hindrances: 
+Hindrances:
 
 Notable characteristics:
 * Inconsolable after the recent death of his mother, Abigail Abbott
@@ -78,7 +78,7 @@ Notable characteristics:
 
 Reynolds (really Reynaud)
 
-Hindrances: 
+Hindrances:
 
 Notable characteristics:
 * The very model of an English butler
@@ -95,14 +95,14 @@ Robert Bobbins, Scotland Yard
 
 <img src="https://afro.com/wp-content/uploads/2014/05/220px-Delany.jpg" width="100">
 
-Hindrances: 
+Hindrances:
 
 Notable characteristics:
 * He's black
 * Middle age constable but knows one of the PCs from the past
 * Large eyes
 * Honest and dutiful, not a rule bender
-* Made of stern stuff 
+* Made of stern stuff
 
 
 #### Allied alienist
@@ -128,7 +128,7 @@ Hindrances: Delusion (minor), Greedy (minor)
 
 Notable characteristics:
 * Air of confident and self-reliance
-* Irish 
+* Irish
 * She conceals a knife and knows how to use it
 * Gets a thrill out of cutting down a toff with a taunt
 
@@ -144,7 +144,7 @@ Notable characteristics:
 * Stout frame
 * Plain clothes
 * Dark hair now starting to grey
-* Won't take any nonsense from men and authorities 
+* Won't take any nonsense from men and authorities
 
 
 #### Asian businessman
@@ -172,13 +172,13 @@ Major Bertram "Bertie" Nesbitt
 Hindrances: Overconfident, Habit (opium), bad luck
 
 Notable characteristics:
-* Well-known party-goer
+* Well-known party-goer and bon-vivant
 * Superior polo player
 * Fine horseman
 * Gallant solider
 * Visited recently by tragedy (dead wife, forced to retire for some mysterious reason)
 * Now down on his luck and "couch surfing" with aristocrats and public school chums
-* Has a "dark aura" over him; he was cursed in Afghanistan or the Punjab; Davis is curious about the curse (possible djinn?) 
+* Has a "dark aura" over him; he was cursed in Afghanistan
 
 
 #### Collegial antiquarian and scholar
@@ -197,10 +197,10 @@ Notable characteristics:
 * Oxford-educated scholar of ancient civilizations
 * Consultant to the British Museum
 * Speaks many language fluently
-* Alcoholic 
+* Alcoholic
 
 
-#### Dour aristrocrat
+#### Dour aristocrat
 
 _Unnamed_
 
@@ -215,7 +215,7 @@ Notable characteristics:
 
 _Unnamed_
 
-Hindrances: 
+Hindrances:
 
 Notable characteristics:
 * Overly coiffed hair and whiskers
@@ -230,7 +230,7 @@ _Unnamed_
 
 A Cabalist (or Cultist) who is in the area and may begin watching the PCs
 
-Hindrances: 
+Hindrances:
 
 Notable characteristics:
 
@@ -241,7 +241,7 @@ _Unnamed_
 
 A Ripper (or Ripper-ally) who is watching the PCs
 
-Hindrances: 
+Hindrances:
 
 Notable characteristics:
 
@@ -252,16 +252,16 @@ _Unknown_ but really Joaquin Verdugo (Reverend Deacon)
 
 A Cabalist (or Cultist) who is in the area for Cabal-related reasons
 
-Hindrances: 
+Hindrances:
 
 Notable characteristics:
 * Chinese Filipino
 * Round face, clean shaven, clear and tanned complexion
 * Appears to in his late 40s or early 50s, with graying hair
-* Can appear affable and charmimg with warm eyes and a kind smile
+* Can appear affable and charming with warm eyes and a kind smile
 * Can also display the gravitas of a man of the cloth
 * May be posing as a Catholic priest
-* Under the veneer of charm and gravitas is lurking a twisted pscho who serves the Cabal
+* Under the veneer of charm and gravitas is lurking a twisted psycho who serves the Cult
 * He's a known adversary of Lingke
 * He can call upon minions
 
@@ -283,12 +283,26 @@ Notable characteristics:
 * Experienced fighting the Cabal
 * Mentor to Lingke
 
+#### Unassuming faction leader
 
-###  Disgrunted retired officer
+Maureen West
+
+<img src"https://cdn.moviestillsdb.com/i/500x/ukyrfxc1/silverado-lg.jpg"  width="100"/>
+
+Hindrances: Slow (minor), Small (minor), Driven (major)
+
+Notable characteristics:
+* Diminutive, unassuming middle-class woman in her mid thirties
+* Is she the secretary? Nope. She's much more than that.
+* Great people skills
+* Organizing force behind the Order of St. George in London
+* The real "power" behind the London organization
+
+###  Disgruntled retired officer
 
 Colonel Vincent Gerrard
 
-Gerrard is full of anger after being forced into retirement, he's compelled (by dark forces) to take vengeance on Queen and countrty that have discarded the accomplishments of the military.   Has no respect for civilian government and those that he sees who have benefited from the sacrifices of soldiers across the empire. 
+Gerrard is full of anger after being forced into retirement, he's compelled (by dark forces) to take vengeance on Queen and countrty that have discarded the accomplishments of the military.   Has no respect for civilian government and those that he sees who have benefited from the sacrifices of soldiers across the empire.
 
 Hindrances: Vengeful (major), Delusional - flashbacks (minor)
 
@@ -297,7 +311,7 @@ Notable characteristics:
 * Natural leader of men
 * Blond hair and short, overgrown beard
 * Rich voice
-* Will jibe and then taunt civilians - a man who has no served in the military gets little respect from him 
+* Will jibe and then taunt civilians - a man who has no served in the military gets little respect from him
 
 
 #### Important man of the cloth
@@ -311,7 +325,7 @@ Hindrances: Elderly
 
 Edges: Contacts
 
-Notable characteristics: 
+Notable characteristics:
 * Latin scholar
 * Educator and mentor to many high status individuals
 * Answers to the Queen
@@ -321,7 +335,7 @@ Notable characteristics:
 
 Unnamed (idea: Henry Perkins)
 
-Hindrances: 
+Hindrances:
 
 Notable characteristics:
 * Corrupted and scheming
@@ -342,7 +356,7 @@ Notable characteristics:
 ## Images
 
 
-<!-- 
+<!--
 * <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/George_Granville_Bradley_by_SA_Walker.jpg/220px-George_Granville_Bradley_by_SA_Walker.jpg" width="100">
 * <img src="" width="100">
 -->
@@ -362,6 +376,3 @@ Notable characteristics:
 * <img src="https://i0.wp.com/78.media.tumblr.com/cdac2f21bf1c95e6435e6d335082ae39/tumblr_p7vf0a970r1s7n9hno6_1280.jpg?w=605&ssl=1" width="100">
 * <img src="https://i0.wp.com/78.media.tumblr.com/ca35b5292766d42d87a735c1492ef0c2/tumblr_p7vf0a970r1s7n9hno5_1280.jpg?w=605&ssl=1" width="100">
 * <img src="https://i.pinimg.com/originals/cc/da/75/ccda755020f3bd2514a32466d4f174c9.jpg" width="100">
-
-
-

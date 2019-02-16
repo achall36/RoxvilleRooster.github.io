@@ -8,6 +8,61 @@ permalink: /rippers_planning/
 
 ### NPCs
 
+#### Resourceful and independent woman
+
+Angela Miller
+Custodian of the lodge
+
+Hindrances:
+
+Edges:
+
+Notable characteristics:
+*
+*
+
+#### Distinguished Indian gentleman and cook
+
+Darjan "Edward" Patel
+Cook and lodge manager
+
+Hindrances:
+
+Edges:
+
+Notable characteristics:
+* Rippertech implant (enhance taste? poison detection?)
+*
+
+
+#### Business-like alienist
+
+Dr. Harvey Tyson
+Alienist and partner of Dr. Crabbe
+
+Hindrances:
+
+Edges:
+
+Notable characteristics:
+*
+*
+
+
+#### Working class lad in the service of the lodge
+
+Oliver McLeod
+Street kid befriended by the PCs
+
+Hindrances:
+
+Edges:
+
+Notable characteristics:
+*
+*
+
+
 #### Enigmatic masked crusader heroine
 
 Amelie Matteau (a/k/a _Oubliette_)

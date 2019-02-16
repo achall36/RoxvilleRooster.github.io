@@ -63,6 +63,33 @@ Notable characteristics:
 *
 
 
+#### Wealthy Dorset-based gentleman
+
+Sir William Bankes
+Potential patron of the Rippers
+
+Hindrances: Code of Honor, Habit (minor, "I like to bet on the ponies now and then")
+
+Edges: Filthy Rich, Aristocrat, Scholar (Academics), Charismatic
+
+Notable characteristics:
+* Approachable and has a common touch
+
+#### Butler to Bankes
+
+John Petry
+Capable servant
+
+Hindrances:
+
+Edges:
+
+Notable characteristics:
+*
+*
+ 
+
+
 #### Enigmatic masked crusader heroine
 
 Amelie Matteau (a/k/a _Oubliette_)

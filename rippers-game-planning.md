@@ -374,8 +374,8 @@ Maureen West
 Hindrances: Slow (minor), Small (minor), Driven (major)
 
 Notable characteristics:
-* Diminutive, unassuming middle-class woman in her mid thirties
-* Is she the secretary? Nope. She's much more than that.
+* Diminutive, unassuming middle-class woman in her late forties
+* Is she the secretary? Nope. She's much more than that...
 * Great people skills
 * Organizing force behind the Order of St. George in London
 * The real "power" behind the London organization

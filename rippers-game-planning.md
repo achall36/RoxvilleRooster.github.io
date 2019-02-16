@@ -87,7 +87,7 @@ Edges:
 Notable characteristics:
 *
 *
- 
+
 
 
 #### Enigmatic masked crusader heroine
@@ -369,7 +369,7 @@ Notable characteristics:
 
 Maureen West
 
-<img src"https://cdn.moviestillsdb.com/i/500x/ukyrfxc1/silverado-lg.jpg"  width="100"/>
+<img src="https://cdn.moviestillsdb.com/i/500x/ukyrfxc1/silverado-lg.jpg"  width="100"/>
 
 Hindrances: Slow (minor), Small (minor), Driven (major)
 

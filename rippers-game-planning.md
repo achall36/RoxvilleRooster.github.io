@@ -8,7 +8,7 @@ permalink: /rippers_planning/
 
 ### NPCs
 
-#### Resourceful and independent woman
+#### Resourceful and independent custodian of the lodge
 
 Angela Miller
 
@@ -19,59 +19,58 @@ Hindrances:
 Edges:
 
 Notable characteristics:
-*
-*
+* Strong chin
+* Masculine clothing
+* Won't tolerate a man's nonsense
 
-#### Distinguished Indian gentleman and cook
+#### Cook and lodge manager
 
 Darjan "Edward" Patel
 
-Cook and lodge manager
-
-Hindrances:
+Hindrances: Loyal
 
 Edges:
 
 Notable characteristics:
 * Rippertech implant (enhance taste? poison detection?)
-*
+* Unfailingly decorous
+* Strangers find him inscrutable
+* Middle-aged man who has traveled the world and served in the [2nd Lancers](https://en.wikipedia.org/wiki/2nd_Lancers_(Gardner%27s_Horse).
 
 
-#### Business-like alienist
+#### Business-like alienist and partner of Dr. Crabbe
 
 Dr. Harvey Tyson
 
-Alienist and partner of Dr. Crabbe
-
 Hindrances:
 
 Edges:
 
 Notable characteristics:
-*
-*
+* Upper-class professional
+* Sensitive to the respectability of the lodge
+* Never seen without his top hat and monocle
+* Looks down upon the lower classes and avoids speaking to them
 
 
-#### Working class lad in the service of the lodge
+#### Working class lad from the streets now in the service of the lodge
 
 Oliver McLeod
 
-Street kid befriended by the PCs
+Hindrances: Loyal, Heroic
 
-Hindrances:
-
-Edges:
+Edges: Fleet-footed
 
 Notable characteristics:
-*
-*
+* Streetwise
+* Not afraid of a scrape
+* Wants to be treated like a grown up
+* Loves being part of the Lodge staff and wants to be a Ripper
 
 
-#### Wealthy Dorset-based gentleman
+#### Wealthy Dorset-based gentleman, potential patron of the Rippers
 
 Sir William Bankes
-
-Potential patron of the Rippers
 
 Hindrances: Code of Honor, Habit (minor, "I like to bet on the ponies now and then")
 
@@ -80,26 +79,67 @@ Edges: Filthy Rich, Aristocrat, Scholar (Academics), Charismatic
 Notable characteristics:
 * Approachable and has a common touch
 
-#### Butler to Bankes
+
+#### Capable head butler to Bankes
 
 John Petry
-Capable servant
 
 Hindrances:
 
 Edges:
 
 Notable characteristics:
-*
-*
+* Hooked nose
+* Barrel chest
+* Crooked front teeth under a large mustache
+
+#### Muslim archaeologist
+
+Omar Mohammed
+
+Hindrances: Hesitant (minor)
+
+Edges: Scholar
+
+Notable characteristics:
+* Speaks Farsi
+* Specialist in Egyptology and Near Eastern civilization
+* Bookish
+
+
+#### Retired army officer and businessman
+
+Prothero Armstrong
+
+Hindrances: Ugly (minor), Greedy (minor), Habit (gambling)
+
+Edges: Charismatic, Rich, Soldier
+
+Notable characteristics:
+* Distinctive scar on right cheek which is partially concealed by mutton-chop facial hair
+* Balding  
+* Military bearing
+* Gregarious
+
+
+#### Italian art collector
+
+Enrico Gambuccini
+
+Hindrances: Obligation (Major, in the service of the Vatican), Suspicious (minor)
+
+Edges: Scholar, Trademark weapon (Castilian rapier)
+
+Notable characteristics:
+* Obviously a man of culture
+* Acerbic wit
+* Elegant and well dressed
 
 
 
-#### Enigmatic masked crusader heroine
+#### Enigmatic masked crusader heroine and vampire hunter
 
 Amelie Matteau (a/k/a _Oubliette_)
-
-Masked crusader and skilled vampire hunter
 
 Hindrances: Small
 

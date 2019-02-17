@@ -428,7 +428,7 @@ Notable characteristics:
 * Experienced fighting the Cabal
 * Mentor to Lingke
 
-#### Unassuming faction leader
+#### Unassuming leader of the Order of St. George in London
 
 Maureen West
 
@@ -442,6 +442,34 @@ Notable characteristics:
 * Great people skills
 * Organizing force behind the Order of St. George in London
 * The real "power" behind the London organization
+
+#### Muscle for the Order of St. George faction in London
+
+Avhrohom "Avro" Kanganamann
+
+Edges: Brawny, Brawler, Martial Artist, Two-fisted
+
+Hindrances: Heroic, Vow (Major)
+
+Notable characteristics:
+* Wild hair and beard
+* Wears an ill-fitting suit
+* Has a surprisingly good singing voice and is the cantor for his synagogue
+* Professional boxer
+
+
+#### Stern face of the Order of St. George faction in London
+
+Pastor Gordon Taverner
+
+Edges: Charismatic, Alertness, Streetwise
+
+Hindrances: Loyal, Vow (Major)
+
+Notable characteristics:
+* Lower-middle class Methodist preacher
+* Quotes scripture
+* Has a great ear for what is happening on the street
 
 ###  Disgruntled retired officer
 

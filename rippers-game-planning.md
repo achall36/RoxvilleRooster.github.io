@@ -204,6 +204,21 @@ Notable characteristics:
 * Inconsolable after the recent death of his mother, Abigail Abbott
 * Has the "lion hound" ( _Crocotta_ ) statue
 
+
+#### Protégé of Shenlong
+
+"Johnny Lawrence"
+
+Edges:
+
+Hindrances: Poverty (minor), Vengeful (minor), Young (Major)
+
+Notable characteristics:
+* Smart-arse kid
+* Admires Shenlong
+
+
+
 #### Butler of 'ailing aristocrat'
 
 Reynolds (really Reynaud)

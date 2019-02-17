@@ -124,7 +124,7 @@ Notable characteristics:
 
 Enrico Gambuccini
 
-Hindrances: Obligation (Major, in the service of the Vatican), Suspicious (minor)
+Hindrances: Obligation (Major, in the service of the Vatican), Suspicious (minor), Slow (minor)
 
 Edges: Scholar, Trademark weapon (Castilian rapier)
 
@@ -132,6 +132,7 @@ Notable characteristics:
 * Obviously a man of culture
 * Acerbic wit
 * Elegant and well dressed
+* Walks with a slight limp
 
 
 

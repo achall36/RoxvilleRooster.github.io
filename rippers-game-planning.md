@@ -191,6 +191,7 @@ Notable characteristics:
 * In poor health since his return from Rome
 * Purchased the _Crocotta_ statue and gave it to his son Fulton
 * A bit sweaty
+* Well-known antiquarian and traveler
 
 
 #### Young son of 'ailing aristocrat'
@@ -304,7 +305,7 @@ Notable characteristics:
 * Well-known party-goer and bon-vivant
 * Superior polo player
 * Fine horseman
-* Gallant solider
+* Gallant solider and former officer of the Queen's Lancers
 * Visited recently by tragedy (dead wife, forced to retire for some mysterious reason)
 * Now down on his luck and "couch surfing" with aristocrats and public school chums
 * Has a "dark aura" over him; he was cursed in Afghanistan

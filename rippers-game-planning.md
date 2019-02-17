@@ -12,8 +12,6 @@ permalink: /rippers_planning/
 
 Angela Miller
 
-Custodian of the lodge
-
 Hindrances:
 
 Edges:
@@ -42,9 +40,9 @@ Notable characteristics:
 
 Dr. Harvey Tyson
 
-Hindrances:
+Hindrances: Cautious (minor), Can't swim (minor)
 
-Edges:
+Edges: Scholar
 
 Notable characteristics:
 * Upper-class professional

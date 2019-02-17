@@ -146,9 +146,11 @@ Edges: Very Attractive, Aristocrat, Thief, Assassin, Acrobat, Improved Extractio
 
 Notable characteristics:
 * Thin and diminutive, appears like a harmless young woman/student
-* Striking green eyes
+* Elegant
+* Striking green eyes,  strong cheek bones, short black hair
 * Plays deferential and demure
 * Attempts to blend into the background
+* Has a deadly reputation amongst the Rippers
 
 
 #### Daughter of 'Important man of the cloth'

@@ -11,6 +11,7 @@ permalink: /rippers_planning/
 #### Resourceful and independent woman
 
 Angela Miller
+
 Custodian of the lodge
 
 Hindrances:
@@ -24,6 +25,7 @@ Notable characteristics:
 #### Distinguished Indian gentleman and cook
 
 Darjan "Edward" Patel
+
 Cook and lodge manager
 
 Hindrances:
@@ -38,6 +40,7 @@ Notable characteristics:
 #### Business-like alienist
 
 Dr. Harvey Tyson
+
 Alienist and partner of Dr. Crabbe
 
 Hindrances:
@@ -52,6 +55,7 @@ Notable characteristics:
 #### Working class lad in the service of the lodge
 
 Oliver McLeod
+
 Street kid befriended by the PCs
 
 Hindrances:
@@ -66,6 +70,7 @@ Notable characteristics:
 #### Wealthy Dorset-based gentleman
 
 Sir William Bankes
+
 Potential patron of the Rippers
 
 Hindrances: Code of Honor, Habit (minor, "I like to bet on the ponies now and then")
@@ -93,6 +98,7 @@ Notable characteristics:
 #### Enigmatic masked crusader heroine
 
 Amelie Matteau (a/k/a _Oubliette_)
+
 Masked crusader and skilled vampire hunter
 
 Hindrances: Small

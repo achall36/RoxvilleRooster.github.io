@@ -447,7 +447,7 @@ Notable characteristics:
 
 Avhrohom "Avro" Kanganamann
 
-Edges: Brawny, Brawler, Martial Artist, Two-fisted
+Edges: Brawny, Brute, Bruiser, Block, Martial Artist, Two-fisted
 
 Hindrances: Heroic, Vow (Major)
 

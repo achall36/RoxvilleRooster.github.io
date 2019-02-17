@@ -394,7 +394,7 @@ Notable characteristics:
 
 #### Shadowy woman
 
-_Unknown_ but really Olga Fedotenko (a/k/a "Siter Yaga")
+_Unknown_ but really Halyna Mikhailovna Voronina (a/k/a "Siter Yaga")
 
 An allied Ripper who is watching the PCs from the sidelines.
 

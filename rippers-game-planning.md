@@ -458,6 +458,25 @@ Notable characteristics:
 * Professional boxer
 
 
+#### Catholic envoy for the Order of St. George faction in London
+
+Father Michael Muldoon
+
+Notable characteristics:
+* In his mid-fifties with silver hair
+* Wears tortoiseshell horn-rimmed glasses
+* Walks with a walking stick that has boar's head handle  
+
+#### Jewish envoy for the Order of St. George faction in London
+
+Rabbi Saul Fischer
+
+Notable characteristics:
+* 
+
+
+
+
 #### Stern face of the Order of St. George faction in London
 
 Pastor Gordon Taverner

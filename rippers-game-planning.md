@@ -134,6 +134,19 @@ Notable characteristics:
 * Elegant and well dressed
 * Walks with a slight limp
 
+#### Ambitious rival to Statnon
+
+Victor Cousins
+
+Edges: Scholar
+
+Notable characteristics:
+* Gregarious and well liked
+* Handsome and charming  
+* Energetic and impulsive
+* Lives beyond his means
+* Has multiple vices
+* Frustrated by his station and wants to advance
 
 
 #### Enigmatic masked crusader heroine and vampire hunter
@@ -469,10 +482,10 @@ Notable characteristics:
 
 #### Jewish envoy for the Order of St. George faction in London
 
-Rabbi Saul Fischer
+Rabbi Saul Rosen
 
 Notable characteristics:
-* 
+*
 
 
 

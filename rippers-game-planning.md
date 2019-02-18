@@ -134,7 +134,7 @@ Notable characteristics:
 * Elegant and well dressed
 * Walks with a slight limp
 
-#### Ambitious rival to Statnon
+#### Ambitious rival to Stanton
 
 Victor Cousins
 

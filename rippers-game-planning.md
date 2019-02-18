@@ -134,7 +134,7 @@ Notable characteristics:
 * Elegant and well dressed
 * Walks with a slight limp
 
-#### Ambitious rival to Stanton
+#### Ambitious academic and rival to Stanton
 
 Victor Cousins
 

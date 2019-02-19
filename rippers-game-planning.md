@@ -148,6 +148,18 @@ Notable characteristics:
 * Has multiple vices
 * Frustrated by his station and wants to advance
 
+#### Dean at University College London
+
+Edmond Barrett
+
+Edges: Scholar, Rich, Aristocrat
+
+Notable characteristics:
+* Supercilious
+* Overly cautious
+* Avoids conflict
+* Hides a secret lifestyle
+
 
 #### Enigmatic masked crusader heroine and vampire hunter
 

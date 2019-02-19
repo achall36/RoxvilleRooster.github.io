@@ -136,7 +136,7 @@ Notable characteristics:
 
 #### Ambitious academic and rival to Stanton
 
-Victor Blakeny
+Victor Blakeney
 
 Edges: Scholar
 

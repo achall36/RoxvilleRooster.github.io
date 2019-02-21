@@ -150,7 +150,7 @@ Notable characteristics:
 
 #### Dean at University College London
 
-Edmond Barrett
+Henry Archer
 
 Edges: Scholar, Rich, Aristocrat
 
@@ -159,6 +159,18 @@ Notable characteristics:
 * Overly cautious
 * Avoids conflict
 * Hides a secret lifestyle
+* Short
+
+#### Explorer and man of science
+
+Edmond Barnes
+
+Edges: Woodsman
+
+Notable characteristics:
+* Tall and lanky
+* Blond and balding
+* Known for his distinctive guffaw
 
 
 #### Enigmatic masked crusader heroine and vampire hunter

@@ -580,6 +580,10 @@ Notable characteristics:
 * Historian and scholar of Great Britain and North America
 * Aloof son and brother
 
+#### Key Rosicrucian contact
+
+Jules Belliiveau
+
 
 
 ## Images
